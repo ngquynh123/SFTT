@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Model outputs (exclude some, allow specific ones)
+# output*/ - commented out to allow output-phogpt-lora/
+!output-phogpt-lora/
+# out*/ - commented out to allow out-phogpt-lora/
+!out-phogpt-lora/
+*.bin
+*.safetensors
+training_args.bin
+
+# Allow specific files in model directories
+!out-phogpt-lora/*.json
+!out-phogpt-lora/README.md
+!out-phogpt-lora/*.safetensors
+!output-phogpt-lora/*.json
+!output-phogpt-lora/README.md
+!output-phogpt-lora/*.safetensors
+
+# But keep README files in output directories
+!*/README.md
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp

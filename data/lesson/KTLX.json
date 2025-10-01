@@ -1,0 +1,926 @@
+[
+  {
+    "_id": "e4aef93b-74b3-445b-a0bd-d198838a7723",
+    "subject_id": 3,
+    "lesson": 1,
+    "tittle": "Các bộ phận điều khiển chuyển động của xe.",
+    "chunks": [
+      {
+        "_id": "f5788e92-e1b0-4c48-9aa4-d0c5e2c75657",
+        "text": "Vô lăng: Dùng để giữ và thay đổi hướng đi của xe, một số loại xe có thể điều chỉnh được vị trí vô lăng để phù hợp với người lái."
+      },
+      {
+        "_id": "29a7b040-f1cc-4e5b-9ab3-fbbb743ac912",
+        "text": "Khóa điện: Dùng để khởi động hoặc tắt động cơ, gồm loại khóa chìa và khóa nút bấm."
+      },
+      {
+        "_id": "870fa9ad-fcd1-4b41-b654-fffdf0b54403",
+        "text": "Phanh tay: Hỗ trợ đỗ xe hoặc bổ trợ phanh chân trong tình huống khẩn cấp, phanh tay cơ khí điều khiển bằng cần, còn phanh tay điện tử điều khiển bằng công tắc."
+      },
+      {
+        "_id": "bec7cc58-7589-46ed-83cb-1b18cf623dbc",
+        "text": "Bàn đạp ly hợp: Ngắt hoặc nối lực kéo từ động cơ đến hộp số, đạp ly hợp bằng chân trái, khi đạp thì ngắt, khi thả thì nối."
+      },
+      {
+        "_id": "4d9db61a-5e56-40b1-994d-a6627fd2d422",
+        "text": "Bàn đạp phanh (phanh chân): Dùng để giảm tốc độ hoặc dừng xe, thao tác bằng chân phải."
+      },
+      {
+        "_id": "0e276c9a-1788-416f-81ed-c5e63bf82c01",
+        "text": "Bàn đạp ga: Tương tự tay ga xe máy, dùng để tăng hoặc giảm tốc độ xe bằng cách điều chỉnh lượng nhiên liệu vào động cơ."
+      },
+      {
+        "_id": "d02be82b-801d-43a5-b5fb-1a5487a48c9f",
+        "text": "Cần số: Điều chỉnh tỷ số truyền giữa động cơ và bánh xe, giúp xe vận hành hiệu quả trên các loại địa hình."
+      }
+    ]
+  },
+  {
+    "_id": "a0c53dfc-e881-4b7d-967f-32914164ed7c",
+    "subject_id": 3,
+    "lesson": 2,
+    "tittle": "Các bộ phận điều khiển và theo dõi tín hiệu, cảnh báo của xe.",
+    "chunks": [
+      {
+        "_id": "8087c729-c5df-4bd6-9e51-4461b663e422",
+        "text": "Còi điện: Chỉ dùng để cảnh báo nguy hiểm cho những người sử dụng đường khác, không bấm còi vì các mục đích khác và từ 22 giờ đến 5 giờ sáng hôm sau."
+      },
+      {
+        "_id": "8adef3fa-4c00-413d-9376-9502cecc2fc0",
+        "text": "Đèn khẩn cấp: Chỉ sử dụng khi xe gặp sự cố đang di chuyển hay phải đỗ trên đường.nĐèn chiếu sáng và đèn tín hiệu: Chú ý đèn cảnh báo trên bảng táp lô về hoạt động của đèn."
+      },
+      {
+        "_id": "c3dd9870-31fd-4e19-b171-1892802d8869",
+        "text": "Điều chỉnh gương chiếu hậu ngoài: Phải được điều chỉnh giảm tối đa điểm mù."
+      },
+      {
+        "_id": "73710111-b67d-451e-8550-e9b2ce9df4be",
+        "text": "Đồng hồ và đèn cảnh báo: Liên tục quan sát đồng hồ và đèn cảnh báo lúc khởi hành và trong khi lái xe."
+      }
+    ]
+  },
+  {
+    "_id": "5b1b13dc-d2be-46fd-8d20-1aa7650cba50",
+    "subject_id": 3,
+    "lesson": 3,
+    "tittle": "Điều hòa không khí và giải trí trên xe.",
+    "chunks": [
+      {
+        "_id": "f7621525-c667-4d76-b134-257f7f163210",
+        "text": "Hệ thống điều hòa: Hệ thống điều hòa giúp duy trì nhiệt độ và độ ẩm thích hợp bên trong xe, tạo cảm giác thoải mái cho người lái và hành khách trong mọi điều kiện thời tiết.Điều chỉnh kính cửa: Chức năng điều chỉnh kính cửa cho phép người lái và hành khách dễ dàng mở hoặc đóng cửa sổ, giúp thông gió tự nhiên hoặc bảo vệ khỏi thời tiết bên ngoài."
+      },
+      {
+        "_id": "e386107a-68b9-4b3d-98ea-75cc50b0b67b",
+        "text": "Gạt nước, phun nước rửa kính: Hệ thống gạt nước và phun nước rửa kính đảm bảo kính chắn gió luôn sạch sẽ, giúp cải thiện tầm nhìn của người lái, đặc biệt trong điều kiện mưa hoặc bụi bẩn."
+      },
+      {
+        "_id": "0ff69a44-6d79-46c5-af7f-28d8da87a943",
+        "text": "Hệ thống giải trí: Hệ thống giải trí cung cấp âm nhạc, radio, hoặc kết nối thiết bị thông minh, giúp tạo không gian thư giãn và giảm căng thẳng khi lái xe."
+      }
+    ]
+  },
+  {
+    "_id": "de92182a-2681-4e25-940d-6acc770834b8",
+    "subject_id": 3,
+    "lesson": 4,
+    "tittle": "Chuẩn bị và kiểm tra.",
+    "chunks": [
+      {
+        "_id": "35c2cf22-c48f-44c8-a094-15546037eefd",
+        "text": "Trước khi lái xe, người điều khiển cần chuẩn bị trang phục gọn gàng, không quá chật, đi giày đế thấp;"
+      },
+      {
+        "_id": "51f8d787-0d9c-4919-9ab3-e0b6f87bd638",
+        "text": "tuyệt đối không đi dép lê hoặc giày cao gót."
+      },
+      {
+        "_id": "f2d24ff1-e235-4f87-b96f-b3606c9b4895",
+        "text": "Trước khi đưa xe ra khỏi chỗ đỗ, cần kiểm tra áp suất hơi, độ mòn và các dấu hiệu bất thường ở lốp xe; kiểm tra sự rò rỉ các loại chất lỏng trong xe;"
+      },
+      {
+        "_id": "09808dd0-0191-4c87-94e2-fe8d425fe949",
+        "text": "đảm bảo cửa kính, gương chiếu hậu và các loại đèn hoạt động tốt;"
+      },
+      {
+        "_id": "7379bfc7-57b1-4cdc-ad43-f3a9219761fe",
+        "text": "đồng thời quan sát an toàn phía trước, sau, hai bên và dưới gầm xe."
+      },
+      {
+        "_id": "6adaa40c-f2f5-408a-83c4-ab709cbef134",
+        "text": "Khi lên xe, hãy kiểm tra an toàn xung quanh, sau đó mở cửa và vào xe;"
+      },
+      {
+        "_id": "3d80ab43-642a-4592-9aba-897803958bd7",
+        "text": "nam giới nên đưa chân phải vào trước, tay phải nắm vô lăng, tay trái giữ cánh cửa, ngồi vào ghế rồi đưa chân trái vào và đóng cửa;"
+      },
+      {
+        "_id": "f1839bb2-d3de-4c60-ab95-7b7e175beed8",
+        "text": "nữ mặc váy nên ngồi lên ghế trước, dùng tay phải chống xuống ghế, xoay người để đưa hai chân vào xe, rồi dùng tay trái đóng cửa;"
+      },
+      {
+        "_id": "f8453d69-0287-435b-b796-943f9615d68f",
+        "text": "đặt bàn chân phải dưới bàn đạp ga và chân trái dưới bàn đạp ly hợp;"
+      },
+      {
+        "_id": "a404737f-a6b4-40da-ad0b-5ee27c71ca59",
+        "text": "từ từ khép cửa, khi khe hở còn nhỏ thì đóng mạnh, sau đó chốt khóa cửa và cài dây an toàn. Khi xuống xe, cần tháo dây an toàn và quan sát bên hông xe;"
+      },
+      {
+        "_id": "b3a8ef5d-06be-4753-b949-a8dec00d8737",
+        "text": "kiểm tra an toàn phía sau để đảm bảo không va chạm khi có xe khác đang đến; mở chốt cửa, mở cửa vừa đủ để ra ngoài;"
+      },
+      {
+        "_id": "a8159e38-e60c-45fd-b673-23331ca3377a",
+        "text": "nam nên đưa chân trái ra trước, xoay người ra khỏi xe rồi đóng cửa;"
+      },
+      {
+        "_id": "bdbadb71-8c33-4b4c-9baa-551d19d00e6a",
+        "text": "nữ mặc váy nên đưa hai chân ra trước, đứng dậy bước ra ngoài và đóng cửa xe."
+      }
+    ]
+  },
+  {
+    "_id": "6e9cb517-a751-489a-9b24-6b1de54e1804",
+    "subject_id": 3,
+    "lesson": 5,
+    "tittle": "Điều chỉnh ghế lái, gương chiếu hậu và cài dây an toàn.",
+    "chunks": [
+      {
+        "_id": "2095ce8f-551f-4b03-8e9d-4093aecb1a26",
+        "text": "Điều chỉnh ghế lái là bước quan trọng vì tư thế ngồi không chỉ ảnh hưởng đến sức khỏe mà còn quyết định sự an toàn khi lái xe."
+      },
+      {
+        "_id": "976c7020-9c15-4c1d-b001-e134ca188090",
+        "text": "Người lái cần điều chỉnh ghế sao cho đúng tư thế."
+      },
+      {
+        "_id": "8f142e99-b7e8-4b17-bac1-b1400d22c7ec",
+        "text": "Các bước điều chỉnh ghế, gồm cả cơ khí và điện, bao gồm: điều chỉnh tiến/lùi ghế, độ nghiêng tựa lưng, chiều cao ghế, vị trí tựa đầu, và tư thế ngồi sao cho đạt góc tối ưu giữa chân, đùi và tay."
+      },
+      {
+        "_id": "5ee9dfef-ff16-47b4-a5c5-800bb21f9b9b",
+        "text": "Điều chỉnh gương chiếu hậu cũng rất quan trọng để đảm bảo tầm nhìn tối đa từ bên trong xe và giảm thiểu các điểm mù."
+      },
+      {
+        "_id": "242c8950-b157-4d93-bdd5-aff8f1a85104",
+        "text": "Gương chiếu hậu trong xe cần được điều chỉnh đúng và có thể sử dụng chế độ ngày/đêm để tránh chói mắt vào ban đêm."
+      },
+      {
+        "_id": "41f01b07-ff63-4485-89cc-eca68d50e219",
+        "text": "Gương chiếu hậu ngoài xe nên được điều chỉnh sao cho người lái có thể nhìn thấy một phần thân xe, đồng thời quan sát tốt giao thông phía sau và hai bên."
+      },
+      {
+        "_id": "ee375698-fff3-4e08-a71f-817f4cee45e2",
+        "text": "Cài dây an toàn là bước không thể bỏ qua trước khi bắt đầu di chuyển."
+      },
+      {
+        "_id": "ad5f52f7-8ee5-435b-ad7a-af2f31d22224",
+        "text": "Người lái cần biết cách cài dây an toàn đúng cách, không chỉ cho mình mà còn cho phụ nữ mang thai và trẻ em."
+      },
+      {
+        "_id": "5d68c0ce-daf7-45a6-ad58-7b346888d23e",
+        "text": "Ngoài ra, cần điều chỉnh dây sao cho phù hợp với chiều cao và tư thế ngồi để đảm bảo vừa an toàn, vừa thoải mái trong suốt hành trình."
+      }
+    ]
+  },
+  {
+    "_id": "bc85c68a-7ace-4c8b-b8ed-8640b3974452",
+    "subject_id": 3,
+    "lesson": 6,
+    "tittle": "Thao tác với vô lăng và các bàn đạp.",
+    "chunks": [
+      {
+        "_id": "7125953b-5118-4015-a7d7-d6f5ee71ac5f",
+        "text": "Thao tác cầm vô lăng lái cần được thực hiện đúng kỹ thuật để đảm bảo kiểm soát xe hiệu quả."
+      },
+      {
+        "_id": "87032ddf-0f3a-4b24-88ef-0afe53d052d1",
+        "text": "Tay trái nên đặt ở vị trí từ 9 đến 10 giờ, còn tay phải đặt ở vị trí từ 2 đến 4 giờ, theo mặt đồng hồ;"
+      },
+      {
+        "_id": "facb1650-c70b-4efd-8cac-75ef9550d7ac",
+        "text": "ngón tay cái đặt dọc theo vành vô lăng, vai và tay giữ ở tư thế thả lỏng tự nhiên.Khi điều khiển vô lăng ở tốc độ cao, hãy cầm vô lăng tại vị trí 10 giờ với tay trái và 2 giờ với tay phải."
+      },
+      {
+        "_id": "2e1086de-c0a8-4270-9de5-f8e592c16847",
+        "text": "Khi cần chuyển hướng và trả lái, hãy kéo và trả vô lăng một cách nhẹ nhàng, linh hoạt.Ở tốc độ thấp, việc điều khiển vô lăng cần được thực hiện chậm rãi và đều theo từng bước nhỏ;"
+      },
+      {
+        "_id": "01dee100-d4a8-495c-91f8-8e74cbd33cc1",
+        "text": "khi xoay được khoảng nửa vòng vô lăng, hãy chuyển tay đang ở vị trí thấp lên trên để tiếp tục điều khiển."
+      },
+      {
+        "_id": "5f173876-0bbf-484c-9268-0baafa1d1011",
+        "text": "Khi muốn trả lái, thực hiện thao tác ngược lại một cách đều đặn.Về thao tác đạp bàn đạp ly hợp, người lái cần đạp dứt khoát và chia thành ba giai đoạn: đầu tiên là đạp hết phần hành trình tự do, tiếp theo là nửa hành trình, và cuối cùng là toàn bộ hành trình ly hợp.Khi nhả bàn đạp ly hợp, nên nhả nhanh 2/3 hành trình đầu, sau đó nhả từ từ 1/3 còn lại để tăng mô-men quay, tránh tình trạng rung giật xe.Đối với bàn đạp ga, đặt khoảng 2/3 phần trước của bàn chân phải lên bàn đạp, phần gót chân tì xuống sàn để làm điểm tựa."
+      },
+      {
+        "_id": "10ac6b3c-5b94-438b-9f0a-f9782c945598",
+        "text": "Tăng ga nhẹ nhàng khi khởi hành và tăng tốc từ từ khi xe đang di chuyển.Còn khi sử dụng bàn đạp phanh, chuyển chân từ bàn đạp ga sang phanh, đạp bằng phần mũi chân."
+      },
+      {
+        "_id": "fa322714-169f-433f-b037-96afdba84bc9",
+        "text": "Trong trường hợp cần phanh gấp, hãy đạp phanh thật mạnh, đồng thời giữ cho gót chân không chạm sàn xe."
+      },
+      {
+        "_id": "c8a565f3-768f-4a1a-b427-fc266ee2f4ca",
+        "text": "Sau đó, nhả phanh nhanh chóng và chuyển chân trở lại bàn đạp ga nếu cần tăng tốc trở lại."
+      }
+    ]
+  },
+  {
+    "_id": "22062ab3-ecb0-44c9-ae97-b59279395580",
+    "subject_id": 3,
+    "lesson": 7,
+    "tittle": "Thao tác với cần số.",
+    "chunks": [
+      {
+        "_id": "d7a2d7f6-4f63-4f99-b801-970ba1f530f5",
+        "text": "Với xe số cơ khí, người lái cần đạp hết bàn đạp ly hợp trước khi chuyển số, tăng số theo thứ tự từ 0 đến 5."
+      },
+      {
+        "_id": "22a21ce8-dfbe-49e3-a3ab-7884512532b9",
+        "text": "Khi nhả ly hợp, nên nhả nhanh 2/3 hành trình đầu và từ từ 1/3 cuối để tránh xe bị giật."
+      },
+      {
+        "_id": "0a7040a6-bcbd-4454-9f1a-33b706b6a9e1",
+        "text": "Khi vào số lùi (R), phải đưa cần số về số 0, đạp hết ly hợp rồi gạt cần số vào vị trí số lùi;"
+      },
+      {
+        "_id": "6fbdec1a-b8a0-47f2-ad21-aeecc949092b",
+        "text": "một số xe cần mở khóa hãm trước khi vào số lùi."
+      },
+      {
+        "_id": "fea1a4d2-5209-47e9-b44e-e49a66afcf0c",
+        "text": "Đối với xe số tự động, cần nhớ các ký hiệu: P để đỗ, R để lùi, N là số trung gian, D số tiến bình thường, còn số 2 và 1 sử dụng cho các trường hợp đặc biệt khi leo dốc, xuống dốc hoặc đường trơn."
+      },
+      {
+        "_id": "e7af9a44-b190-47ec-a0f0-eeca0e3f666e",
+        "text": "Khi chuyển số, nhất là từ P sang R hoặc D, cần đạp phanh để đảm bảo an toàn."
+      },
+      {
+        "_id": "0f88c75b-b0a4-4b7b-9c30-6c9ffe2be6ca",
+        "text": "Một số lưu ý :Trước khi khởi hành, kiểm tra số về 0 hoặc N hoặc P;"
+      },
+      {
+        "_id": "3e3aaa23-baf3-41ae-b0b5-d33692994636",
+        "text": "khi dừng hoặc đỗ xe, phải cài số P và kéo phanh tay để tránh xe tự chuyển động;"
+      },
+      {
+        "_id": "698a4097-d5cf-48f9-b758-ff98a8cc0d05",
+        "text": "xuống dốc dài nên dùng số thấp ( 2 hoặc 1) để tận dụng lực hãm động cơ."
+      }
+    ]
+  },
+  {
+    "_id": "adfaa0fe-0aa0-49f3-84cf-f412e4b7a22b",
+    "subject_id": 3,
+    "lesson": 8,
+    "tittle": "Khởi động và tắt động cơ.",
+    "chunks": [
+      {
+        "_id": "cceec5ac-d772-4a53-8428-3f2704d91cae",
+        "text": "Trước khi khởi động động cơ, cần kiểm tra mức dầu bôi trơn bằng thước thăm dầu, mức nước làm mát (bổ sung nếu thiếu), kiểm tra lượng nhiên liệu trong thùng và độ chặt của đầu nối ở cực ắc quy."
+      },
+      {
+        "_id": "eade0077-3078-466e-ac93-f4a2c056753e",
+        "text": "Với xe số sàn dùng động cơ xăng, cài số 0, đạp hết ly hợp rồi vặn chìa khóa đến vị trí START."
+      },
+      {
+        "_id": "b611b11a-0a28-4215-bf7a-1a00e6937042",
+        "text": "Với xe số tự động, đạp phanh, kiểm tra cần số ở vị trí P hoặc N rồi vặn chìa hoặc bấm nút START."
+      },
+      {
+        "_id": "1335e804-f0b3-490b-b56f-ad10b8ea9619",
+        "text": "Với xe số sàn dùng động cơ dầu, phải sấy nóng buồng đốt trước bằng cách vặn chìa đến vị trí ON, chờ đèn sấy tắt rồi mới khởi động."
+      },
+      {
+        "_id": "17ec33b0-dae9-44d8-97c4-f9baa215a087",
+        "text": "Lưu ý mỗi lần khởi động không quá 5 giây, nếu sau 3 lần vẫn không nổ thì cần kiểm tra lại trước khi thử tiếp."
+      },
+      {
+        "_id": "a7ae6fc2-391c-4058-9699-9258eaaa958f",
+        "text": "Khi tắt máy, với động cơ xăng nên giảm ga và chờ 1–2 phút trước khi xoay chìa khóa về LOCK, còn với động cơ Diesel nên chờ khoảng 3 phút để làm mát động cơ trước khi tắt."
+      }
+    ]
+  },
+  {
+    "_id": "5f9bf646-276d-42aa-bc5a-43db4a236501",
+    "subject_id": 3,
+    "lesson": 9,
+    "tittle": "Khởi hành, dừng và tăng giảm.",
+    "chunks": [
+      {
+        "_id": "9afa90d9-026f-4ec5-affc-41d2636ccd51",
+        "text": "Số cơ khí: Trước khi khởi hành, cần bật xi nhan trái, kiểm tra an toàn hai bên hông xe và phía trước, phía sau qua gương chiếu hậu, đồng thời quay đầu quan sát. Khi khởi hành, cài số 1, nhả ly hợp đúng quy trình (2/3 đầu nhanh, 1/3 sau từ từ), đồng thời tăng ga nhẹ và nhả phanh tay. Khi tăng số, thực hiện tuần tự từ thấp đến cao, tăng ga trước rồi chuyển số, nhả ly hợp nhanh hơn khi lên số cao. Ngược lại, khi giảm số thì giảm ga, cài số từ cao xuống thấp, sau đó nhả ly hợp từ từ và tăng ga nhẹ để duy trì tốc độ mong muốn. Khi cần giảm tốc độ, có thể dùng phanh động cơ bằng cách nhả ga, động cơ hoạt động ở chế độ không tải để giảm tốc độ; đối với phanh ô tô: sử dụng chân phanh để giảm tốc hoặc dừng xe, đặc biệt khi phanh gấp thì cần cắt ly hợp để tránh tắt máy; hoặc phối hợp cả ba loại phanh (động cơ, chân, tay) khi xuống dốc hay đường trơn trượt. Khi dừng xe, giảm ga, bật xi nhan phải, rà phanh và cho xe vào làn trong cùng bên phải, dừng song song với vỉa hè, đạp ly hợp, về số 0, kéo phanh tay, tắt máy, rút chìa và chèn bánh nếu cần thiết. Số tự động.Khi khởi hành với xe số tự động, người lái cần đạp phanh, kiểm tra cần số đang ở vị trí P hoặc N, sau đó chuyển cần số sang D để bắt đầu di chuyển, nhả phanh tay, thả dần bàn đạp phanh và tăng ga nhẹ để xe lăn bánh. Đối với thao tác tăng số của xe ô tô số tự động, việc tăng số không cần thao tác thủ công vì hộp số tự động sẽ tự chuyển số dựa theo tốc độ và lực kéo; chỉ cần đạp ga nhẹ và ổn định; để tăng tốc chỉ cần đạp nhẹ bàn đạp ga và duy trì áp lực ổn định để hộp số tự chuyển lên số cao. Khi giảm tốc, hộp số tự động cũng tự chuyển về số thấp, tuy nhiên, người lái có thể hỗ trợ bằng cách chuyển sang chế độ S (sport) hoặc sử dụng lẫy chuyển số nếu có để tăng lực kéo khi cần, như khi xuống dốc hoặc vượt vật cản. Để giảm tốc độ, có thể sử dụng phanh động cơ bằng cách nhả ga và để xe giảm tốc tự nhiên qua lực cản của động cơ ( đặc biệt hiệu quả khi xe đang ở số thấp); phanh ô tô: nhả bàn đạp chuyển chân sang đạp bàn đạp phanh với lực phù hợp để giảm tốc độ; khi đi đường trơn hoặc xuống dốc dài, nên chuyển về số thấp như 2 hoặc L và kết hợp phanh chân, trong trường hợp khẩn cấp có thể dùng phanh tay hỗ trợ. Khi muốn dừng xe, người lái giảm ga, bật xi nhan phải, rà phanh và chuyển xe vào làn trong cùng bên phải, dừng song song vỉa hè, giữ phanh cho xe dừng hẳn, chuyển cần số về P, kéo phanh tay, tắt máy và rút chìa khóa hoặc nhấn nút nếu xe dùng nút khởi động; nếu xe đỗ ở dốc, nên chèn bánh để đảm bảo an toàn."
+      }
+    ]
+  },
+  {
+    "_id": "09269eb6-caff-47b1-aaf9-9d177832ab71",
+    "subject_id": 3,
+    "lesson": 10,
+    "tittle": "Lùi xe và ghép dọc vào nơi đổ.",
+    "chunks": [
+      {
+        "_id": "2a82f35e-8dba-41d9-ac92-884ce9ecc1bb",
+        "text": "Trước khi lùi xe, cần kiểm tra an toàn bằng cách quan sát qua gương chiếu hậu trái, phải và trong xe, đồng thời quay đầu hoặc nhìn qua vai để quan sát phía sau, sử dụng cảm biến lùi và camera chiếu hậu để quan sát điểm mù."
+      },
+      {
+        "_id": "84c3f584-0f0d-40a9-b4f7-6336bf8cdead",
+        "text": "Khi lùi, nên giữ tư thế lái đúng với tay nắm phần trên vô lăng, quan sát gương chiếu hậu hoặc quay hẳn đầu ra ngoài;"
+      },
+      {
+        "_id": "a0564b11-6b35-4696-8784-45a3d0137eaa",
+        "text": "điều chỉnh tốc độ lùi chậm bằng cách đạp nhẹ ga và kiểm soát bằng bàn đạp ly hợp, nếu lệch hướng thì dừng xe và tiến lên để điều chỉnh."
+      },
+      {
+        "_id": "edf8ccde-59f6-47ce-87ae-011fce013656",
+        "text": "Khi lùi ghép dọc vào nơi đỗ, đi chậm và bật xi nhan phải khi tìm chổ đổ, quan sát kiểm tra an toàn qua gương chiếu hậu, tiến đến vị trí chuẩn bị lùi, cài số lùi và lùi thẳng vào chỗ đỗ bằng cách điều chỉnh vô lăng vào vị trí đỗ, sau đó dừng xe, về số 0 và kéo phanh tay."
+      },
+      {
+        "_id": "fcc5f193-8332-4c0c-8fe1-e15f348a7e5d",
+        "text": "Trong quá trình lùi và ghép xe, luôn quan sát xung quanh và thực hiện thao tác chậm, cẩn thận;"
+      },
+      {
+        "_id": "5a45d259-d6c9-421a-b17f-95e542188363",
+        "text": "nếu đỗ trên đường dốc, cần kéo phanh tay để tránh trôi xe."
+      },
+      {
+        "_id": "fb9042cc-459e-4c22-82a8-0808b740be74",
+        "text": "Khi tiến xe ra khỏi chỗ đỗ dọc, kiểm tra gương chiếu hậu, quan sát trực tiếp phía trước và hông xe bên trái, cài số 1, nhả từ từ 2/3 bàn đạp ly hợp, hạ phanh tay, tăng ga nhẹ và tiếp tục nhả hết ly hợp, đồng thời quan sát và nhường đường cho phương tiện khác trước khi đánh lái và di chuyển."
+      }
+    ]
+  },
+  {
+    "_id": "5a2f9ceb-70d5-48b1-8e74-91371b96c80b",
+    "subject_id": 3,
+    "lesson": 11,
+    "tittle": "Lùi xe ghép ngang và ghép chéo vào nơi đổ dọc.",
+    "chunks": [
+      {
+        "_id": "3994957c-68f5-4020-bb69-6f938bd6e3e5",
+        "text": "Khi lùi xe ghép ngang, cần kiểm tra an toàn qua gương chiếu hậu, hông xe và quan sát xung quanh;"
+      },
+      {
+        "_id": "edf4e8d6-0437-409f-9e90-e8d50a9ded12",
+        "text": "khi đuôi xe ngang với đầu xe phía trước, dừng lại, cài số lùi, nhả ly hợp từ từ;"
+      },
+      {
+        "_id": "b1a86733-d6b4-494f-8b4e-1a36b2b19c1b",
+        "text": "đánh lái phải để đưa xe vào chỗ đỗ, sau đó trả lái trái để xe thẳng."
+      },
+      {
+        "_id": "3b38ccbb-00d8-4b12-b4f1-32c82c2749d5",
+        "text": "Khi xe song song vỉa hè, tiến hoặc lùi nhẹ để điều chỉnh vào đúng vị trí, rồi về số 0, kéo phanh tay và tắt máy nếu cần."
+      },
+      {
+        "_id": "744181a3-388e-4323-92c4-8081e5a8adf2",
+        "text": "Khi tiến xe ra khỏi chỗ đỗ, quan sát gương chiếu hậu và quay đầu nhìn, bật xi nhan trái, cài số tiến, đánh lái trái cho đầu xe ra ngoài rồi trả lái phải để xe đi thẳng."
+      },
+      {
+        "_id": "8e76e560-01c7-42c6-9480-e4bb764e28e0",
+        "text": "Với trường hợp lùi ghép chéo vào chỗ đỗ trên dốc, kiểm tra an toàn, bật xi nhan phải, cài số lùi, nhả ly hợp từ từ rồi đánh lái phải đưa xe vào chỗ đỗ, khi xe đã thẳng thì trả lái trái, kéo phanh tay, gài số để phanh bằng động cơ và tắt máy."
+      },
+      {
+        "_id": "b9e08f25-1162-4364-8fd3-67eebfeabbfa",
+        "text": "Trong mọi tình huống lùi, cần quan sát liên tục qua gương và xung quanh, thao tác chậm, cẩn thận và sử dụng phanh tay cùng số phù hợp khi đỗ trên dốc để tránh xe bị trôi."
+      }
+    ]
+  },
+  {
+    "_id": "e794fa0e-5aea-4500-b103-71138468c758",
+    "subject_id": 3,
+    "lesson": 12,
+    "tittle": "Chuyển làn đường, rẽ và vượt xe.",
+    "chunks": [
+      {
+        "_id": "635619c2-5ead-405a-a605-85ead6f3a165",
+        "text": "Khi chuyển làn từ tốc độ cao sang thấp, cần quan sát gương chiếu hậu phải, bật đèn báo rẽ, đánh lái nhẹ sang phải và giảm tốc độ phù hợp;"
+      },
+      {
+        "_id": "bc3fcc48-814d-487f-8875-c88f5db8d23c",
+        "text": "ngược lại, khi chuyển từ làn tốc độ thấp sang cao, quan sát gương trái và cửa sổ, bật đèn rẽ trái, tăng tốc và đánh lái nhẹ sang trái khi an toàn."
+      },
+      {
+        "_id": "beaf361b-151b-4d11-b57a-49c65281482f",
+        "text": "Rẽ trái tại ngã ba, ngã tư cần quan sát an toàn gương chiếu hậu và cửa sổ bên trái, bật đèn xi nhan, chuyển sang làn trái khi đảm bảo an toàn, nhường đường nếu cần rồi đánh lái sang trái để rẽ theo hướng định sẵn, tuân thủ theo tín hiệu giao thông;"
+      },
+      {
+        "_id": "48e10872-48a5-4f47-a517-9ca38459a8b0",
+        "text": "khi rẽ phải, quan sát gương chiếu hậu bên phải và cửa sổ, bật đèn báo rẽ phải, chuyển làn, giảm tốc độ, nhường đường cho xe đi thẳng xe thẳng, xe máy và người đi bộ trước khi đánh lái để rẽ."
+      },
+      {
+        "_id": "3b4cdb6d-6f9c-4dfc-b7ee-75652df9536f",
+        "text": "Vượt xe trên đường hai chiều cần giữ khoảng cách an toàn với xe phía trước, quan sát biển báo và tình trạng giao thông; bật đèn rẽ trái, tăng tốc và đánh lái nhẹ để vượt;"
+      },
+      {
+        "_id": "ac98ef62-2c18-484d-8188-33f4282ef7ca",
+        "text": "sau khi vượt, bật đèn rẽ phải, trở lại làn và điều chỉnh tốc độ."
+      },
+      {
+        "_id": "2666ae89-f627-4dc7-9dca-7e19a31e6b17",
+        "text": "Nếu có xe ngược chiều đến gần, cần nhanh chóng quyết định hoàn tất vượt hoặc trở về làn cũ."
+      },
+      {
+        "_id": "17dc5673-e4a7-4e73-a2dd-965403d730dd",
+        "text": "Lưu ý luôn bật đèn tín hiệu phù hợp, quan sát an toàn qua gương hoặc trực tiếp, tuân thủ tốc độ và tín hiệu giao thông, nhường đường đúng quy định để đảm bảo an toàn."
+      }
+    ]
+  },
+  {
+    "_id": "f7cd3f68-89ce-4982-9457-a66dbc84b55b",
+    "subject_id": 3,
+    "lesson": 13,
+    "tittle": "Quay đầu xe.",
+    "chunks": [
+      {
+        "_id": "7333d179-11e1-4359-b1bf-07c9470029ec",
+        "text": "Khi quay đầu xe ở ngã ba ( nơi giao giữa đường chính và đường nhánh) cần đi chậm, bật đèn báo rẽ, quan sát an toàn, sử dụng số thấp và tiến hành tiến hoặc lùi xe theo đúng quy trình, có 2 quy trình: 1 tiến thẳng - lùi phải - rẽ trái hoặc phải, 2 rẽ phải - lùi trái - tiến thẳng."
+      },
+      {
+        "_id": "54f1248f-6e19-4da9-87e0-09e70808df51",
+        "text": "Tại ngã tư trên đường nhiều làn, cần chuyển sang làn trái ngoài cùng;"
+      },
+      {
+        "_id": "f65c8b5f-dbc2-48ab-8211-e5bf54f37c7b",
+        "text": "quan sát, nhường đường và đánh lái quay đầu ở giữa ngã tư khi an toàn."
+      },
+      {
+        "_id": "9a757778-b806-41dc-97cf-e03f4941bf55",
+        "text": "Nếu quay đầu tại dải phân cách, cũng phải chuyển làn trái, giảm tốc, quan sát và nhường đường cho xe đối diện."
+      },
+      {
+        "_id": "b494a2aa-5c80-4667-a9a2-731d851ed65f",
+        "text": "Trên đường hẹp, cần kết hợp tiến-lùi nhiều lần, quan sát gương chiếu hậu, bật đèn báo rẽ và đánh lái để quay đầu xe;"
+      },
+      {
+        "_id": "a54db45f-26ee-4737-8539-891ad09e0e05",
+        "text": "chú ý hướng đầu xe về phía nguy hiểm và đuôi xe về phía an toàn trong trường hợp địa hình nguy hiểm."
+      }
+    ]
+  },
+  {
+    "_id": "1d7b086e-7d87-4bf8-9a28-904d99a2e44e",
+    "subject_id": 3,
+    "lesson": 14,
+    "tittle": "Lái xe ô tô trên bãi phẵng và trên đường bằng.",
+    "chunks": [
+      {
+        "_id": "03a64758-95f7-45fd-bbe3-80c8dea85b4b",
+        "text": "Bãi phẳng là khu vực rộng và bằng phẳng, thích hợp để luyện tập tăng, giảm tốc độ và chuyển hướng."
+      },
+      {
+        "_id": "af5da985-3816-42a9-bf9c-c9793559b286",
+        "text": "Để xe đi thẳng, người lái cần sử dụng đường thẳng dẫn hướng tưởng tượng dựa trên 3 điểm: tâm vô lăng, hàng cúc ngực và một điểm trên mặt đường;"
+      },
+      {
+        "_id": "91da2cb9-bd94-4491-b6b7-306fce45e0f1",
+        "text": "khi quay vòng sang phải thì xoay vô lăng theo chiều kim đồng hồ sau đó từ từ trả lái và ngược lại khi rẽ trái;"
+      },
+      {
+        "_id": "adada745-95c8-472b-b840-3429d98909db",
+        "text": "trước khi quay vòng lưu ý quan sát, bật xi nhan và không đổi số trong khi thay đổi hướng chuyển động."
+      },
+      {
+        "_id": "c476b512-bbd2-4fea-95ec-324c757d31b4",
+        "text": "Đường bằng là loại đường phẳng, an toàn khi điều khiển xe."
+      },
+      {
+        "_id": "a2f6d3b3-6122-4d75-b347-7f0e0fabd15a",
+        "text": "Căn đường dựa trên so sánh vị trí người lái so với trục tim đường; nếu vị trí trùng hoặc sát điểm chuẩn, xe đang ở giữa đường; điều chỉnh nếu lệch trái hoặc phải;"
+      },
+      {
+        "_id": "515bbdbf-0114-4ed9-977f-9fe09f571b10",
+        "text": "khi tránh chướng ngại vật, căn theo bánh trước bên trái."
+      },
+      {
+        "_id": "7679a5e8-bae2-4a8f-9e74-5f62bba8afb0",
+        "text": "Khi tránh nhau trên đường hẹp, cần giảm tốc độ, nhường đường nếu cần thiết, xe phía sườn núi phải dừng trước;"
+      },
+      {
+        "_id": "fd95df44-bbb2-4335-8b36-164fc4e562c9",
+        "text": "không cố đi vào đường hẹp, dừng đỗ xe thẳng và gọn, không để xe chếch đầu hoặc thùng ra ngoài, ban đêm cần chuyển từ đèn pha sang đèn cốt khi tránh nhau."
+      }
+    ]
+  },
+  {
+    "_id": "8f75bbdb-e4b9-4b30-b77c-9978b930e997",
+    "subject_id": 3,
+    "lesson": 15,
+    "tittle": "Lái xe ô tô trên đường trung du, miền núi (1).",
+    "chunks": [
+      {
+        "_id": "635e6ac2-9d6c-42d5-8dee-99b1bb4dffb0",
+        "text": "Đường dốc thường có nhiều dốc cao, dài, quanh co, gấp khúc, mặt đường hẹp, không phẳng;"
+      },
+      {
+        "_id": "bcba6688-f3ac-49db-9331-fc613b51417c",
+        "text": "tầm nhìn hạn chế nên khi lái xe cần thành thạo phanh, ga, côn và số."
+      },
+      {
+        "_id": "6fa9be65-c239-4038-b0ef-625bd28b9f6b",
+        "text": "Khi lên dốc, nếu là dốc thấp thì cần tăng tốc trước để lấy đà;"
+      },
+      {
+        "_id": "8a4d43a5-2935-4cda-b9cd-a7358573d8fc",
+        "text": "nếu là dốc trung bình thì tăng tốc lấy đà rồi về số tại giữa dốc;"
+      },
+      {
+        "_id": "2fef2911-f8eb-4fd6-aedf-26368ebfe02c",
+        "text": "chú ý không để động cơ phát ra tiếng gõ, thao tác đúng kĩ thuật;"
+      },
+      {
+        "_id": "22629f49-cfb6-4874-b271-4ce28a1cffe4",
+        "text": "còn với dốc cao thì về số thấp từ chân hoặc ngang dốc, điều chỉnh ga để lên từ từ, đồng thời gần đỉnh dốc cần đi chậm, sát phải và phát tín hiệu cảnh báo xe đối diện. Khi xuống dốc, nếu dốc thấp thì dùng số cao và ga nhẹ;"
+      },
+      {
+        "_id": "532f204d-f098-4627-83ef-eb5b44b21565",
+        "text": "nếu dốc cao thì về số thấp và kết hợp phanh động cơ với phanh chân để kiểm soát tốc độ;"
+      },
+      {
+        "_id": "07e9ab36-cff6-4dca-925d-1d12d6d8559d",
+        "text": "nếu dốc dài thì chủ yếu dùng phanh động cơ, phanh chân chỉ hỗ trợ để tránh cháy má phanh."
+      },
+      {
+        "_id": "7f4719c8-5d6b-4644-8dd7-408edad0b24d",
+        "text": "Ngoài ra, luôn giữ khoảng cách an toàn, khi lên dốc đề phòng xe trước tụt, khi xuống dốc đề phòng xe sau mất phanh, và nếu dốc quá dài thì nên dừng xe tại vị trí an toàn, tắt đông cơ để nghỉ, hạ nhiệt động cơ và hệ thống phanh."
+      }
+    ]
+  },
+  {
+    "_id": "389fcdc0-31f0-45aa-bfb8-46cea5bf4f79",
+    "subject_id": 3,
+    "lesson": 16,
+    "tittle": "Lái xe ôtô trên đường trung du, miền núi (2).",
+    "chunks": [
+      {
+        "_id": "9e2483bb-3626-404f-a953-c67d884609a8",
+        "text": "Khi dừng xe ô tô giữa dốc lên, cần phát tín hiệu, lái sát lề phải rồi nhả ga để xe chậm lại, sau đó đạp phanh nhẹ để dừng đúng vị trí an toàn;"
+      },
+      {
+        "_id": "46890cad-0d12-4148-91a6-26f3a677eb49",
+        "text": "tiếp theo, về số 1, đạp nửa hành trình ly hợp, kéo phanh tay và tắt máy, đồng thời đánh lái sang phải nếu không có bó vỉa hoặc sang trái nếu có bó vỉa để tránh xe bị trượt;"
+      },
+      {
+        "_id": "aec43f5d-5120-4f19-8227-305df03f857e",
+        "text": "nếu dừng lâu thì cần chèn bánh và giữ khoảng cách an toàn với xe phía trước."
+      },
+      {
+        "_id": "c0b84997-641d-4bbd-b2fc-e82d4c4955c2",
+        "text": "Khi dừng xe giữa dốc xuống, cũng phải phát tín hiệu, lái sát lề phải và đạp phanh sớm, mạnh để giảm tốc, rồi về số 1, đạp phanh chân và ly hợp, kéo phanh tay, đánh lái để bánh xe quay vào bó vỉa, đồng thời chèn bánh nếu dừng lâu và giữ khoảng cách với xe sau."
+      },
+      {
+        "_id": "54af5411-be89-4ba4-9397-9f08a9614c66",
+        "text": "Khi dừng xe trên dốc, cần về số thấp (1 hoặc 2), giảm ga, chuyển từ ga sang phanh và kéo phanh tay."
+      },
+      {
+        "_id": "d95ab434-a8b7-4a6b-a8de-d3e159d00470",
+        "text": "Để khởi hành trên dốc, cần nhả 2/3 ly hợp để bánh đà tiếp xúc, tăng ga nhẹ, sau đó khi lực kéo đủ thì nhả phanh tay, tiếp tục nhả ly hợp và đạp ga mạnh để vượt dốc."
+      },
+      {
+        "_id": "565819d9-150a-4837-8318-48fea5e33d35",
+        "text": "Khi lái xe trên đường cong, do lực ly tâm lớn có thể gây trượt hoặc lật xe, cần giảm ga, về số thấp nếu xe số sàn, đánh lái đều và nhẹ theo đường cong, rồi sau khi thoát khỏi đường cong thì trả lái nhẹ, tăng ga và tăng tốc độ."
+      }
+    ]
+  },
+  {
+    "_id": "cdae8ae5-2b57-4b68-95d6-cc532a9c92ec",
+    "subject_id": 3,
+    "lesson": 17,
+    "tittle": "Lái xe ôtô trên những loại đường xấu, ngập nước.",
+    "chunks": [
+      {
+        "_id": "cdea6b09-33bb-4dae-9164-cffd83108265",
+        "text": "Khi lái xe qua đường xấu như đường nhiều ổ gà, cần giảm tốc độ, về số thấp và giữ đều ga;"
+      },
+      {
+        "_id": "0f5001fe-dde8-4836-b7e8-08f7cafdb6da",
+        "text": "nếu gặp rãnh lớn thì nên gài số 1 và vượt từ từ."
+      },
+      {
+        "_id": "1262079d-d283-4014-95a7-c20635e582f4",
+        "text": "Với đường trơn trượt do băng tuyết, cần điều chỉnh tốc độ, sử dụng số thấp, tránh phanh gấp, giữ ga đều và đánh lái nhẹ để kiểm soát quỹ đạo, đặc biệt khi vào đường cong."
+      },
+      {
+        "_id": "18116c0f-8147-4fb7-a045-b15de66755d7",
+        "text": "Trên đường lầy, nên tránh tăng ga đột ngột, có thể lót đá, xả bớt hơi lốp để tăng độ bám;"
+      },
+      {
+        "_id": "4f13014f-6cfc-4653-a3cf-bba35345b9c3",
+        "text": "nếu xe bị lún sâu, không cố thoát mà cần gọi cứu hộ."
+      },
+      {
+        "_id": "73477f94-9b50-4171-80db-625253e66105",
+        "text": "Khi qua đường ngập nước hoặc đường ngầm, phải khảo sát mức nước, tốc độ dòng chảy và chất lượng mặt đường; nếu có xe đi trước, nên quan sát để đánh giá thêm;"
+      },
+      {
+        "_id": "fa8a35c4-642f-4f21-9d6c-256af3615d1a",
+        "text": "đồng thời tắt điều hòa, hạ kính, gài số thấp và giữ ga đều, tránh dừng giữa chỗ ngập."
+      },
+      {
+        "_id": "b866fc6c-c27a-4112-9f2d-c5266a087213",
+        "text": "Nếu nước ngập sâu, cần che chắn két nước, bọc kín hệ thống điện và nâng bình điện;"
+      },
+      {
+        "_id": "d63d8522-c35f-447c-9ef1-c9cc7174fd4c",
+        "text": "sau khi qua, tháo chắn và rà khô phanh."
+      },
+      {
+        "_id": "a992f970-918a-4cda-8fde-499af9ecefe4",
+        "text": "Tóm lại, luôn giữ tốc độ phù hợp với điều kiện đường, áp dụng kỹ thuật lái và sử dụng thiết bị phụ trợ để đảm bảo an toàn."
+      }
+    ]
+  },
+  {
+    "_id": "5d8fddd6-1d45-4056-bef9-87fd9414deb4",
+    "subject_id": 3,
+    "lesson": 18,
+    "tittle": "Lái xe qua trạm thu phí, cầu, phà.",
+    "chunks": [
+      {
+        "_id": "625bd3ed-f37a-4dad-8320-499bd159d1ba",
+        "text": "Khi lái xe qua trạm thu phí, cần giảm tốc độ, chuyển sang đèn chiếu gần nếu ban đêm, quan sát biển báo và đèn tín hiệu, xếp đúng làn và không chuyển làn đột ngột;"
+      },
+      {
+        "_id": "4cf789f9-b963-4034-83b6-7e0a21ccf02b",
+        "text": "dừng xe sát bên trái cổng thu phí để thuận tiện trả tiền và lấy vé, sau đó chờ barie mở rồi tiếp tục hành trình."
+      },
+      {
+        "_id": "664735bf-0312-41b7-868e-7e4e221fb525",
+        "text": "Khi qua cầu, nếu cầu rộng và phẳng thì lái như đường bằng, còn nếu cầu hẹp hoặc không phẳng thì phải gài số thấp, giữ đều ga, tránh tăng ga hoặc phanh gấp;"
+      },
+      {
+        "_id": "fba7b942-c71e-43a9-a9f3-fc8466a54aae",
+        "text": "với cầu lát gỗ, cần căn bánh xe đúng băng gỗ, còn cầu phao, cầu cáp thì đi số thấp, giữ tốc độ chậm, không chuyển số hay phanh gấp."
+      },
+      {
+        "_id": "cda23ba2-0c86-41bd-a9eb-3843ab04ee25",
+        "text": "Khi qua phà, đỗ đúng nơi quy định, sử dụng phanh tay, gài số phù hợp, có thể chèn bánh nếu cần;"
+      },
+      {
+        "_id": "9db0dcf2-50d8-4326-a8ab-318df3cb0c5f",
+        "text": "chỉ di chuyển khi có lệnh của nhân viên bến phà, gài số 1 hoặc cầu trước để lên xuống phà chậm rãi, căn đường chính xác và điều khiển xe êm ái;"
+      },
+      {
+        "_id": "014332af-0902-4066-a8d9-0583db3bb200",
+        "text": "khi ở trên phà, đỗ đúng vị trí, kéo phanh tay và gài số để đảm bảo an toàn."
+      },
+      {
+        "_id": "b6202803-7a30-4168-a95c-57e12987de53",
+        "text": "Tóm lại, cần quan sát kỹ biển báo, tín hiệu, tuân thủ hướng dẫn, giữ khoảng cách an toàn và thực hiện thao tác lái xe một cách êm ái, chủ động."
+      }
+    ]
+  },
+  {
+    "_id": "56e80bda-5502-47c5-a477-816285c079b6",
+    "subject_id": 3,
+    "lesson": 19,
+    "tittle": "Lái xe qua chỗ hẹp, ban đêm, khi có mưa to hoặc sương mù.",
+    "chunks": [
+      {
+        "_id": "496f9529-85a5-44f6-92a9-4649f3a55b92",
+        "text": "Khi lái xe qua chỗ hẹp có biển nhường đường cho xe đi ngược chiều, nếu không có xe đối diện, cần giảm tốc độ, quan sát kỹ và đi chậm qua chỗ hẹp;"
+      },
+      {
+        "_id": "adfb1969-8c65-4b87-b542-0986282cc755",
+        "text": "nếu có xe ngược chiều, phải giảm tốc, bật đèn xin đường, đạp nửa bàn đạp ly hợp, dừng chờ xe kia đi qua, rồi mới bật xi-nhan trái, vào số 1 và phối hợp nhả ly hợp, tăng ga để tiếp tục."
+      },
+      {
+        "_id": "4dc9383c-a877-457d-867d-63211277fbf3",
+        "text": "Khi lái xe ban đêm, do tầm nhìn bị hạn chế và dễ loá mắt bởi đèn xe đối diện, cần giảm tốc độ phù hợp, sử dụng đèn pha hoặc đèn chiếu gần tùy tình huống, chuyển sang chiếu gần khi gặp xe ngược chiều, đồng thời quan sát kỹ mặt đường, đặc biệt là các vùng tối có thể là ổ gà."
+      },
+      {
+        "_id": "2624a57e-f970-4bc6-945a-8de9aabf61bd",
+        "text": "Khi có sương mù hoặc mưa to, phải bật đèn cốt và đèn vàng nếu có, điều chỉnh gạt nước, giảm tốc độ, giữ khoảng cách an toàn, tránh đi sát lề;"
+      },
+      {
+        "_id": "d379ff07-e2d6-4072-8095-a58cb1da4a0a",
+        "text": "nếu tầm nhìn quá kém thì nên dừng lại ở nơi an toàn và chờ điều kiện cải thiện;"
+      },
+      {
+        "_id": "9b64b1af-abfb-4df5-a1e8-5699275affac",
+        "text": "sau mưa, cần kiểm tra đường đi, đề phòng sạt lở."
+      },
+      {
+        "_id": "0ce638bb-5cab-45cf-ad1f-3565eff7f91f",
+        "text": "Trong trường hợp tai nạn hoặc sự cố, phải bật đèn cảnh báo, đặt vật báo hiệu từ xa để cảnh báo xe khác;"
+      },
+      {
+        "_id": "b8de4f85-ffaf-493c-b93f-2d6481bf86bd",
+        "text": "nếu xe hỏng đột ngột, cần bình tĩnh giảm tốc và đưa xe vào sát lề để xử lý."
+      }
+    ]
+  },
+  {
+    "_id": "259f6f7a-b23b-481c-b594-e69d222e9f94",
+    "subject_id": 3,
+    "lesson": 20,
+    "tittle": "Lái xe trên đường cao tốc.",
+    "chunks": [
+      {
+        "_id": "ab65be5d-ff73-417c-a974-4cdd21f78a8b",
+        "text": "Đường cao tốc là loại đường an toàn hơn vì các phương tiện di chuyển cùng chiều và không có giao cắt hay người đi bộ, tuy nhiên do tốc độ cao nên chỉ một va chạm nhỏ cũng có thể gây tai nạn nghiêm trọng."
+      },
+      {
+        "_id": "57398947-61a9-49f5-8c59-e4ab5c0376a1",
+        "text": "Các bước trước khi lên đường cao tốc: Bước 1: Trước khi khởi hành, cần nghiên cứu tuyến đường, kiểm tra xe, cài dây an toàn và giữ tư thế ngồi thoải mái."
+      },
+      {
+        "_id": "d6b893f1-59db-4754-ab82-f8a8b2bb053e",
+        "text": "Bước 2: khi nhập làn, phải đi vào làn tăng tốc, đạt tốc độ gần với làn cao tốc rồi mới nhập làn, đồng thời quan sát gương, bật xi-nhan trái và giữ khoảng cách với xe trước."
+      },
+      {
+        "_id": "82349cc9-e27c-4dd6-9411-54718daea712",
+        "text": "Bước 3: trong quá trình lái xe trên cao tốc, cần đi đúng làn, duy trì tốc độ theo quy định, giữ khoảng cách an toàn 3 giây với xe trước (hoặc 4 giây nếu đường trơn), quan sát xa và điều khiển ổn định."
+      },
+      {
+        "_id": "0866acd9-074a-4992-a4e8-d54b3d527328",
+        "text": "Bước 4: khi vượt xe, phải quan sát gương chiếu hậu, bật xi-nhan trái và nháy đèn pha, chuyển làn sang trái, tăng tốc vượt qua rồi trở về làn cũ."
+      },
+      {
+        "_id": "d758c854-42e7-416c-951f-bd09688c0915",
+        "text": "Bước 5: để rời khỏi đường cao tốc, cần quan sát gương chiếu hậu, bật xi-nhan phải, giảm tốc độ và chuyển vào làn giảm tốc."
+      },
+      {
+        "_id": "444520bb-5564-487a-b5ed-93afdd7d9f56",
+        "text": "Khi gặp sự cố, phải bật đèn cảnh báo, từ từ chuyển vào làn dừng khẩn cấp, không được chuyển làn gấp, và đặt vật cảnh báo cách xe ít nhất 100m ban ngày hoặc 200m ban đêm."
+      },
+      {
+        "_id": "796ab6de-87e1-4ac7-82a5-ac254fce1fc0",
+        "text": "Ngoài ra, tuyệt đối không dừng đỗ trên làn cao tốc hay làn tăng tốc, nếu bắt buộc phải dừng thì cần giữ khoảng cách an toàn với các phương tiện khác."
+      }
+    ]
+  },
+  {
+    "_id": "b3fcfa98-e486-41fd-87b4-67053edaa0a3",
+    "subject_id": 3,
+    "lesson": 21,
+    "tittle": "Lái xe qua đường sắt.",
+    "chunks": [
+      {
+        "_id": "4a80f6bb-e252-41c9-b597-ffcd21226708",
+        "text": "Khi lái xe qua đường sắt có rào chắn, người lái không được tiếp tục di chuyển nếu có chuông báo hoặc rào chắn đã hạ xuống, đồng thời phải dừng xe cách đường sắt tối thiểu 5m nếu không có vạch dừng;"
+      },
+      {
+        "_id": "7204a174-2382-4331-b11e-d5cec80fbcc5",
+        "text": "trong trường hợp đường dốc hoặc phải chờ lâu, cần kéo phanh tay để đảm bảo an toàn."
+      },
+      {
+        "_id": "f3a73323-1a27-407f-a729-d75520bd9899",
+        "text": "Khi rào chắn mở, phải quan sát kỹ và chỉ vượt qua khi chắc chắn phía đối diện có đủ không gian di chuyển.Đối với đường sắt không có rào chắn, cần giảm ga, đi chậm và dừng tạm cách đường ray ngoài cùng ít nhất 5m;"
+      },
+      {
+        "_id": "e5addcf0-84d6-486e-a35c-44358bb963c3",
+        "text": "đồng thời tắt các thiết bị âm thanh, hạ cửa kính để quan sát và lắng nghe còi tàu."
+      },
+      {
+        "_id": "a3af0c00-c454-40f0-b2dd-adf3a96f9e3b",
+        "text": "Nếu không có tàu, nên về số thấp (1 hoặc 2), giữ tốc độ ổn định và tuyệt đối không đổi số khi vượt qua đường ray để tránh kẹt bánh xe.Trong trường hợp xe bị hỏng trên đường sắt, nếu còn di chuyển được thì phải về số 0 và huy động người đẩy xe ra khỏi đường ray."
+      },
+      {
+        "_id": "ceb2b324-ada9-4a14-b71f-9d1bfae66493",
+        "text": "Nếu không thể di chuyển, tất cả hành khách phải rời khỏi xe, tránh xa đường sắt và đứng về phía ngược chiều tàu chạy để giảm nguy cơ chấn thương do mảnh vỡ."
+      },
+      {
+        "_id": "c6657ea5-0cfe-4b61-8f00-8c5774d5a18f",
+        "text": "Đồng thời, cần phát tín hiệu cấp cứu và liên hệ ngay với nhân viên đường sắt cũng như cảnh sát giao thông để xử lý kịp thời."
+      }
+    ]
+  },
+  {
+    "_id": "7459f809-93eb-47f5-b5bc-7899934b4714",
+    "subject_id": 3,
+    "lesson": 22,
+    "tittle": "Điểm mù và khoảng cách an toàn.",
+    "chunks": [
+      {
+        "_id": "d1234c79-736a-4592-92e7-70fca1189cd4",
+        "text": "Điểm mù là vùng không gian mà tài xế không thể quan sát được dù bằng mắt trực tiếp hay qua thiết bị hỗ trợ như gương chiếu hậu hoặc camera, và điểm mù này phụ thuộc vào kết cấu khoang lái cũng như vị trí lắp đặt gương chiếu hậu."
+      },
+      {
+        "_id": "d7acf076-7bae-45c2-8b24-2e306b3a94df",
+        "text": "Một số điểm mù phổ biến xuất hiện trên các loại xe như: xe con; xe tải;"
+      },
+      {
+        "_id": "bcc26156-d02e-4201-8a4b-5ca19da3d7e5",
+        "text": "đầu kéo và sơ mi rơ moóc."
+      },
+      {
+        "_id": "da00462e-0504-4d7d-9ec0-5a47b414c0f0",
+        "text": "Khoảng cách an toàn là khoảng cách tối thiểu giữa xe của mình với xe phía trước nhằm đảm bảo an toàn, giúp người lái có đủ thời gian xử lý và phanh khi xảy ra tình huống bất ngờ."
+      },
+      {
+        "_id": "cc9799b3-4413-4341-a1a7-6ed4ebb03a51",
+        "text": "Khoảng cách này chịu ảnh hưởng bởi nhiều yếu tố như tình trạng mặt đường, hiệu quả hệ thống phanh, tốc độ phản ứng của tài xế, điều kiện thời tiết và tầm nhìn."
+      },
+      {
+        "_id": "ee8252bc-bde1-46e8-baeb-35c7b5ba9db7",
+        "text": "Khoảng cách dừng xe khi phanh bao gồm thời gian nhận biết chướng ngại vật, thời giản phản xạ và thời gian phanh."
+      },
+      {
+        "_id": "22e0858b-a1a6-4f3d-8c64-60ba3f483cee",
+        "text": "Người lái xe có thể ước lượng khoảng cách an toàn bằng quy tắc 3 giây"
+      }
+    ]
+  },
+  {
+    "_id": "a716e7ba-a937-4502-a6b8-5958848388b1",
+    "subject_id": 3,
+    "lesson": 23,
+    "tittle": "Một số tình huống nguy hiểm có thể xảy ra trong thực tế",
+    "chunks": [
+      {
+        "_id": "04f83195-f7ad-45e6-ac08-f230b5ec8e51",
+        "text": ".Khi phía trước có xe đầu kéo sơ mi rơ moóc rẽ phải thì cần quan sát, phán đoán tình hình và giảm tốc độ để giữ khoảng cách an toàn;"
+      },
+      {
+        "_id": "ecd576e0-81f5-44fb-9ef7-be43ede24183",
+        "text": "khi có xe cùng chiều đang vượt xe khác thì không được vượt xe phía trước hoặc tránh chướng ngại vật mà phải giảm tốc độ, chờ xe phía trước vượt xong rồi mới vượt hoặc tránh;"
+      },
+      {
+        "_id": "d9155b71-6419-4736-ad28-bc0da355f447",
+        "text": "khi đi vào hầm, qua cầu hẹp hoặc vào ngã tư thì phải tuân thủ biển báo, không vượt xe cùng chiều và giữ an toàn;"
+      },
+      {
+        "_id": "91009f92-a8b1-4d31-9faa-f2fce7bdf5da",
+        "text": "không vượt xe khác trong ngã tư"
+      }
+    ]
+  },
+  {
+    "_id": "56ae07a5-ba48-416a-ba5d-a8ed627d6f50",
+    "subject_id": 3,
+    "lesson": 24,
+    "tittle": "Lái xe ôtô chở hàng hoá và kéo moóc.",
+    "chunks": [
+      {
+        "_id": "e2f1bda5-49ba-4db7-9a0c-828d8d5c8fc9",
+        "text": "Khi xếp hàng hóa cần chú ý xếp đúng trọng tải, không quá tải, chằng buộc hàng dễ xê dịch, che chắn kỹ hàng dễ gây bụi bẩn và đảm bảo an toàn cho hàng cồng kềnh, quá khổ;"
+      },
+      {
+        "_id": "c2c65bdd-66cb-41eb-91c8-b5794509ffda",
+        "text": "khi lái xe chở hàng, cần giảm tốc độ khi vào đường vòng, tránh lấy lái quá nhanh để tránh rơi hàng, lật xe , đi chậm khi gặp đường xấu, tránh phanh gấp hay tăng ga đột ngột, chọn tốc độ phù hợp khi tránh hoặc vượt xe, và phối hợp hợp lý giữa ga, ly hợp, số, phanh khi lên xuống dốc;"
+      },
+      {
+        "_id": "b0a77c56-62cf-4f36-b723-3f15a037cfa9",
+        "text": "trước khi xuất phát với xe kéo và moóc, cần kiểm tra bộ phận nối, áp suất lốp, hệ thống điện và phanh, và khi dừng để xếp dỡ hàng thì cần kiểm tra lại;"
+      },
+      {
+        "_id": "8a2ecc88-6445-437b-8fc0-14656b69b625",
+        "text": "khi lái xe kéo rơ-moóc và bán rơ-moóc, gồm các bước: khởi hành: cần gài số 1, nhả ly hợp từ từ và tăng ga khi rơ-moóc chuyển động ổn định, trên đường: duy trì tốc độ đều, lấy đà khi chuyển số, tránh vượt sớm khi gặp xe ngược chiều, lên dốc có thể về số tắt và tránh dừng giữa dốc, nếu dừng cần chèn bánh và sử dụng phanh tay, xuống dốc gài số thấp và giữ khoảng cách lớn hơn với xe phía trước, hạn chế lùi nhưng nếu cần thì phải hãm cơ cấu chuyển hướng và lùi đúng cách, khi quay đầu thì chọn chỗ rộng và quay một lần theo chiều tiến."
+      }
+    ]
+  },
+  {
+    "_id": "8ff5a9c3-af76-4da0-8628-f32174ff3d12",
+    "subject_id": 3,
+    "lesson": 25,
+    "tittle": "Lái một vài loại xe ôtô có cấu tạo riêng.",
+    "chunks": [
+      {
+        "_id": "13505ac1-94eb-4ba6-af93-1d5fc2985fb2",
+        "text": "Khi lái xe ô tô tự đổ (xe ben), cần chạy chậm trên đường xấu để tránh lắc mạnh, lệch ben, giảm tốc độ và tránh lấy lái gấp hoặc phanh gấp khi vào đường vòng, khi đổ hàng phải chọn nền đường cứng và phẳng, kéo phanh tay và chỉ đổ hàng khi xe đã dừng hẳn;"
+      },
+      {
+        "_id": "c64284f6-d260-4fcf-ad5c-57c6a937043e",
+        "text": "khi lái xe ô tô tự nâng hàng, không dùng cần cẩu quá tải, quá tầm, nâng hạ hàng hóa từ từ để đảm bảo an toàn;"
+      },
+      {
+        "_id": "3f790524-1792-4f93-b836-de5278e94dea",
+        "text": "khi lái xe ô tô chở chất lỏng, cần chở đầy để tránh tải trọng phụ hoặc rò rỉ, không chở quá mức để tránh giãn nở, kiểm tra thiết bị phòng cháy nếu chất lỏng dễ cháy, chạy tốc độ đều, tránh xóc mạnh, không lấy lái nhanh hoặc phanh gấp, giảm tốc khi vào đường vòng và thường xuyên kiểm tra thùng chứa để tránh rò rỉ;"
+      },
+      {
+        "_id": "39528155-01f1-4814-8926-8be1d340e7a8",
+        "text": "khi sử dụng hộp số phụ, cắt cầu trước nếu đường tốt, gài cầu trước và số thấp nếu đường xấu;"
+      },
+      {
+        "_id": "78715a8d-7b00-495c-a9e3-01dbfc5a236b",
+        "text": "khi sử dụng bộ khóa vi sai, chỉ dùng khi bánh xe trượt quay để nối cứng hai bán trục vượt lầy;"
+      },
+      {
+        "_id": "8c936048-435b-4d81-b562-4c9dde10f632",
+        "text": "khi sử dụng xe ô tô có tời kéo, cần gài số 0 trên hộp số chính, nối khớp tời, gài số hộp trích công suất, nhả ly hợp và tăng ga, đồng thời chọn cột hoặc cây vững chắc để buộc cáp khi dùng tời kéo xe."
+      }
+    ]
+  },
+  {
+    "_id": "a675ac3f-c8cb-433f-be9b-40c7d33875ef",
+    "subject_id": 3,
+    "lesson": 26,
+    "tittle": "Tâm lý điều khiển xe ôtô.",
+    "chunks": [
+      {
+        "_id": "73cb11bd-b9f2-4bff-9a21-1aa8025ead81",
+        "text": "Khi lái xe, cần quan sát và tiếp nhận thông tin từ xa, gần, trước, sau và hai bên để nắm bắt tình hình chướng ngại vật, giao thông, mặt đường và tốc độ các phương tiện khác, từ đó làm cơ sở để phán đoán tình huống giao thông, đưa ra dự đoán và quyết định xử lý an toàn;"
+      },
+      {
+        "_id": "31da4ff3-5952-4ea5-898a-470edb7beb2e",
+        "text": "việc xử lý tình huống đòi hỏi thực hiện thao tác lái xe phù hợp với phán đoán nhằm đảm bảo an toàn, đặc biệt khi vượt chướng ngại vật hoặc gặp tình huống bất ngờ, trong đó quan sát, phán đoán và xử lý có mối liên hệ chặt chẽ và quyết định đến sự an toàn khi điều khiển xe;"
+      },
+      {
+        "_id": "fcd388dc-19bb-467d-a544-17d5e6f5e4af",
+        "text": "bên cạnh đó, mệt mỏi khi lái xe có thể do lái lâu, tư thế ngồi sai, tiếng ồn, nhiệt độ, dao động hoặc điều kiện giao thông xấu, gây giảm khả năng quan sát, phán đoán và xử lý, dễ dẫn đến tai nạn, vì vậy cần xử lý bằng cách dừng xe nghỉ ngơi hoặc ngủ ngắn 20–30 phút nếu buồn ngủ, đi đường dài nên có hai tài xế thay phiên và cần chuẩn bị sức khỏe tốt, ngủ đủ trước chuyến đi, tránh sử dụng rượu bia."
+      }
+    ]
+  }
+]

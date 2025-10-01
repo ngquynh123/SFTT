@@ -1,0 +1,714 @@
+[
+  {
+    "_id": "5b3b6a43-bbb5-491c-a6ee-c468fc76b700",
+    "subject_id": 2,
+    "lesson": 1,
+    "tittle": "Giải thích từ ngữ;",
+    "chunks": [
+      {
+        "_id": "73165c1d-529e-4ad1-9eb5-2dedd6c69c46",
+        "text": "Ô tô là phương tiện giao thông đường bộ chạy bằng động cơ, có từ bốn bánh xe trở lên, không chạy trên đường ray và thường được sử dụng để chở người, hàng hóa, kéo rơ moóc, sơmi rơ moóc hoặc thực hiện các chức năng, công dụng đặc biệt;"
+      },
+      {
+        "_id": "51edaac4-2202-40f6-ae36-72711fcd9e54",
+        "text": "ô tô được phân loại theo số chỗ ngồi, tải trọng, nhiên liệu hoặc công dụng;"
+      },
+      {
+        "_id": "edeccaa2-cb3e-41c1-9b9d-7de99aee7406",
+        "text": "cấu tạo chung của ô tô gồm năm phần chính là thân vỏ, động cơ, hệ thống gầm, hệ thống điện, bảng đồng hồ và nút điều khiển, trong đó mỗi phần lại được chia thành các hệ thống hoặc bộ phận nhỏ với nhiều tính năng phức tạp và riêng biệt."
+      }
+    ]
+  },
+  {
+    "_id": "33bb827e-cdd1-4eac-9f52-e1eefc7260d6",
+    "subject_id": 2,
+    "lesson": 2,
+    "tittle": "Động cơ xe ô tô;",
+    "chunks": [
+      {
+        "_id": "b99b34da-5dca-4902-be38-dc2d0908549f",
+        "text": "Động cơ ô tô là nguồn động lực chính, chuyển hóa nhiệt năng thành cơ năng để tạo chuyển động;"
+      },
+      {
+        "_id": "cc7997ac-7d6e-41d0-9219-24226baf7717",
+        "text": "cấu tạo chung gồm cơ cấu trục khuỷu - thanh truyền (biến đổi chuyển động tịnh tiến thành quay), cơ cấu phân phối khí (điều khiển khí nạp và khí xả), hệ thống cung cấp nhiên liệu (cung cấp xăng/diesel), hệ thống bôi trơn (giảm ma sát, bảo vệ động cơ) và hệ thống làm mát (duy trì nhiệt độ ổn định);"
+      },
+      {
+        "_id": "82fc86cb-4ad5-42ac-b48b-ecf47c89f53d",
+        "text": "động cơ đốt trong 4 kỳ một xi lanh hoạt động theo trình tự kỳ nạp (piston đi xuống, xu páp hút mở, hỗn hợp nhiên liệu - không khí vào), kỳ nén (piston đi lên, cả hai xu páp đóng, hỗn hợp bị nén lại), kỳ nổ (hỗn hợp cháy nhờ bugi ở động cơ xăng, tự cháy ở động cơ diesel, piston bị đẩy xuống) và kỳ xả (piston đi lên, xu páp xả mở, khí cháy thoát ra);"
+      },
+      {
+        "_id": "cf02405b-4427-461c-82be-12f54e108dd1",
+        "text": "động cơ 1 xi lanh chỉ có một hành trình sinh công nên công suất nhỏ, không ổn định còn động cơ nhiều xi lanh giúp tăng công suất và hoạt động ổn định hơn nhờ phân bố đều các kỳ sinh công, thường có dạng bố trí 4 hoặc 6 xi lanh thẳng hàng, 6 hoặc 8 xi lanh chữ V."
+      }
+    ]
+  },
+  {
+    "_id": "38c70084-651c-47a6-bea0-f95f5d0bbef4",
+    "subject_id": 2,
+    "lesson": 3,
+    "tittle": "Hệ thống bôi trơn và hệ thống làm mát;",
+    "chunks": [
+      {
+        "_id": "7db85e3f-c997-470a-b798-0f33a2fcfbb0",
+        "text": "Hệ thống bôi trơn có công dụng cung cấp dầu nhờn đến các bề mặt ma sát để giảm ma sát và mài mòn, tẩy rửa tạp chất và làm mát các bề mặt ma sát và dầu bôi trơn;"
+      },
+      {
+        "_id": "70b863ff-281d-446b-a779-eda98f44050b",
+        "text": "nguyên lý hoạt động gồm bơm dầu hút dầu từ các te, đẩy qua bộ lọc loại bỏ tạp chất, phân phối đến các bộ phận quan trọng như trục khuỷu, trục cam, piston..., dầu dư rơi về các te để tiếp tục chu trình và van an toàn sẽ mở khi bộ lọc bị tắc nhằm tránh thiếu dầu;"
+      },
+      {
+        "_id": "beaa84a6-d1e5-442c-9ed9-5a619803b785",
+        "text": "hệ thống làm mát có công dụng giảm nhiệt độ chi tiết máy, duy trì nhiệt độ ổn định (80–90°C) đảm bảo hiệu suất làm việc và ngăn hỏng hóc do nhiệt độ cao như bó kẹt piston, giảm độ nhớ dầu bôi trơn hoặc cháy kích nổ ở động cơ xăng;"
+      },
+      {
+        "_id": "a2647ab0-2c5c-442b-bb75-0caa96f1e905",
+        "text": "phương pháp làm mát bằng nước bằng cách dùng nước tuần hoàn qua két nước và động cơ cho hiệu quả làm mát cao, duy trì nhiệt độ ổn định, phù hợp với ô tô, tuy nhiên cấu tạo phức tạp, cần kiểm tra và bảo trì thường xuyên;"
+      },
+      {
+        "_id": "1ba34ecf-4389-4b59-acf9-f97fc2960764",
+        "text": "nguyên lý hoạt động gồm bơm nước hút nước từ két, dẫn đến xi lanh và buồng cháy để làm mát, van hằng nhiệt điều chỉnh dòng nước: khi nhiệt độ dưới 80°C nước chỉ tuần hoàn trong động cơ còn khi trên 80°C nước đi qua két làm mát, quạt làm mát hỗ trợ tản nhiệt khi nhiệt độ độ động cơ trên 80°C."
+      }
+    ]
+  },
+  {
+    "_id": "4a4c9670-6ab0-4ac8-90dd-5a5164b9564b",
+    "subject_id": 2,
+    "lesson": 4,
+    "tittle": "Hệ thống cung cấp nhiên liệu;",
+    "chunks": [
+      {
+        "_id": "33a3017a-e341-43fb-936e-52f2ad6c7481",
+        "text": "Hệ thống cung cấp nhiên liệu động cơ xăng gồm hai loại: bằng chế hòa khí, trong đó bơm xăng hút nhiên liệu từ thùng chứa qua lọc xăng vào chế hòa khí."
+      },
+      {
+        "_id": "08fd0404-eba6-468d-a31a-2ebbf9bbc751",
+        "text": "Ở hành trình hút, không khí đi qua bộ lọc không khí vào ché hòa khí, kéo theo xăng tạo hỗn hợp khí đưa vào xi lanh, nén và đốt cháy bằng bugi, khí thải thoát ra ngoài qua ống xả;"
+      },
+      {
+        "_id": "16c5c57e-495e-47e3-90ef-2f4f71bd411f",
+        "text": "Nếu bằng vòi phun điện tử, trong đó xăng được phun trực tiếp vào cổ hút khi động cơ hút khí, thay thế chế hòa khí để tạo hỗn hợp;"
+      },
+      {
+        "_id": "73d7d55f-d628-4b8e-a8b1-b6fffb1c1aff",
+        "text": "còn với động cơ diesel cũng gồm hai loại: điều khiển bằng cơ khí, trong đó nhiên liệu đi qua lọc thô, lọc tinh rồi đến bơm cao áp để nén và đưa đến vòi phun phun vào buồng cháy tạo sương mù và tự cháy ở cuối kỳ nén;"
+      },
+      {
+        "_id": "024039e6-2fa4-4c3c-be24-e9d7b32e2b1d",
+        "text": "còn nếu điều khiển bằng điện tử, trong đó bơm cao áp nén nhiên liệu và lưu trữ trong ray cung cấp."
+      },
+      {
+        "_id": "51cccd0a-9a89-4426-84d2-027609d0dbfd",
+        "text": "Ở cuối kỳ nén, ECU (bộ điều khiển điện tử) cấp tín hiệu cho vòi phun phun nhiên liệu vào buồng cháy đúng thời điểm với áp suất cao."
+      }
+    ]
+  },
+  {
+    "_id": "11e24d14-0689-43d4-a09d-4044d8fec975",
+    "subject_id": 2,
+    "lesson": 5,
+    "tittle": "Hệ thống truyền lực;",
+    "chunks": [
+      {
+        "_id": "483a7693-0840-475f-b14c-0a3d1429bae9",
+        "text": "Hệ thống cung cấp nhiên liệu động cơ xăng gồm hai loại: bằng chế hòa khí, trong đó bơm xăng hút nhiên liệu từ thùng chứa qua lọc xăng vào chế hòa khí."
+      },
+      {
+        "_id": "1a32a5ea-5d16-43f7-999d-c1f07bd175ed",
+        "text": "Ở hành trình hút, không khí đi qua lọc khí kéo theo xăng tạo hỗn hợp đưa vào xi lanh, nén và đốt cháy bằng bugi, khí thải thoát ra ngoài qua ống xả;"
+      },
+      {
+        "_id": "d7e38fc8-89b3-4f24-9f73-03a787fa611d",
+        "text": "và nếu bằng vòi phun điện tử, trong đó xăng được phun trực tiếp vào cổ hút khi động cơ hút khí, thay thế chế hòa khí để tạo hỗn hợp;"
+      },
+      {
+        "_id": "f64924e6-6792-4200-a917-f100b992c4bc",
+        "text": "còn với động cơ diesel cũng gồm hai loại: điều khiển bằng cơ khí, trong đó nhiên liệu đi qua lọc thô, lọc tinh."
+      },
+      {
+        "_id": "636adecc-89a9-4872-b8f9-7d99b5688b7a",
+        "text": "Ở hành trình hút rồi đến bơm cao áp để nén và đưa đến vòi phun phun vào buồng cháy tạo sương mù và tự cháy ở cuối kỳ nén;"
+      },
+      {
+        "_id": "efe2c807-f9d2-4156-9b1c-16a6414a71dc",
+        "text": "và nếu điều khiển bằng điện tử, trong đó nhiên liệu được bao cao áp nén đến áp suất cao và lưu trữ trong ray cung cấp."
+      },
+      {
+        "_id": "76239dc1-8024-45f1-b435-2e944bdcc5d0",
+        "text": "Ở cuối kì nén, ECU (bộ điều khiển điện tử) cấp tín hiệu cho vòi phun phun nhiên liệu vào buồng cháy đúng thời điểm với áp suất cao."
+      }
+    ]
+  },
+  {
+    "_id": "7d593a50-2515-4f29-93e0-178187086a6f",
+    "subject_id": 2,
+    "lesson": 6,
+    "tittle": "Hệ thống chuyển động;",
+    "chunks": [
+      {
+        "_id": "981c6a89-cd88-47ed-9bcf-2c3eb962304f",
+        "text": "Bánh xe biến chuyển động quay của động cơ thành chuyển động tịnh tiến của ô tô, đồng thời góp phần tăng độ êm dịu khi xe chuyển động;"
+      },
+      {
+        "_id": "b5431942-313f-4063-a126-bd3ca1f4038a",
+        "text": "gồm hai phần: phần trong cứng là vành (la răng) và phần ngoài đàn hồi là lốp, trong đó lốp liền săm thường dùng cho ô tô con, ô tô thể thao, còn lốp có săm phổ biến ở xe tải và xe khách;"
+      },
+      {
+        "_id": "ff62d208-b6b9-4c83-8ad6-3d92a4b9cab7",
+        "text": "vành ô tô con, thể thao thường làm từ hợp kim nhôm, còn vành xe tải, xe khách làm từ thép lá dập;"
+      },
+      {
+        "_id": "28c09523-f8ba-4091-967b-aee60e261e46",
+        "text": "cấu tạo lốp gồm gai lốp (tiếp xúc mặt đường, tạo độ bám, chịu mài mòn, chịu nhiệt), lớp nệm bố gồm 4 lốp nhỏ (tạo độ dày, độ bền, ảnh hưởng đặc tính lốp), hông lốp có vai trò bảo vệ khỏi va đập của đá, cát và đất trong quá trình xe vận hành, tanh lốp (giúp lốp xe gắn chắc vào vành đảm bảo an toàn, tạo định hình cho toàn lốp giúp lốp thực hiện tốt nhiệm vụ của mình );"
+      },
+      {
+        "_id": "8e2cdcf9-55ff-4796-8402-295d76126bd7",
+        "text": "Ý nghĩa của các thông số ghi trên lốp xe thể hiện khả năng chịu tải, tốc độ, địa hình khác nhau, mỗi ô tô phù hợp với mỗi loại lốp khác nhau;"
+      },
+      {
+        "_id": "25c1f08e-93fc-41a0-87d7-9e5bb2066270",
+        "text": "các thông số được in bên hông lốp, có thể tra thêm trong sổ tay hướng dẫn sử dụng hoặc trang web nhà sản xuất để hiểu rõ chi tiết ý nghĩa các ký hiệu này."
+      }
+    ]
+  },
+  {
+    "_id": "27945d17-6464-4010-925d-2c0191949f2b",
+    "subject_id": 2,
+    "lesson": 7,
+    "tittle": "Hệ thống điều khiển;",
+    "chunks": [
+      {
+        "_id": "81598499-ff6f-451a-85c8-7dbd1615cac3",
+        "text": "Hệ thống lái giúp thay đổi hoặc giữ ổn định hướng chuyển động của ô tô, gồm cơ cấu lái và dẫn động lái, có thể tích hợp trợ lực lái thủy lực hoặc điện để giảm lực điều khiển;"
+      },
+      {
+        "_id": "0162fe31-cf03-4b90-a537-eea3902fc749",
+        "text": "hệ thống phanh chân có hai loại chính: phanh dẫn động bằng dầu (dùng áp suất dầu đẩy piston ép má phanh vào đĩa hoặc tang trống) và phanh khí nén (sử dụng áp suất khí nén tác động lên cơ cấu phanh, phổ biến ở xe tải và xe khách);"
+      },
+      {
+        "_id": "6aba93db-9492-49e8-acf6-dcb650ae76e4",
+        "text": "hệ thống phanh đỗ gồm dẫn động cơ khí (dùng cần phanh tay ép má phanh vào tang trống) và dẫn động khí nén (dùng khí nén tác động lên bầu phanh giữ bánh xe đứng yên);"
+      },
+      {
+        "_id": "651b707d-a6f5-4115-8e84-c81891fd58ea",
+        "text": "các hệ thống hỗ trợ phanh hiện đại gồm: hệ thống chống bó cứng phanh ABS (ngăn chặn bánh xe bị khóa, giữ khả năng điều khiển khi phanh gấp,), hỗ trợ phanh khẩn cấp BA/BAS (gia tăng lực phanh khi người lái chưa đạp phanh đủ mạnh trong tình huống nguy cấp), phân phối lực phanh EBD (cân bằng lực phanh hợp lý giữa các bánh xe theo tải trọng và điều kiện đường, giúp xe ổn định khi phanh), và hệ thống ổn định chuyển động VSC/ESP/ESC (giúp xe ổn định khi vào cua hoặc phanh gấp, chống trượt bánh và lật xe)."
+      }
+    ]
+  },
+  {
+    "_id": "6589784f-fe1c-454c-a218-2e2501e09253",
+    "subject_id": 2,
+    "lesson": 8,
+    "tittle": "Hệ thống điện xe ô tô;",
+    "chunks": [
+      {
+        "_id": "b6704338-28a6-4c48-b716-72b21ff3dd40",
+        "text": "Hệ thống điện trên ô tô đóng vai trò cung cấp và phân phối điện năng cho các thiết bị như hệ thống đánh lửa, máy khởi động, đèn chiếu sáng, tín hiệu, đồng hồ đo,..."
+      },
+      {
+        "_id": "4967f1ec-5454-47da-9611-611214627f84",
+        "text": "và gồm hai nhóm chính: nhóm nguồn điện và nhóm tiêu thụ điện."
+      },
+      {
+        "_id": "9cc044f9-60e9-43b8-9966-1f6246f9a82b",
+        "text": "Ắc quy có chức năng lưu trữ và cung cấp điện năng khi máy phát chưa hoạt động hoặc khi điện áp chưa đủ, đặc biệt khi động cơ chạy chậm thì ắc quy sẽ cấp điện, còn khi động cơ chạy nhanh thì máy phát điện sẽ cung cấp điện năng và đồng thời nạp lại cho ắc quy."
+      },
+      {
+        "_id": "098acb9d-be9c-4b3b-b8e2-c8383add77c5",
+        "text": "Máy phát điện cung cấp điện năng và nạp ắc quy, hoạt động bằng cách cho rô-to quay tạo ra từ trường biến thiên để sinh ra dòng điện xoay chiều, sau đó dòng điện này được chỉnh lưu thành dòng điện một chiều để sử dụng."
+      },
+      {
+        "_id": "f001e252-df3e-4eb3-9543-95d57e7cf6bc",
+        "text": "Bộ điều chỉnh điện giúp ổn định điện áp, điều chỉnh dòng điện và ngăn dòng điện ngược từ ắc quy về máy phát, với các loại điều chỉnh như cơ khí, bán dẫn có tiếp điểm và không có tiếp điểm."
+      },
+      {
+        "_id": "6225a9aa-9700-4993-955a-1a83afb75560",
+        "text": "Hệ thống đánh lửa, được dùng trong động cơ xăng, có nhiệm vụ biến đổi dòng điện áp thấp (6V–12V) thành điện áp cao (15.000V–20.000V) để tạo tia lửa điện tại bugi, bao gồm loại đánh lửa có tiếp điểm (sử dụng cam, mô bin, tụ điện để tạo ra lửa) và đánh lửa điều khiển điện tử (ECU điều khiển thời điểm đánh lửa dựa trên tín hiệu từ cảm biến)."
+      },
+      {
+        "_id": "541f2704-f68a-47fd-8b39-80d9405a4df6",
+        "text": "Cuối cùng, máy khởi động điện giúp khởi động động cơ mà không cần sức người bằng cách kích hoạt rơ-le, kéo bánh răng khớp với bánh đà động cơ và làm quay động cơ cho đến khi máy nổ."
+      }
+    ]
+  },
+  {
+    "_id": "62edc3af-fbad-4ea1-8107-6d50b9839cd6",
+    "subject_id": 2,
+    "lesson": 9,
+    "tittle": "Các hệ thống an toàn chủ động trên ô tô;",
+    "chunks": [
+      {
+        "_id": "e073a9ee-7e3d-4c5e-a153-b83ebe6060fa",
+        "text": "Dây đai an toàn giúp giữ người ngồi trong xe không bị lao về phía trước theo quán tính khi va chạm, trong đó dây đai 3 điểm dùng trên ô tô thông thường, còn dây đai 4 hoặc 5 điểm dùng trên xe đua và xe thể thao. Hệ thống túi khí (Airbag) giảm thiểu va đập của đầu và mặt với nội thất xe khi xảy ra tai nạn, hỗ trợ dây đai an toàn và hấp thụ lực va chạm. ACU kích hoạt ngòi nổ, tạo phản ứng sinh khí bơm phồng túi khí trong 0,04 giây, sau đó túi khí xẹp hơi ngay để tránh chấn thương do áp lực cao. Hệ thống cảnh báo điểm mù giúp phát hiện phương tiện ở các điểm mù – vùng không thể quan sát bằng gương chiếu hậu hoặc nhìn trực tiếp – và cảnh báo bằng âm thanh, rung vô lăng hoặc hiển thị hình ảnh trên màn hình. Hệ thống đèn pha chủ động phát hiện xe ngược chiều ban đêm, tự động điều chỉnh đèn pha thành đèn cos, giúp người lái tập trung hơn, không cần điều chỉnh đèn bằng tay, rất hữu ích khi lái xe đường dài, đặc biệt trên đường quê vào ban đêm. Hệ thống cảnh báo chệch làn đường giúp phát hiện xe chệch làn do mất tập trung, giảm nguy cơ tai nạn; nếu xe lệch làn mà không bật xi-nhan, hệ thống cảnh báo bằng âm thanh hoặc rung vô lăng, và người lái có thể kích hoạt hệ thống bằng nút bấm trên vô lăng. Hệ thống hỗ trợ tự ghép xe vào nơi đỗ giúp đánh lái tự động vào chỗ đỗ, người lái vẫn kiểm soát phanh, ga, số, xi-nhan, và một số xe có hỗ trợ tăng hoặc giảm ga tự động."
+      }
+    ]
+  },
+  {
+    "_id": "8f4ad76a-ebc6-4cdf-8096-71680c184993",
+    "subject_id": 2,
+    "lesson": 10,
+    "tittle": "Hệ thống tự chẩn đoán và báo lỗi trên ô tô;",
+    "chunks": [
+      {
+        "_id": "75a54949-57c9-4d9a-8d88-d2c7a5b486b3",
+        "text": "Có 64 ký hiệu đèn báo lỗi và thông báo trên ô tô và thống nhất trên thế giới."
+      },
+      {
+        "_id": "9a1e9177-11fd-4243-aacc-e7fb412ff1f8",
+        "text": "Tuy nhiên, chỉ có khoảng 12 ký hiệu thường xuyên xuất hiện ở tất cả các mẫu xe ô tô."
+      },
+      {
+        "_id": "80789a84-37ff-410b-bac6-aac49a57f48f",
+        "text": "Đèn màu đỏ thường cảnh báo lỗi nghiêm trọng, màu vàng hoặc cam là cảnh báo trung bình, màu xanh thường chỉ báo hiệu hệ thống đang hoạt động và màu trắng để thông báo tùy chọn lái xe hoặc tính năng hỗ trợ."
+      }
+    ]
+  },
+  {
+    "_id": "2ac1890d-f73f-4e12-b206-58cc7d21e6bb",
+    "subject_id": 2,
+    "lesson": 11,
+    "tittle": "Các dấu hiệu nhận biết động cơ, hệ thống phanh và hệ thống truyền lực gặp sự cố;",
+    "chunks": [
+      {
+        "_id": "d7b35db9-266c-4728-9e15-22dccd9fed91",
+        "text": "Sự cố về động cơ có thể được nhận biết qua các dấu hiệu như đèn báo kiểm tra động cơ, đèn báo quá nhiệt, đèn báo thiếu dầu, tiếng gõ lạ, tiếng rít hoặc hiện tượng chảy dầu."
+      },
+      {
+        "_id": "98b2fea8-bc12-46c2-8434-3a10fa1438df",
+        "text": "Tùy theo từng loại sự cố, người lái xe cần đưa xe đến trạm bảo dưỡng, dừng xe kiểm tra hoặc gọi cứu hộ."
+      },
+      {
+        "_id": "cebd7aa4-0b4e-41e1-8859-b26902cabfd3",
+        "text": "Đối với sự cố về hệ thống phanh, các dấu hiệu thường gặp bao gồm đèn báo phanh đỗ, đèn báo hệ thống ABS, đèn báo hệ thống phân bổ lực phanh, tiếng kêu \"két két\", lực đạp phanh lớn hơn bình thường, hành trình bàn đạp phanh bất thường hoặc xe bị chệch hướng khi phanh."
+      },
+      {
+        "_id": "c093845b-6aec-4a17-95d4-3081f7a5e934",
+        "text": "Tùy theo loại sự cố, người lái nên kiểm tra và bổ sung dầu phanh, giảm tốc độ, đưa xe đến trạm bảo dưỡng hoặc gọi cứu hộ."
+      },
+      {
+        "_id": "43eac656-da07-422e-87be-73921436c5d8",
+        "text": "Sự cố về hệ thống truyền lực có thể biểu hiện qua hiện tượng không cắt được ly hợp, trượt ly hợp, không vào được số hoặc vào số khó khăn;"
+      },
+      {
+        "_id": "9dca6f11-0715-4745-841c-0e7d758deaf7",
+        "text": "khi đó, người lái cần tìm chỗ an toàn để dừng xe kiểm tra, gọi cứu hộ hoặc đưa xe đến trạm bảo dưỡng để được xử lý kịp thời."
+      }
+    ]
+  },
+  {
+    "_id": "1518ceb5-c8c0-4f73-a41b-22c4737c3d5e",
+    "subject_id": 2,
+    "lesson": 12,
+    "tittle": "Các dấu hiệu nhận biết hệ thống phanh lái, bánh xe, hệ thống an toàn chủ động và ắc quy, hệ thống nạp điện gặp sự cố;",
+    "chunks": [
+      {
+        "_id": "86ed6bc9-a3ed-461a-bd56-af12b35754d8",
+        "text": "Sự cố về hệ thống lái thường được nhận biết qua các dấu hiệu như tay lái nặng, tay lái trả chậm, vô lăng bị rơ, phát ra tiếng kêu bất thường hoặc chảy dầu ở thước lái;"
+      },
+      {
+        "_id": "a4ea718e-2446-4239-a201-4fd0408c929e",
+        "text": "cách xử lý là kiểm tra dầu trợ lực lái và đưa xe đến cơ sở sửa chữa."
+      },
+      {
+        "_id": "451cd204-660a-4bd0-94f9-f8dd9f9b5aef",
+        "text": "Sự cố về bánh xe có thể được phát hiện khi đèn cảnh báo áp suất lốp bật sáng, xe bị nghiêng, tay lái nặng về một bên, lốp xẹp hoặc tay lái rung lắc khi xe chạy ở tốc độ cao;"
+      },
+      {
+        "_id": "9bdd9474-b6ad-4b16-9b7e-23799a56da75",
+        "text": "trong trường hợp này, cần kiểm tra lốp xe, thay lốp dự phòng, cân bằng động bánh xe hoặc thay lốp mới."
+      },
+      {
+        "_id": "924e3a2c-8351-4ee6-91e9-39d0566f2adf",
+        "text": "Với sự cố về hệ thống an toàn chủ động, dấu hiệu dễ thấy là đèn cảnh báo bật sáng và hệ thống không hoạt động;"
+      },
+      {
+        "_id": "96f4a51d-b9e6-4784-97f1-586360fa16f3",
+        "text": "người lái cần đưa xe đến trạm bảo dưỡng để kiểm tra và sửa chữa."
+      },
+      {
+        "_id": "2dfa3c6b-a748-4abc-8d70-b24107ad31cb",
+        "text": "Đối với sự cố về ắc quy và máy phát điện, các dấu hiệu như không thể khởi động xe, hệ thống khởi động không hoạt động, đèn cảnh báo ắc quy vẫn sáng dù động cơ đã nổ đều cho thấy cần kiểm tra mắt hiển thị của ắc quy, thay ắc quy mới, nối song song ắc quy để khởi động động cơ hoặc đưa xe đến xưởng bảo dưỡng để kiểm tra và sửa chữa."
+      }
+    ]
+  },
+  {
+    "_id": "3a7d10a3-4722-4eb4-90fe-6875633b66ea",
+    "subject_id": 2,
+    "lesson": 13,
+    "tittle": "Nội quy xưởng và kỹ thuật an toàn;",
+    "chunks": [
+      {
+        "_id": "294f8461-9b4d-4abe-ae03-4d3d0875ce6d",
+        "text": "Nội quy xưởng yêu cầu mọi người phải bảo đảm an toàn cho bản thân và người khác, không gây cản trở công việc trong xưởng, không làm hư hỏng trang thiết bị, vật tư, nhiên liệu, đồng thời giữ gìn vệ sinh và phòng chống cháy nổ."
+      },
+      {
+        "_id": "e7700d9b-4f24-4295-a222-77775bca06e1",
+        "text": "Các quy định an toàn chung bao gồm: đảm bảo đầy đủ trang bị phòng hộ, chỉ sử dụng dụng cụ chất lượng tốt, kê kích xe chắc chắn với độ cao vừa đủ và tuyệt đối không chui gầm khi đang kê kích, luôn kéo phanh tay và gài số 0 khi bảo dưỡng, không dùng tay kiểm tra chỗ khuất mà phải dùng thiết bị chuyên dụng."
+      },
+      {
+        "_id": "9afe8e20-6038-4ebf-8f5d-e7d263087bc1",
+        "text": "Khi thực hiện các công việc tháo, lắp, cần kê kích xe cẩn thận trên nền đất cứng và không trơn trượt, tháo lắp bu lông đai ốc phải đúng lực xiết quy định, không dùng hai tay khi xiết, không dùng búa, và dùng cờ lê có chiều dày tối thiểu bằng 2/5 đai ốc;"
+      },
+      {
+        "_id": "20befa14-7d39-411c-bfec-c8481448a467",
+        "text": "tuyệt đối không chui gầm khi xe đang nổ máy."
+      },
+      {
+        "_id": "ec7b4ac7-15e1-4566-9154-a692982fde25",
+        "text": "Với công việc liên quan đến săm lốp, cần xả hết hơi trước khi tháo lốp và thao tác đúng trình tự, kiểm tra vành hãm trước khi bơm lốp trên máy, nếu áp suất lốp dưới 40% tiêu chuẩn thì phải kích xe lên hoặc tháo bánh ra để bơm."
+      },
+      {
+        "_id": "67613096-7e5a-43e0-88bb-7bef3e0e61ae",
+        "text": "Đối với công việc bảo dưỡng động cơ, khi cho động cơ nổ tại chỗ phải kéo phanh tay và gài số 0, thử điện cao áp phải dùng tuốc nơ vít cách điện, chỉ mở nắp két nước khi nước đã hết sôi, tránh để xăng dính vào quần áo, tránh hít hơi xăng và tuyệt đối không hút xăng bằng miệng, việc kiểm tra vòi phun diesel phải dùng thiết bị chuyên dụng."
+      },
+      {
+        "_id": "d1a13e3f-4e6f-4ad3-936a-0b8a13690474",
+        "text": "Dụng cụ đồ nghề cần thiết cho người lái xe gồm có kích, cục chèn bánh xe và bộ dụng cụ."
+      },
+      {
+        "_id": "38c89683-44c7-4e7c-bd91-89f01628a6ed",
+        "text": "Quy trình thay bánh xe dự phòng gồm các bước: (1) kéo phanh tay và chèn bánh xe, (2) nới êcu bánh xe, (3) kích xe lên, (4) tháo bánh xe, (5) lắp bánh dự phòng và vặn êcu vừa đủ lực, (6) hạ kích và (7) siết chặt êcu."
+      }
+    ]
+  },
+  {
+    "_id": "f9b5c39d-eec2-4d5d-8200-622ee7f08abd",
+    "subject_id": 2,
+    "lesson": 14,
+    "tittle": "Hư hỏng thường gặp ở động cơ;",
+    "chunks": [
+      {
+        "_id": "ec81327e-d4f2-449e-aa68-7096bb289cae",
+        "text": "Động cơ không khởi động được có thể do nhiều nguyên nhân như ắc quy yếu hoặc hết điện, hệ thống khởi động hỏng, bugi hoặc kim phun nhiên liệu bị lỗi, hoặc hỏng cảm biến trục khuỷu hay cảm biến trục cam."
+      },
+      {
+        "_id": "aa3a320d-6e61-4e05-9a89-9c50d026c429",
+        "text": "Cách khắc phục là kiểm tra và thay ắc quy nếu cần, kiểm tra và sửa chữa hệ thống khởi động, vệ sinh hoặc thay bugi, kim phun nhiên liệu, kiểm tra và thay thế cảm biến hỏng."
+      },
+      {
+        "_id": "30e45dba-8495-4f7e-a7b8-fa7c88798ba0",
+        "text": "Động cơ bị quá nhiệt thường do hệ thống làm mát rò rỉ hoặc tắc nghẽn, thiếu nước làm mát, hoặc bơm nước, van hằng nhiệt bị lỗi."
+      },
+      {
+        "_id": "8ddd547b-7aff-41f5-9208-bc7760e843a3",
+        "text": "Người sử dụng cần kiểm tra và sửa chữa hệ thống làm mát, bổ sung hoặc thay nước làm mát, thay bơm nước hoặc van hằng nhiệt nếu cần."
+      },
+      {
+        "_id": "fda93b66-cc4c-4d0f-98b7-03f0ab4ff89e",
+        "text": "Nếu động cơ hoạt động không ổn định, nguyên nhân có thể là do lọc gió hoặc lọc nhiên liệu bị bẩn, hệ thống đánh lửa bị hỏng, hoặc áp suất buồng đốt không đồng đều."
+      },
+      {
+        "_id": "423c0005-36fc-4906-a8f8-70c698b95e33",
+        "text": "Cách xử lý là thay lọc gió, lọc nhiên liệu, kiểm tra và thay thế bugi, dây cao áp hoặc bobin, đồng thời kiểm tra áp suất buồng đốt và sửa chữa nếu cần."
+      },
+      {
+        "_id": "a9ff77b1-bbf1-4e77-9c8f-ec9fc6734c74",
+        "text": "Động cơ phát ra tiếng ồn bất thường có thể do dây đai cam hoặc dây curoa bị lỏng, bộ van hoặc trục khuỷu bị mòn, hoặc hỏng bạc lót hay thanh truyền;"
+      },
+      {
+        "_id": "51a689e9-6c56-4ae7-ab74-fe0f4ce46a82",
+        "text": "khi đó cần điều chỉnh hoặc thay thế dây đai và sửa chữa, thay thế các bộ phận bị mòn."
+      },
+      {
+        "_id": "f75324f2-a4b2-4971-abfc-cf3a538eae35",
+        "text": "Nếu động cơ bị rò rỉ dầu, có thể do phớt chặn dầu hỏng hoặc roăng động cơ bị rách, cần thay phớt chặn dầu hoặc gioăng mới, đồng thời kiểm tra áp suất dầu và hệ thống bôi trơn."
+      },
+      {
+        "_id": "28da3f90-c9c4-4c6f-9f9b-3e72e3719a48",
+        "text": "Trường hợp ống xả có khói đen, xanh hoặc trắng, nguyên nhân có thể là: khói đen do dư nhiên liệu bởi kim phun bị lỗi hoặc lọc gió bẩn;"
+      },
+      {
+        "_id": "8df61789-698b-45fb-b9f9-bd87a2d43758",
+        "text": "khói xanh do cháy dầu bôi trơn bởi hở xéc-măng hoặc phốt dầu van;"
+      },
+      {
+        "_id": "a2bb946d-06ed-4035-ab7d-164bdeba1c92",
+        "text": "khói trắng do nước từ hệ thống làm mát rò rỉ vào buồng đốt."
+      },
+      {
+        "_id": "0e2e1e4b-d017-4a3b-8842-967f8d2215ed",
+        "text": "Cách khắc phục là vệ sinh hoặc thay kim phun, lọc gió, thay xéc-măng, phốt dầu van, và sửa chữa hệ thống làm mát."
+      },
+      {
+        "_id": "c52042e6-cf16-4c97-84ff-c1f54163709b",
+        "text": "Nếu động cơ tiêu hao nhiên liệu bất thường, nguyên nhân thường là do lọc nhiên liệu hoặc lọc gió bị bẩn, kim phun hoạt động không hiệu quả, hoặc lỗi cảm biến oxy hay cảm biến lưu lượng khí."
+      },
+      {
+        "_id": "224fe527-987e-48b9-bf00-05b36b7dea6c",
+        "text": "Khi đó cần thay lọc nhiên liệu, lọc gió, kiểm tra và vệ sinh kim phun, sửa chữa hoặc thay cảm biến."
+      }
+    ]
+  },
+  {
+    "_id": "194e3b7b-0f66-4f50-8364-1d101e57c1e6",
+    "subject_id": 2,
+    "lesson": 15,
+    "tittle": "Hư hỏng thường gặp ở hộp số;",
+    "chunks": [
+      {
+        "_id": "d1f3bb16-382e-4a83-aa74-18505bd048e9",
+        "text": "Hộp số bị trượt có thể do đĩa ly hợp bị mòn (với xe số sàn), thiếu dầu hoặc dầu bẩn (với số tự động), hoặc hỏng bộ điều khiển hộp số (ECU)."
+      },
+      {
+        "_id": "d8b80891-2f9a-44e4-9fab-8b05d2b0700c",
+        "text": "Cách khắc phục là thay đĩa ly hợp nếu mòn, kiểm tra và bổ sung hoặc thay dầu hộp số, kiểm tra và sửa chữa ECU."
+      },
+      {
+        "_id": "1f6a94c4-adc5-4b6e-960b-46b8621ba84c",
+        "text": "Khi hộp số phát ra tiếng ồn bất thường, nguyên nhân có thể là bánh răng hoặc ổ bi bị mòn, thiếu dầu hoặc dầu không đạt tiêu chuẩn."
+      },
+      {
+        "_id": "eceb0b10-d460-4b7c-beee-14c079c3ec37",
+        "text": "Người dùng cần kiểm tra và thay thế các bộ phận bị hỏng, đồng thời bổ sung hoặc thay dầu hộp số phù hợp."
+      },
+      {
+        "_id": "0b4a099c-6913-429f-a45f-9e623b9749c9",
+        "text": "Trường hợp hộp số bị rò rỉ dầu có thể do phớt chặn dầu hoặc gioăng bị hỏng, hoặc do bu-lông và các khớp nối bị lỏng, cần thay phớt hoặc gioăng mới và siết chặt lại các khớp nối."
+      },
+      {
+        "_id": "1c990e85-31f0-4735-ac09-9cf820c50fb0",
+        "text": "Khó chuyển số ở hộp số sàn thường là do đĩa ly hợp mòn, dây cáp hoặc hệ thống thủy lực hỏng, hoặc do lỗi cơ cấu đồng tốc."
+      },
+      {
+        "_id": "d3fe6e93-7e18-4a27-84f1-37dd1e7cafd8",
+        "text": "Cách xử lý là thay đĩa ly hợp, sửa chữa hoặc thay thế dây cáp, xi-lanh ly hợp, và sửa chữa hoặc thay thế bộ đồng tốc."
+      },
+      {
+        "_id": "969c1655-5654-4fa3-b8ea-288752a3a47d",
+        "text": "Với xe số tự động, nếu xe bị giật hoặc rung khi chuyển số, nguyên nhân có thể là lỗi van điều khiển dầu, áp suất dầu không ổn định, hoặc hỏng mạch điện, cảm biến;"
+      },
+      {
+        "_id": "cef99be7-e407-4211-9588-4717b9989c8e",
+        "text": "cần vệ sinh hoặc thay van điều khiển dầu, kiểm tra và khắc phục hệ thống điện, cảm biến."
+      },
+      {
+        "_id": "b7a22507-6c27-4acb-b682-814d69e5c812",
+        "text": "Khi hộp số bị kẹt ở một số, có thể do lỗi cảm biến tốc độ hoặc cảm biến vị trí cần số, hỏng bộ ly hợp trong hộp số hoặc lỗi phần mềm điều khiển;"
+      },
+      {
+        "_id": "02083945-85f8-467f-a854-4cbc01b9aa40",
+        "text": "cần kiểm tra và thay cảm biến bị lỗi, sửa chữa bộ ly hợp, cập nhật hoặc cài lại phần mềm."
+      },
+      {
+        "_id": "be89a55a-03ae-418c-a36f-6792e8a19f62",
+        "text": "Xe không di chuyển dù đã gài số có thể do thiếu dầu hoặc dầu bị cháy, hư hỏng cơ cấu ly hợp hoặc lỗi nghiêm trọng trong bộ truyền động;"
+      },
+      {
+        "_id": "fa2dc716-66fe-4da9-abc8-e7c965c42e39",
+        "text": "cách xử lý là kiểm tra và bổ sung dầu, sửa chữa các bộ phận liên quan."
+      },
+      {
+        "_id": "2ce92057-feda-4d46-a895-248f4bf63515",
+        "text": "Cuối cùng, nếu nhiệt độ hộp số tăng quá cao, nguyên nhân có thể là do thiếu dầu, dầu không đạt tiêu chuẩn, hoặc lỗi trong hệ thống làm mát dầu hộp số;"
+      },
+      {
+        "_id": "4adfa112-0475-4285-a593-0f2adead2b9e",
+        "text": "cần thay dầu đúng loại và kiểm tra, sửa chữa hệ thống làm mát."
+      }
+    ]
+  },
+  {
+    "_id": "7a6d82d6-3b06-461a-9e10-0bcd1cf6ba44",
+    "subject_id": 2,
+    "lesson": 16,
+    "tittle": "Hư hỏng thường gặp ở điều hòa và hệ thống điện;",
+    "chunks": [
+      {
+        "_id": "1bc66ac8-479e-44f0-a2e5-09ef1db463a3",
+        "text": "Điều hòa không mát hoặc mát yếu thường do thiếu hoặc hết gas lạnh, lọc gió cabin bị bẩn, dàn nóng hoặc dàn lạnh hỏng, van tiết lưu hoặc van điều chỉnh áp suất bị lỗi, hoặc máy nén hoạt động kém."
+      },
+      {
+        "_id": "3f530317-d243-4549-9364-c3d35c78a6f5",
+        "text": "Cách khắc phục là kiểm tra và nạp gas lạnh, thay lọc gió cabin nếu cần, vệ sinh hoặc thay dàn nóng/lạnh, và sửa chữa hoặc thay các van cũng như máy nén."
+      },
+      {
+        "_id": "e41449cf-dd77-4444-b44c-852c155b27b6",
+        "text": "Trường hợp điều hòa không hoạt động có thể do bộ điều khiển (ECU) hoặc rơ-le hỏng, cầu chì cháy, hoặc hỏng quạt dàn nóng hay dây đai máy nén;"
+      },
+      {
+        "_id": "0d4269ea-dabd-4ced-9642-e63aef3bfdd5",
+        "text": "cần kiểm tra và sửa chữa hoặc thay thế bộ điều khiể, thay cầu chì mới, kiểm tra và thay quạt hoặc dây đai máy nén."
+      },
+      {
+        "_id": "d3b291a0-844e-4af2-82ed-931d32ffc77c",
+        "text": "Nếu điều hòa có mùi hôi khó chịu, nguyên nhân có thể do dàn lạnh bẩn hoặc có nấm mốc, lọc gió cabin lâu ngày không thay, hoặc rò rỉ nước ở hệ thống thoát nước dàn lạnh;"
+      },
+      {
+        "_id": "7caa71c4-fc03-45ac-89cf-a6e6d53a6931",
+        "text": "cần vệ sinh dàn lạnh bằng dung dịch chuyên dụng, thay lọc gió cabin định kỳ, kiểm tra và sửa chữa đường thoát nước."
+      },
+      {
+        "_id": "466164ba-1d82-4c15-8bca-21deee106c3b",
+        "text": "Tiếng ồn lớn từ điều hòa có thể xuất phát từ quạt gi cabin hoặc quạt dàn nóng bị hỏng, bám mùi;"
+      },
+      {
+        "_id": "7dfc7e65-b577-4044-80c4-9294893d348e",
+        "text": "máy nén hoạt động bất thường, hoặc dây đai truyền động lỏng; cần kiểm tra, sửa chữa hoặc thay thế quạt gió;"
+      },
+      {
+        "_id": "0363db1b-9582-462f-9fd2-6ad93f7d21b0",
+        "text": "kiểm tra máy nén và dây đai, sửa chữa hoặc thay mới nếu cần."
+      },
+      {
+        "_id": "e27adb07-81f4-4182-89d6-1b93a6d56503",
+        "text": "Trường hợp đóng tuyết trên dàn lạnh thường do lượng gas quá nhiều, van tiết lưu hỏng, không điều chỉnh được dòng gas hoặc dàn lạnh bẩn, giảm lưu thông không khí;"
+      },
+      {
+        "_id": "9c6fdb6a-a5d7-48fa-8750-5381ca14ae1c",
+        "text": "nên xả bớt gas lạnh, kiểm tra và thay thế van tiết lưu và vệ sinh dàn lạnh."
+      },
+      {
+        "_id": "bbd34c82-6f43-40a1-a9f5-5d1362665ae7",
+        "text": "Rò rỉ gas lạnh có thể do đường ống nứt hoặc bị thủng, gioăng cao su bị lão hóa, hoặc rò ở khớp nối/van;"
+      },
+      {
+        "_id": "8e696103-8ae7-4824-9700-b85b22b6f9fa",
+        "text": "cần kiểm tra hệ thống đường ống và khớp nối, sửa chữa và thay thế các linh kiện, roăng cao su mới."
+      },
+      {
+        "_id": "b6c87bf5-77c3-4521-b553-621774deaab3",
+        "text": "Nhiệt độ không đều ở các cửa gió có thể do hỏng mô-tơ trộn gió hoặc quạt phân phối, hoặc tắc/rò rỉ đường ống dẫn khí;"
+      },
+      {
+        "_id": "d03fd9fe-c386-43d3-ba69-2c2de3615e6b",
+        "text": "cần sửa mô-tơ/quạt và thông đường ống."
+      },
+      {
+        "_id": "78cbf89f-49ce-46f0-a935-4f3863dd5938",
+        "text": "Hệ thống làm mát quá tải do hoạt động lâu trong điều kiện nhiệt độ cao hoặc quạt dàn nóng không đủ công suất;"
+      },
+      {
+        "_id": "1febe1b4-555b-4ead-8feb-de928e14c1f3",
+        "text": "khắc phục bằng cách vệ sinh dàn nóng và thay/sửa quạt."
+      },
+      {
+        "_id": "14068da0-7d9f-4986-8c2d-8031ddbf3130",
+        "text": "Hư hỏng ắc quy xảy ra khi hết điện, đầu cực oxy hóa hoặc kế nối lỏng, ngắn mạch hoặc hỏng các ngăn bên trong ắc quy;"
+      },
+      {
+        "_id": "21857886-fde4-4fc0-8e76-d9cece96a1a9",
+        "text": "cần sạc hoặc thay mới, vệ sinh đầu cực và siết chặt kết nối, thay thế ắc quy nếu hỏng bên trong."
+      },
+      {
+        "_id": "2ff52df2-0f8e-417b-8286-f7a18aabe067",
+        "text": "Máy phát điện không hoạt động có thể do dây đai lỏng hoặc đứt, cuộn dây stator, rotor hoặc bộ điều áp hỏng;"
+      },
+      {
+        "_id": "63773c50-8944-41ec-b730-c0d856acade8",
+        "text": "nên thay dây đai và sửa chữa hoặc thay thế máy phát nếu các cuộn dây hoặc bộ điều chỉnh bị hỏng."
+      },
+      {
+        "_id": "89bf9298-687a-4b9f-8bee-67e14d1f0098",
+        "text": "Nếu hệ thống khởi động không hoạt động, nguyên nhân có thể là motor khởi động hoặc rơ-le bị hỏng, dây dẫn đứt hoặc kết nối lỏng, ắc quy yếu hoặc không đủ điện;"
+      },
+      {
+        "_id": "a6d39265-9b74-4452-88df-adfc2fc7c1bc",
+        "text": "khắc phục bằng cách kiểm tra, thay motor/rơ-le, sửa dây dẫn đứt và siết chặt kết nối, thay ắc quy."
+      },
+      {
+        "_id": "5534fdfb-2c32-40e1-a53c-e9d0193a9e17",
+        "text": "Cuối cùng, hư hỏng hệ thống chiếu sáng và tín hiệu thường do bóng đèn cháy, tiếp điểm oxy hóa, hoặc rơ-le/cầu chì bị hỏng;"
+      },
+      {
+        "_id": "90c10675-a434-4f01-8537-ceae8a4ed92a",
+        "text": "cần thay đèn, vệ sinh tiếp điểm và thay rơ-le hoặc cầu chì nếu cần."
+      }
+    ]
+  },
+  {
+    "_id": "3e42b1cf-5651-46ba-bb51-246caf2ed371",
+    "subject_id": 2,
+    "lesson": 17,
+    "tittle": "Hư hỏng thường gặp ở hệ thống lái và treo;",
+    "chunks": [
+      {
+        "_id": "1e47a5a5-0870-4b16-8a94-0b0f7c6f3f2f",
+        "text": "Hệ thống lái bị rơ hoặc lỏng thường do mòn các khớp nối hoặc rô tuyn, lỏng ốc vít tại các liên kết, trục lái hoặc cơ cấu lái bị mòn."
+      },
+      {
+        "_id": "b4ec18f9-ad50-4a69-9499-8a6f407edca1",
+        "text": "Để khắc phục, cần siết chặt các khớp nối và ốc vít, thay thế các rô tuyn hoặc khớp nối đã mòn, đồng thời kiểm tra và thay mới trục lái nếu cần thiết."
+      },
+      {
+        "_id": "7b0e7023-f575-4fc4-b428-b7847ea9977a",
+        "text": "Ngoài ra, tiếng kêu lạ khi quay vô-lăng có thể xuất phát từ việc thiếu dầu trợ lực lái hoặc vòng bi, bạc lót trục lái bị khô hay mòn;"
+      },
+      {
+        "_id": "ebe97408-45d1-4cb1-9b62-c43bc7ddb6ee",
+        "text": "cách khắc phục là bổ sung hoặc thay thế dầu trợ lực lái đúng loại và kiểm tra, thay mới vòng bi hoặc bạc lót."
+      },
+      {
+        "_id": "0b18e1d2-8d78-4d8c-8cc1-fc56b4979f7c",
+        "text": "Trong trường hợp hệ thống rò rỉ dầu trợ lực, nguyên nhân thường là do phớt dầu hở hoặc ống dẫn bị nứt, hay bơm trợ lực hỏng;"
+      },
+      {
+        "_id": "bb4ef5c4-cb95-4679-9dda-ecd9ea431541",
+        "text": "cần thay thế phớt dầu, ống dẫn và kiểm tra bơm trợ lực."
+      },
+      {
+        "_id": "fdc7b6d0-4064-4def-b016-ec86058e3964",
+        "text": "Nếu vô lăng nặng hoặc mất trợ lực lái, có thể do bơm trợ lực hỏng, dây đai dẫn động lỏng hoặc đứt, hoặc cảm biến trợ lực (trên hệ thống trợ lực điện) bị lỗi;"
+      },
+      {
+        "_id": "2f3247aa-1d19-44c8-af27-c9e6613dac20",
+        "text": "giải pháp là thay thế bơm trợ lực hoặc dây đai dẫn động, kiểm tra cảm biến và sửa chữa hoặc thay thế nếu cần."
+      },
+      {
+        "_id": "10870951-8005-4027-b59a-1d4c6b69ff6c",
+        "text": "Trường hợp vô lăng lệch khi lái thẳng, nguyên nhân có thể là sai lệch góc đặt bánh xe, lốp mòn không đều, hoặc liên kết hệ thống lái bị lỏng/hỏng;"
+      },
+      {
+        "_id": "82b14ec2-3b45-4e3d-8a83-490ccf293557",
+        "text": "cần cân chỉnh lại góc đặt bánh xe, kiểm tra độ mòn của lốp và sửa chữa hoặc thay liên kết bị hỏng."
+      },
+      {
+        "_id": "18069807-b740-413f-9d18-3c67cbe1a164",
+        "text": "Đối với hệ thống treo, hư hỏng giảm xóc có thể do xi-lanh thủy lực rò rỉ dầu, giảm xóc bị mòn hoặc mất đàn hồi;"
+      },
+      {
+        "_id": "75fa26f8-330f-45cb-9f0d-af4db399caa3",
+        "text": "cần kiểm tra và thay thế giảm xóc hỏng bằng loại chất lượng cao, phù hợp với xe."
+      },
+      {
+        "_id": "94daec41-503e-4504-b061-ce2d59d172ce",
+        "text": "Lò xo treo gãy hoặc yếu thường do chịu tải trọng quá mức, va chạm mạnh hoặc lão hóa;"
+      },
+      {
+        "_id": "d8bfeca1-c712-4cb4-9e2c-55a159ad24df",
+        "text": "cần thay mới bằng lò xo chính hãng hoặc tương đương và kiểm tra các chi tiết liên quan."
+      },
+      {
+        "_id": "09e155be-6ccb-40ae-ad50-e05f7ae48ffa",
+        "text": "Nếu hệ thống treo phát ra tiếng kêu lạ, nguyên nhân có thể là rô tuyn, khớp nối bị khô hoặc mòn, hoặc cao su đệm lò xo hư hỏng;"
+      },
+      {
+        "_id": "5a90a2b8-bb2e-458e-8d3e-72c8d68dc3e4",
+        "text": "cách xử lý là bôi trơn hoặc thay mới các bộ phận này."
+      },
+      {
+        "_id": "23aee778-b4d4-4842-ab12-88a93cee2c79",
+        "text": "Khớp nối trong hệ thống treo bị rơ, lỏng cũng thường do rô tuyn hoặc bạc đạn bị mòn sau thời gian sử dụng, hoặc ốc vít bị lỏng;"
+      },
+      {
+        "_id": "bdca389d-b97d-4e0b-bb68-4f0473bd007b",
+        "text": "nên thay thế rô tuyn, bạc đạn và siết chặt các điểm liên kết."
+      },
+      {
+        "_id": "36ab74fa-29df-4c0e-93ab-5d060bfdc9b3",
+        "text": "Sai lệch góc đặt bánh xe có thể do va chạm mạnh làm cong chi tiết hệ thống treo hoặc độ mòn không đều của các bộ phận;"
+      },
+      {
+        "_id": "637e11ab-3fba-4b16-8c2f-071c6a97131b",
+        "text": "cần cân chỉnh lại góc đặt bằng thiết bị chuyên dụng và thay thế các chi tiết bị cong."
+      },
+      {
+        "_id": "e4e15723-19ae-4bb3-88b1-4948c516d378",
+        "text": "Cuối cùng, hiện tượng mòn không đều của cao su treo thường bắt nguồn từ lão hóa vật liệu do thời gian hoặc điều kiện khắc nghiệt, cũng như tải trọng xe phân bố không đồng đều;"
+      },
+      {
+        "_id": "7e58b7af-429f-4fb1-8faa-ab7b43bf8fec",
+        "text": "biện pháp là thay mới cao su treo bị mòn và kiểm tra, điều chỉnh lại phân bố tải trọng nếu cần."
+      }
+    ]
+  }
+]
