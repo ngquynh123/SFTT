@@ -1,0 +1,406 @@
+{
+  "subject": "DD",
+  "total_selected": 100,
+  "qa_pairs": [
+    {
+      "question": "Tu dưỡng đạo đức có giúp giảm áp lực nghề nghiệp không?",
+      "answer": "Có, vì tạo sự tự tin và tinh thần thoải mái khi làm việc."
+    },
+    {
+      "question": "Nếu không chắc chắn tình trạng nạn nhân, nên đặt ở tư thế nào trước tiên?",
+      "answer": "Nằm ngửa để dễ kiểm tra hô hấp và tim mạch."
+    },
+    {
+      "question": "Tại sao không được tự ý tiếp cận xe điện đang cháy?",
+      "answer": "Vì pin có thể nổ liên tục."
+    },
+    {
+      "question": "Số điện thoại công an tại Việt Nam là gì?",
+      "answer": "113."
+    },
+    {
+      "question": "Tuần tra kiểm soát còn giúp phòng ngừa hành vi gì ngoài tai nạn?",
+      "answer": "Gây rối, vi phạm pháp luật."
+    },
+    {
+      "question": "Đạo đức mới khuyến khích hành vi gì trong quan hệ lao động?",
+      "answer": "Khuyến khích tinh thần trách nhiệm, trung thực, hợp tác và tôn trọng lẫn nhau."
+    },
+    {
+      "question": "Một người uống rượu, bia nhưng vẫn lái xe thể hiện điều gì?",
+      "answer": "Thiếu trách nhiệm với bản thân và xã hội."
+    },
+    {
+      "question": "Luật giao thông 2025 thay đổi gì liên quan đến rượu, bia?",
+      "answer": "Tăng mức phạt vi phạm nồng độ cồn."
+    },
+    {
+      "question": "Khi phát hiện nguy hiểm, phản ứng đầu tiên của tài xế là gì?",
+      "answer": "Giảm tốc độ ngay lập tức."
+    },
+    {
+      "question": "Người có văn hóa giao thông sẽ làm gì khi thấy người gặp khó khăn?",
+      "answer": "Chủ động hỗ trợ."
+    },
+    {
+      "question": "Thông tin gì cần ghi lại để cung cấp cho nhân viên y tế?",
+      "answer": "Thời điểm tai nạn, tình trạng nạn nhân, biện pháp đã thực hiện."
+    },
+    {
+      "question": "Kỷ luật trong doanh nghiệp có ý nghĩa gì?",
+      "answer": "Tạo sự công bằng, nề nếp và hiệu quả công việc."
+    },
+    {
+      "question": "Lái xe phòng vệ nghĩa là gì?",
+      "answer": "Là lái xe trong tư thế chủ động phòng ngừa nguy hiểm, dự đoán tình huống có thể xảy ra."
+    },
+    {
+      "question": "Khi gặp người lái xe ẩu, việc đầu tiên cần làm là gì?",
+      "answer": "Giữ bình tĩnh để giảm căng thẳng."
+    },
+    {
+      "question": "Xây dựng ý thức cá nhân trong giao thông có ý nghĩa gì?",
+      "answer": "Là nền tảng hình thành văn hóa an toàn giao thông."
+    },
+    {
+      "question": "Đạo đức nghề nghiệp của người lái xe ô tô bao gồm điều gì?",
+      "answer": "Sự kết hợp giữa đạo đức truyền thống và các quy tắc ứng xử trong nghề"
+    },
+    {
+      "question": "Có nên gọi điện thoại gần xe đang cháy không?",
+      "answer": "Không, dễ gây tia lửa."
+    },
+    {
+      "question": "Ngoài chốt kiểm tra, CSGT còn dùng hình thức gì?",
+      "answer": "Tuần tra lưu động."
+    },
+    {
+      "question": "Nếu không thể chờ lực lượng cấp cứu, người dân cần làm gì?",
+      "answer": "Di chuyển nạn nhân an toàn và sơ cứu."
+    },
+    {
+      "question": "Rượu, bia có làm tăng nguy cơ ung thư vú không?",
+      "answer": "Có."
+    },
+    {
+      "question": "Tại sao nói đạo đức nghề nghiệp là nền tảng của văn hóa giao thông?",
+      "answer": "Vì đạo đức định hướng hành vi an toàn và văn minh khi tham gia giao thông."
+    },
+    {
+      "question": "Vì sao cần báo cho cả công an và cấp cứu?",
+      "answer": "Để vừa hỗ trợ y tế, vừa xử lý pháp lý."
+    },
+    {
+      "question": "Nhà trường cần làm gì để xây dựng văn hóa giao thông?",
+      "answer": "Tổ chức giáo dục, tuyên truyền cho học sinh."
+    },
+    {
+      "question": "Vì sao không nên để chất dễ cháy trong xe?",
+      "answer": "Vì dễ bén lửa và gây nổ khi nhiệt độ tăng."
+    },
+    {
+      "question": "Phiếu garo dùng trong trường hợp nào?",
+      "answer": "Khi phải thắt garo để ghi lại thời gian."
+    },
+    {
+      "question": "Khi nạn nhân bị gãy xương, bước quan trọng cần thực hiện là gì?",
+      "answer": "Cố định vùng xương gãy để tránh di lệch thêm"
+    },
+    {
+      "question": "Vai trò của đạo đức trong xây dựng xã hội công bằng, dân chủ, văn minh là gì?",
+      "answer": "Đạo đức tạo nền tảng tinh thần, gắn kết con người và định hướng lối sống nhân văn."
+    },
+    {
+      "question": "Lái xe văn minh góp phần bảo vệ môi trường ra sao?",
+      "answer": "Hạn chế khói bụi, không xả rác, sử dụng nhiên liệu tiết kiệm."
+    },
+    {
+      "question": "Sau đó nên làm gì khi bong gân?",
+      "answer": "Băng ép nhẹ và chườm lạnh."
+    },
+    {
+      "question": "Đạo đức giúp cá nhân xây dựng uy tín như thế nào?",
+      "answer": "Người sống có đạo đức được tin cậy, kính trọng và có vị thế trong xã hội."
+    },
+    {
+      "question": "Có nên cho nạn nhân chấn thương sọ não uống nước không?",
+      "answer": "Không, vì có thể gây sặc."
+    },
+    {
+      "question": "Người có văn hóa giao thông sẽ dừng xe ở đâu?",
+      "answer": "Đúng nơi quy định."
+    },
+    {
+      "question": "Nếp sống văn hóa giao thông có thể bắt đầu từ đâu?",
+      "answer": "Từ ý thức của mỗi cá nhân."
+    },
+    {
+      "question": "Tại sao nghề lái xe cần sự kiên nhẫn?",
+      "answer": "Vì phải đối mặt với giao thông phức tạp và nhiều tình huống bất ngờ."
+    },
+    {
+      "question": "Đạo đức có tác động gì đến hành vi cá nhân trong xã hội hiện nay?",
+      "answer": "Nó giúp cá nhân tự điều chỉnh, lựa chọn hành vi đúng chuẩn mực xã hội."
+    },
+    {
+      "question": "Đạo đức nghề nghiệp là gì?",
+      "answer": "Là sự kết hợp giữa đạo đức truyền thống và các quy tắc ứng xử trong nghề."
+    },
+    {
+      "question": "Hành khách cần làm gì ngay khi có cháy xe?",
+      "answer": "Thoát khỏi xe nhanh nhất có thể."
+    },
+    {
+      "question": "Nhiệt độ nước phù hợp nhất để làm mát vết bỏng là bao nhiêu?",
+      "answer": "16–20°C."
+    },
+    {
+      "question": "Rượu, bia có liên quan đến các vụ phạm pháp nào?",
+      "answer": "Đánh nhau, trộm cắp, tội phạm hình sự."
+    },
+    {
+      "question": "Để giảm nguy cơ cháy, khi nào không nên sạc pin?",
+      "answer": "Khi pin đã đầy hoặc quá nóng."
+    },
+    {
+      "question": "Nếu không muốn thổi miệng – miệng, có thể áp dụng cách nào khác?",
+      "answer": "Sử dụng dụng cụ hỗ trợ như mặt nạ hô hấp."
+    },
+    {
+      "question": "Điện thoại khi đang lái xe thể hiện điều gì?",
+      "answer": "Thiếu văn hóa, coi thường an toàn."
+    },
+    {
+      "question": "Mỗi ngành nghề có yêu cầu đạo đức riêng để làm gì?",
+      "answer": "Giúp người làm nghề được tôn trọng và phát triển bền vững."
+    },
+    {
+      "question": "Tại sao tuyên truyền cộng đồng lại quan trọng?",
+      "answer": "Vì thay đổi hành vi cần có sự đồng thuận xã hội."
+    },
+    {
+      "question": "Khi xe hỏng, việc gọi cứu hộ thể hiện điều gì?",
+      "answer": "Ý thức trách nhiệm."
+    },
+    {
+      "question": "Nếp sống văn hóa giao thông giúp hình thành thói quen gì?",
+      "answer": "Lái xe an toàn, tôn trọng luật."
+    },
+    {
+      "question": "Người lái cần làm gì đầu tiên khi phát hiện xe xăng/dầu bị cháy?",
+      "answer": "Dừng xe ngay lập tức ở nơi an toàn."
+    },
+    {
+      "question": "Trong bao lâu hành khách nên thoát ra khỏi xe?",
+      "answer": "Trong vòng 30 giây."
+    },
+    {
+      "question": "Việc tuần tra, kiểm soát thường xuyên giúp ích gì?",
+      "answer": "Nâng cao ý thức người tham gia giao thông."
+    },
+    {
+      "question": "Khi tham gia giao thông, vì sao cần giữ khoảng cách an toàn với xe phía trước?",
+      "answer": "Để có đủ thời gian và khoảng trống xử lý tình huống"
+    },
+    {
+      "question": "Tai nạn giao thông là vấn đề gì trên thế giới?",
+      "answer": "Vấn đề nghiêm trọng, đe dọa tính mạng con người."
+    },
+    {
+      "question": "Tinh thần học hỏi trong nghề lái xe có lợi gì?",
+      "answer": "Nâng cao kỹ năng và giữ an toàn."
+    },
+    {
+      "question": "Người lái xe chuyên nghiệp cần rèn luyện thường xuyên điều gì?",
+      "answer": "Kỹ năng lái, ý thức trách nhiệm và đạo đức nghề nghiệp."
+    },
+    {
+      "question": "Người lái xe có thể giúp đồng nghiệp thế nào trên đường?",
+      "answer": "Hỗ trợ khi xe gặp sự cố hoặc cần thông tin."
+    },
+    {
+      "question": "Điểm động mạch bẹn nằm ở đâu?",
+      "answer": "Vùng bẹn, chỗ đùi nối thân mình."
+    },
+    {
+      "question": "Rượu, bia là nguyên nhân chính của loại tai nạn nào?",
+      "answer": "Tai nạn giao thông nghiêm trọng."
+    },
+    {
+      "question": "Văn hóa giao thông có ý nghĩa như thế nào đối với xã hội?",
+      "answer": "Cho biết trình trạng văn hóa của một quốc gia"
+    },
+    {
+      "question": "Người lái xe cần học tập bổ sung kiến thức gì?",
+      "answer": "Luật giao thông, kỹ năng xử lý tình huống và công nghệ mới."
+    },
+    {
+      "question": "Hạn chế của cầm máu không trực tiếp là gì?",
+      "answer": "Khó duy trì lâu, dễ gây mỏi tay."
+    },
+    {
+      "question": "Ở Việt Nam, chi phí giải quyết tai nạn liên quan rượu, bia chiếm bao nhiêu % GDP?",
+      "answer": "1% GDP."
+    },
+    {
+      "question": "Chở hàng quá khổ, quá tải ảnh hưởng gì?",
+      "answer": "Thay đổi đặc tính xe, mất an toàn."
+    },
+    {
+      "question": "Nếu không có bình chữa cháy, người lái nên làm gì?",
+      "answer": "Rời khỏi xe và cảnh báo mọi người."
+    },
+    {
+      "question": "Tại sao xã hội chịu tổn thất lớn do rượu, bia?",
+      "answer": "Vì tai nạn, bệnh tật và giảm năng suất."
+    },
+    {
+      "question": "Khi tất cả cùng có nếp sống văn hóa giao thông, điều gì xảy ra?",
+      "answer": "Giao thông an toàn, ít tai nạn."
+    },
+    {
+      "question": "Gia đình có vai trò gì trong xây dựng văn hóa giao thông?",
+      "answer": "Nêu gương, dạy con em thói quen đúng."
+    },
+    {
+      "question": "Trong trường hợp bỏng diện rộng, điều gì cần ưu tiên nhất sau sơ cứu ban đầu?",
+      "answer": "Chuyển đến bệnh viện khẩn cấp."
+    },
+    {
+      "question": "Tại sao nghề lái xe có áp lực cao?",
+      "answer": "Vì gắn với sự an toàn của nhiều sinh mạng."
+    },
+    {
+      "question": "Trong tình huống khẩn cấp, số công an cần gọi là?",
+      "answer": "113."
+    },
+    {
+      "question": "Nếu không tự khắc phục được sự cố, cần làm gì?",
+      "answer": "Gọi cứu hộ."
+    },
+    {
+      "question": "Nền đạo đức mới kết hợp giữa những yếu tố nào?",
+      "answer": "Kết hợp giá trị truyền thống dân tộc và tinh hoa văn hóa nhân loại."
+    },
+    {
+      "question": "Khi nào cần nới lỏng garo?",
+      "answer": "Nếu phải chờ lâu, nên nới lỏng định kỳ (5–10 giây mỗi 30 phút)."
+    },
+    {
+      "question": "Vai trò của đạo đức trong xã hội bao gồm những gì?",
+      "answer": "Ổn định chính trị - xã hội, điều chỉnh các mối quan hệ xã hội, định hướng hành vi cá nhân"
+    },
+    {
+      "question": "Nguy cơ cháy xe từ ống dẫn nhiên liệu hỏng là gì?",
+      "answer": "Nhiên liệu rò rỉ, bén lửa dễ cháy nổ."
+    },
+    {
+      "question": "Nền đạo đức mới ở nước ta hiện nay có đặc điểm gì?",
+      "answer": "Kết hợp giữa giá trị đạo đức truyền thống và văn hóa nhân loại"
+    },
+    {
+      "question": "Vì sao cần phổ biến luật giao thông rộng rãi?",
+      "answer": "Để mọi người hiểu, chấp hành và giảm tai nạn."
+    },
+    {
+      "question": "Việc xử phạt nghiêm khắc nhằm mục đích gì?",
+      "answer": "Giảm vi phạm và tai nạn giao thông."
+    },
+    {
+      "question": "Nghề lái xe ô tô mang lại điều gì cho người lái",
+      "answer": "Cơ hội di chuyển rộng rãi và tiếp xúc với nhiều người"
+    },
+    {
+      "question": "Tại sao không nên cho nạn nhân gãy xương cử động nhiều?",
+      "answer": "Có thể làm xương gãy di lệch nặng hơn."
+    },
+    {
+      "question": "Khi nạn nhân bị chảy máu, việc cần làm ngay là gì?",
+      "answer": "Cầm máu tạm thời."
+    },
+    {
+      "question": "Không giữ khoảng cách an toàn thường gây ra hậu quả gì?",
+      "answer": "Va chạm liên hoàn."
+    },
+    {
+      "question": "Người uống rượu, bia dễ mắc sai lầm gì khi điều khiển xe?",
+      "answer": "Phán đoán sai, xử lý chậm."
+    },
+    {
+      "question": "Tại sao tuân thủ đạo đức là hành vi tự nguyện?",
+      "answer": "Vì nó xuất phát từ lương tâm, niềm tin và sự tự giác của mỗi cá nhân."
+    },
+    {
+      "question": "Hành vi có văn hóa trong giao thông giúp ích gì?",
+      "answer": "Giảm tai nạn và ùn tắc."
+    },
+    {
+      "question": "Xây dựng văn hóa giao thông có ý nghĩa gì?",
+      "answer": "Góp phần phát triển kinh tế - xã hội"
+    },
+    {
+      "question": "Nếu pin xe điện bị ngập nước và phát nổ, người lái cần làm gì?",
+      "answer": "Giữ khoảng cách an toàn, gọi cứu hỏa."
+    },
+    {
+      "question": "Việc tranh giành với xe chạy ẩu có thể gây ra hậu quả gì?",
+      "answer": "Va chạm, xung đột và tai nạn."
+    },
+    {
+      "question": "Người tham gia giao thông văn minh sẽ cư xử thế nào với người già yếu?",
+      "answer": "Quan tâm, nhường nhịn."
+    },
+    {
+      "question": "Tại sao đạo đức nghề nghiệp gắn liền với hiệu quả kinh doanh?",
+      "answer": "Vì đạo đức tốt tạo uy tín, giữ khách hàng, tăng lợi nhuận."
+    },
+    {
+      "question": "Người uống rượu, bia nhiều dễ mắc bệnh tiểu đường không?",
+      "answer": "Có, vì rối loạn chuyển hóa đường."
+    },
+    {
+      "question": "Tại sao xe điện cháy thường được lực lượng cứu hỏa dập bằng bọt hoặc chất đặc biệt?",
+      "answer": "Vì nước không hiệu quả và nguy hiểm."
+    },
+    {
+      "question": "Yếu tố nào trong đạo đức dễ quan sát nhất?",
+      "answer": "Hành vi đạo đức, vì nó thể hiện trực tiếp qua hành động con người."
+    },
+    {
+      "question": "Công tắc ngắt nguồn khẩn cấp có tác dụng gì?",
+      "answer": "Cắt điện toàn bộ hệ thống pin."
+    },
+    {
+      "question": "Tỷ lệ ép tim – thổi ngạt chuẩn là gì?",
+      "answer": "30 lần ép tim : 2 lần thổi ngạt."
+    },
+    {
+      "question": "Ý nghĩa kinh tế – xã hội của lái xe ô tô là gì?",
+      "answer": "Đóng góp vào lưu thông hàng hóa, phát triển du lịch và giao lưu kinh tế."
+    },
+    {
+      "question": "Việc kiểm tra tình trạng nạn nhân giúp quyết định điều gì?",
+      "answer": "Phương án sơ cứu và gọi hỗ trợ phù hợp."
+    },
+    {
+      "question": "Vì sao phải dừng xe cách xa khu dân cư và trạm xăng?",
+      "answer": "Để tránh cháy lan và nổ."
+    },
+    {
+      "question": "Tại sao bình tĩnh và nhường nhịn là yếu tố quan trọng khi tham gia giao thông?",
+      "answer": "Giúp tránh các vụ va chạm và xung đột không đáng có"
+    },
+    {
+      "question": "Vật dụng có thể thay thế garo y tế là gì?",
+      "answer": "Thắt lưng, khăn, dây vải."
+    },
+    {
+      "question": "Mục tiêu quan trọng nhất khi sơ cứu người hít khói là gì?",
+      "answer": "Đảm bảo đường thở và cung cấp oxy."
+    },
+    {
+      "question": "Tại sao phải thay gạc/băng định kỳ trong túi cấp cứu?",
+      "answer": "Để tránh nhiễm khuẩn do ẩm mốc."
+    }
+  ]
+}

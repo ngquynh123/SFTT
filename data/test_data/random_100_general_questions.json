@@ -1,0 +1,515 @@
+{
+  "description": "100 câu hỏi ngẫu nhiên đa chủ đề",
+  "total_questions": 100,
+  "categories": {
+    "giai_tri": 13,
+    "cong_nghe": 15,
+    "suc_khoe": 15,
+    "thien_nhien": 14,
+    "van_hoa_xa_hoi": 15,
+    "du_lich": 14,
+    "cuoc_song_hang_ngay": 14
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Sách hay phim thú vị hơn?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 2,
+      "question": "Internet đã thay đổi thế giới như thế nào?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 3,
+      "question": "Bạn có tập thể dục thường xuyên không?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 4,
+      "question": "Núi lửa có nguy hiểm không?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 5,
+      "question": "Bạn có hay bị đau đầu không?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 6,
+      "question": "Bạn ngủ mấy tiếng mỗi ngày?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 7,
+      "question": "Đại dương hay núi rừng hấp dẫn hơn?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 8,
+      "question": "Cryptocurrency có phải là tương lai?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 9,
+      "question": "Thiền có giúp giảm stress?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 10,
+      "question": "Bạn thích kiến trúc cổ hay hiện đại?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 11,
+      "question": "Bạn nghĩ gì về văn hóa phương Tây?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 12,
+      "question": "Bạn có thích chụp ảnh du lịch không?",
+      "category": "du_lich"
+    },
+    {
+      "id": 13,
+      "question": "Biển có bị ô nhiễm nghiêm trọng?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 14,
+      "question": "Bạn có tin vào số phận không?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 15,
+      "question": "Quốc gia nào bạn muốn đến nhất?",
+      "category": "du_lich"
+    },
+    {
+      "id": 16,
+      "question": "Bạn có sợ robot không?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 17,
+      "question": "Nhạc Việt hay nhạc nước ngoài?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 18,
+      "question": "Du lịch bụi có an toàn không?",
+      "category": "du_lich"
+    },
+    {
+      "id": 19,
+      "question": "Bạn có lo về biến đổi khí hậu không?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 20,
+      "question": "Khách sạn hay homestay tốt hơn?",
+      "category": "du_lich"
+    },
+    {
+      "id": 21,
+      "question": "Loại nhạc nào bạn thích nghe?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 22,
+      "question": "Tôn giáo có vai trò gì trong xã hội?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 23,
+      "question": "Gia đình có quan trọng không?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 24,
+      "question": "Công việc mơ ước của bạn là gì?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 25,
+      "question": "Bạn thích mang về quà gì khi du lịch?",
+      "category": "du_lich"
+    },
+    {
+      "id": 26,
+      "question": "Bạn có lo về bảo mật dữ liệu không?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 27,
+      "question": "Bạn thích tập gym hay chạy bộ?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 28,
+      "question": "Món ăn yêu thích của bạn là gì?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 29,
+      "question": "Game online hay offline hay hơn?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 30,
+      "question": "Truyền thống nào của Việt Nam bạn yêu thích?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 31,
+      "question": "Bạn thích xem thể thao nào?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 32,
+      "question": "5G có thực sự cần thiết không?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 33,
+      "question": "Yoga có tốt cho sức khỏe?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 34,
+      "question": "Sở thích của bạn là gì?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 35,
+      "question": "Bạn có ăn chay không?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 36,
+      "question": "Ca sĩ nào bạn nghe nhiều nhất?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 37,
+      "question": "Túi xách hay vali tiện hơn?",
+      "category": "du_lich"
+    },
+    {
+      "id": 38,
+      "question": "Stress có ảnh hưởng đến sức khỏe?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 39,
+      "question": "Phụ nữ và nam giới có bình đẳng chưa?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 40,
+      "question": "Bạn có muốn sống gần thiên nhiên?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 41,
+      "question": "Thiên nhiên có cần được bảo vệ?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 42,
+      "question": "Nghệ thuật có cần thiết trong đời sống?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 43,
+      "question": "Bạn thích đọc truyện tranh không?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 44,
+      "question": "Fast food có hại như người ta nói?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 45,
+      "question": "Bạn có thích tìm hiểu văn hóa nước khác không?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 46,
+      "question": "Nước có quan trọng như thế nào?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 47,
+      "question": "Sức khỏe tinh thần có quan trọng?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 48,
+      "question": "Nghệ sĩ nào bạn thần tượng?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 49,
+      "question": "Lễ hội nào bạn thích nhất?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 50,
+      "question": "Mùa mưa hay nắng dễ chịu hơn?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 51,
+      "question": "Bạn có sợ động vật hoang dã không?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 52,
+      "question": "Bạn thường dậy lúc mấy giờ?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 53,
+      "question": "Giáo dục có đang thay đổi?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 54,
+      "question": "Rừng Amazon có quan trọng không?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 55,
+      "question": "Bạn có hay thức khuya không?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 56,
+      "question": "Mùa nào thích hợp du lịch nhất?",
+      "category": "du_lich"
+    },
+    {
+      "id": 57,
+      "question": "Du lịch trong nước hay nước ngoài?",
+      "category": "du_lich"
+    },
+    {
+      "id": 58,
+      "question": "Bạn thích du lịch một mình hay theo nhóm?",
+      "category": "du_lich"
+    },
+    {
+      "id": 59,
+      "question": "Ngôn ngữ nào khó học nhất?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 60,
+      "question": "AI sẽ thay đổi cuộc sống như thế nào?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 61,
+      "question": "Loài hoa nào đẹp nhất?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 62,
+      "question": "Bạn thích mùa nào trong năm?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 63,
+      "question": "Vitamin có cần thiết không?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 64,
+      "question": "Laptop hay desktop tốt hơn?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 65,
+      "question": "TikTok có ảnh hưởng gì đến giới trẻ?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 66,
+      "question": "Bạn có đi khám sức khỏe định kỳ?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 67,
+      "question": "Guide tour có cần thiết không?",
+      "category": "du_lich"
+    },
+    {
+      "id": 68,
+      "question": "Bạn thích iOS hay Android?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 69,
+      "question": "Smartwatch có hữu ích không?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 70,
+      "question": "Thời tiết hôm nay như thế nào?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 71,
+      "question": "Bạn có biết chơi nhạc cụ không?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 72,
+      "question": "Bạn có nuôi thú cưng không?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 73,
+      "question": "Bạn có thích massage không?",
+      "category": "suc_khoe"
+    },
+    {
+      "id": 74,
+      "question": "Mạng xã hội nào bạn dùng nhiều nhất?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 75,
+      "question": "Công nghệ VR có tương lai không?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 76,
+      "question": "Bạn có muốn sống ở nước ngoài?",
+      "category": "du_lich"
+    },
+    {
+      "id": 77,
+      "question": "Âm nhạc truyền thống có còn giá trị?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 78,
+      "question": "Bạn có tin vào xe tự lái không?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 79,
+      "question": "Smartphone đầu tiên bạn dùng là gì?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 80,
+      "question": "Game yêu thích của bạn là gì?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 81,
+      "question": "Thế hệ trẻ có khác thế hệ trước?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 82,
+      "question": "Bạn có thích đi concert không?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 83,
+      "question": "Bạn có thích xem phim không?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 84,
+      "question": "Phim hoạt hình có chỉ dành cho trẻ em?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 85,
+      "question": "Bạn có thích đi phượt không?",
+      "category": "du_lich"
+    },
+    {
+      "id": 86,
+      "question": "Động vật nào bạn thích nhất?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 87,
+      "question": "Năng lượng tái tạo có khả thi không?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 88,
+      "question": "Thể loại phim nào bạn thích?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 89,
+      "question": "Thức ăn hữu cơ có tốt hơn?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 90,
+      "question": "Bạn thường đọc sách không?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 91,
+      "question": "Du lịch có tốn kém không?",
+      "category": "du_lich"
+    },
+    {
+      "id": 92,
+      "question": "Bạn nghĩ gì về hôn nhân đồng giới?",
+      "category": "van_hoa_xa_hoi"
+    },
+    {
+      "id": 93,
+      "question": "Bạn có thích nấu ăn không?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 94,
+      "question": "Bạn thích ngắm sao không?",
+      "category": "thien_nhien"
+    },
+    {
+      "id": 95,
+      "question": "Màu sắc yêu thích của bạn là gì?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 96,
+      "question": "Bạn thích mua sắm online hay offline?",
+      "category": "cong_nghe"
+    },
+    {
+      "id": 97,
+      "question": "Bạn có thích du lịch không?",
+      "category": "cuoc_song_hang_ngay"
+    },
+    {
+      "id": 98,
+      "question": "Bạn có thích đi karaoke không?",
+      "category": "giai_tri"
+    },
+    {
+      "id": 99,
+      "question": "Bạn có sợ đi máy bay không?",
+      "category": "du_lich"
+    },
+    {
+      "id": 100,
+      "question": "Bạn thường làm gì vào cuối tuần?",
+      "category": "cuoc_song_hang_ngay"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "subject": "KTLX",
+  "total_selected": 100,
+  "qa_pairs": [
+    {
+      "question": "Tốc độ khi qua chỗ hẹp nên như thế nào?",
+      "answer": "Chậm, ổn định và dễ kiểm soát."
+    },
+    {
+      "question": "Khi tiến xe ra khỏi chỗ đỗ, người lái nên đánh lái hướng nào trước?",
+      "answer": "Đánh lái sang trái để đầu xe ra khỏi chỗ đỗ."
+    },
+    {
+      "question": "Tại sao nên phanh bằng mũi chân thay vì cả bàn chân?",
+      "answer": "Để điều khiển lực phanh chính xác hơn."
+    },
+    {
+      "question": "Sau khi dừng xe, cần số phải đưa về vị trí nào?",
+      "answer": "Về vị trí P (Park)."
+    },
+    {
+      "question": "Nguy cơ lớn nhất khi quay đầu ở dải phân cách trên đường cao tốc là gì?",
+      "answer": "Xe chạy tốc độ cao va chạm trực diện."
+    },
+    {
+      "question": "Ký hiệu N trên hộp số tự động là gì?",
+      "answer": "Neutral – số trung gian."
+    },
+    {
+      "question": "Ưu điểm của đường bằng so với đường dốc là gì?",
+      "answer": "Ít nguy hiểm hơn, dễ kiểm soát tốc độ và lái xe ổn định."
+    },
+    {
+      "question": "Bàn đạp ga có vai trò gì trong quá trình điều khiển xe?",
+      "answer": "Điều chỉnh tốc độ động cơ và tăng tốc độ của xe."
+    },
+    {
+      "question": "Sau khi rào chắn mở, người lái xe cần làm gì trước khi đi tiếp?",
+      "answer": "Quan sát kỹ, chắc chắn phía trước và đối diện có đủ không gian di chuyển."
+    },
+    {
+      "question": "Khoảng cách đặt cảnh báo tối thiểu ban đêm là bao nhiêu?",
+      "answer": "200m."
+    },
+    {
+      "question": "Khi phanh xe chở hàng nặng, tài xế cần lưu ý gì?",
+      "answer": "Phanh từ từ, tránh phanh gấp vì xe nặng quán tính lớn."
+    },
+    {
+      "question": "Khi gặp sự cố trên cao tốc, bước đầu tiên là gì?",
+      "answer": "Bật đèn tín hiệu khẩn cấp."
+    },
+    {
+      "question": "Nếu đạp ga quá mạnh khi tăng tốc, xe sẽ phản ứng như thế nào?",
+      "answer": "Hộp số sẽ về số thấp để tăng công suất, gọi là 'kick-down'."
+    },
+    {
+      "question": "Tại sao không được đổi số khi vượt qua đường sắt?",
+      "answer": "Vì có thể bị kẹt bánh hoặc chết máy."
+    },
+    {
+      "question": "Xe tải nặng khi xuống dốc dài cần sử dụng kỹ thuật nào?",
+      "answer": "Phanh động cơ là chủ yếu."
+    },
+    {
+      "question": "Lái xe cần báo vị trí sự cố cho ai trước tiên?",
+      "answer": "Nhân viên đường sắt gần nhất."
+    },
+    {
+      "question": "Tại sao phải kiểm tra mức nước làm mát trước khi khởi động?",
+      "answer": "Để tránh động cơ quá nhiệt khi vận hành."
+    },
+    {
+      "question": "Khi xuống dốc ban đêm, nên sử dụng đèn gì?",
+      "answer": "Đèn cốt để tránh lóa mắt xe đối diện."
+    },
+    {
+      "question": "Xe ô tô tự nâng có được dùng cần cẩu quá tải không?",
+      "answer": "Không, phải tuân thủ đúng tải trọng thiết kế."
+    },
+    {
+      "question": "Khi tăng tốc trên đường trơn trượt cần làm gì?",
+      "answer": "Tăng ga từ từ, tránh đạp mạnh."
+    },
+    {
+      "question": "Nếu xe chở hàng bị chết máy giữa dốc phải làm gì?",
+      "answer": "Chèn bánh, kéo phanh tay và xử lý an toàn trước khi khởi động lại."
+    },
+    {
+      "question": "Khi nào xe được phép di chuyển lên phà?",
+      "answer": "Khi có lệnh từ nhân viên bến phà."
+    },
+    {
+      "question": "Tại sao phải kết hợp cả gương, camera và quay đầu khi lùi xe?",
+      "answer": "Vì mỗi phương pháp quan sát đều có hạn chế, kết hợp sẽ giảm nguy cơ va chạm."
+    },
+    {
+      "question": "Khi đi qua cầu hẹp, người lái phải làm gì?",
+      "answer": "Tuân thủ biển báo và giữ tốc độ chậm."
+    },
+    {
+      "question": "Khi đi qua chỗ hẹp, quan sát chủ yếu vào đâu?",
+      "answer": "Quan sát xe ngược chiều và mặt đường hẹp."
+    },
+    {
+      "question": "Khoảng cách an toàn khi dừng chờ trước đường sắt không rào chắn là bao nhiêu?",
+      "answer": "Ít nhất 5 mét."
+    },
+    {
+      "question": "Khi lái xe qua cầu rộng và phẳng, thao tác giống lái xe trên loại đường nào?",
+      "answer": "Đường bằng phẳng."
+    },
+    {
+      "question": "Vì sao phải cài số 0 (sàn) hoặc P/N (tự động) trước khi khởi động?",
+      "answer": "Để tránh xe lao về phía trước hoặc lùi gây nguy hiểm."
+    },
+    {
+      "question": "Khi lùi xe, cần quan sát bằng gì?",
+      "answer": "Gương chiếu hậu và quan sát trực tiếp."
+    },
+    {
+      "question": "Khi chuyển từ làn tốc độ thấp sang cao, cần quan sát ở đâu?",
+      "answer": "Quan sát gương chiếu hậu trái và cửa sổ để đảm bảo an toàn."
+    },
+    {
+      "question": "Xe nhỏ và xe tải có phải tuân thủ như nhau khi qua đường sắt không rào chắn không?",
+      "answer": "Có, tất cả xe đều phải giảm tốc và quan sát."
+    },
+    {
+      "question": "Khi chuyển số trên hộp số tự động, cần lưu ý gì?",
+      "answer": "Phải đạp phanh trong một số trường hợp."
+    },
+    {
+      "question": "Tại sao cần sử dụng phanh tay khi khởi hành trên dốc?",
+      "answer": "Để giữ xe đứng yên trước khi có lực kéo."
+    },
+    {
+      "question": "Khi xe đông, lái xe phải làm gì trước khi vào đường sắt?",
+      "answer": "Đảm bảo phía trước có đủ không gian để qua hết."
+    },
+    {
+      "question": "Xe khách giường nằm có điểm mù nào lớn nhất?",
+      "answer": "Điểm mù phía sau và hai bên hông."
+    },
+    {
+      "question": "Khi vào đường vòng, xe chở chất lỏng cần xử lý thế nào?",
+      "answer": "Giảm tốc, ôm cua từ từ."
+    },
+    {
+      "question": "Khi dừng xe lâu trên dốc, ngoài phanh tay, cần làm gì thêm?",
+      "answer": "Chèn bánh xe để an toàn."
+    },
+    {
+      "question": "Vì sao không được chở chất lỏng quá mức?",
+      "answer": "Vì chất lỏng giãn nở, dễ gây rò rỉ hoặc nổ thùng chứa."
+    },
+    {
+      "question": "Phanh tay trên ô tô có chức năng chính là gì?",
+      "answer": "Giữ xe đứng yên khi đỗ hoặc dừng xe."
+    },
+    {
+      "question": "Xe nên dừng ở vị trí nào khi qua trạm thu phí?",
+      "answer": "Sát bên trái cổng thu phí để dễ trả tiền và lấy vé."
+    },
+    {
+      "question": "Camera lùi có thay thế hoàn toàn việc quan sát bằng gương chiếu hậu không?",
+      "answer": "Không, vẫn cần kết hợp cả gương và quan sát trực tiếp."
+    },
+    {
+      "question": "Xuống dốc cần giữ khoảng cách an toàn để tránh điều gì?",
+      "answer": "Tránh đâm vào xe trước nếu xe sau mất phanh."
+    },
+    {
+      "question": "Nếu lốp xe có dấu hiệu bất thường thì nên làm gì?",
+      "answer": "Ngưng sử dụng xe và kiểm tra, sửa chữa hoặc thay lốp."
+    },
+    {
+      "question": "Nếu xe không thể di chuyển, hành khách phải làm gì?",
+      "answer": "Rời khỏi xe, đứng cách xa đường sắt."
+    },
+    {
+      "question": "Tại sao cần gài số thấp khi đi đường xấu?",
+      "answer": "Để tăng lực kéo và kiểm soát xe tốt hơn."
+    },
+    {
+      "question": "Phanh tay có tác dụng gì khi đỗ xe?",
+      "answer": "Giữ cho xe đứng yên, không bị trôi."
+    },
+    {
+      "question": "Trước khi chạy xe kéo moóc cần kiểm tra gì đầu tiên?",
+      "answer": "Kiểm tra bộ phận nối giữa xe và moóc."
+    },
+    {
+      "question": "Khi đi vào hầm, lái xe phải tuyệt đối tuân thủ điều gì?",
+      "answer": "Biển báo hiệu giao thông."
+    },
+    {
+      "question": "Điều gì xảy ra nếu bám đuôi quá sát xe trước?",
+      "answer": "Rất dễ xảy ra va chạm khi xe trước phanh gấp."
+    },
+    {
+      "question": "Khi nào nên dừng xe trong thao tác ghép dọc?",
+      "answer": "Khi xe đã vào đúng vị trí đỗ."
+    },
+    {
+      "question": "Khi giảm số trên đường trơn trượt cần chú ý gì?",
+      "answer": "Thao tác từ từ, tránh phanh gấp và tránh trượt bánh."
+    },
+    {
+      "question": "Nếu gương chiếu hậu ngoài chỉnh quá vào trong sẽ gây gì?",
+      "answer": "Người lái khó quan sát xe ở làn kế bên."
+    },
+    {
+      "question": "Khi nào nên giảm số về số thấp nhất?",
+      "answer": "Khi leo dốc cao hoặc xuống dốc dài."
+    },
+    {
+      "question": "Có nên đứng gần dây tời khi đang kéo không?",
+      "answer": "Không, vì dây có thể đứt và bật lại."
+    },
+    {
+      "question": "Nếu xe sắp mất thăng bằng trên đường gập ghềnh, nên làm gì?",
+      "answer": "Giảm tốc và đánh lái nhẹ nhàng."
+    },
+    {
+      "question": "Vị trí tay đúng khi cầm vô lăng là gì?",
+      "answer": "Tay trái ở vị trí 9–10 giờ, tay phải ở vị trí 2–4 giờ."
+    },
+    {
+      "question": "Khi quay vô lăng gần nửa vòng thì phải làm gì?",
+      "answer": "Chuyển tay ở vị trí thấp hơn lên trên để tiếp tục."
+    },
+    {
+      "question": "Lái xe cần chú ý gì khi dừng chờ ở đường sắt có dốc?",
+      "answer": "Phải kéo phanh tay và giữ xe bằng số phù hợp."
+    },
+    {
+      "question": "Khi lái xe lên dốc, cần đề phòng nguy cơ nào từ xe phía trước?",
+      "answer": "Xe trước có thể tụt dốc."
+    },
+    {
+      "question": "Khi xe đầu kéo rẽ phải, có nên vượt bên phải không?",
+      "answer": "Tuyệt đối không, vì rất nguy hiểm do điểm mù và quỹ đạo cua rộng."
+    },
+    {
+      "question": "Người ngồi ghế sau có cần cài dây an toàn không?",
+      "answer": "Có, để đảm bảo an toàn và tránh va đập vào người ngồi trước khi xảy ra tai nạn."
+    },
+    {
+      "question": "Có nên cố gắng khởi động xe nhiều lần khi bị chết máy trên đường sắt không?",
+      "answer": "Không, cần ưu tiên đưa người ra khỏi vùng nguy hiểm."
+    },
+    {
+      "question": "Tại sao cần nhả ly hợp 2/3 hành trình trước khi tăng ga?",
+      "answer": "Để bánh đà tiếp xúc, tạo lực kéo ban đầu."
+    },
+    {
+      "question": "Điểm mù của xe tải so với xe con như thế nào?",
+      "answer": "Xe tải có điểm mù lớn hơn, đặc biệt ở phía trước đầu xe và hai bên hông."
+    },
+    {
+      "question": "Vì sao cần thả lỏng vai tay khi cầm vô lăng?",
+      "answer": "Để xử lý linh hoạt, tránh căng cứng."
+    },
+    {
+      "question": "Trình tự tăng số trên hộp số cơ khí là như thế nào?",
+      "answer": "Tuần tự 0 → 1 → 2 → 3 → 4 → 5."
+    },
+    {
+      "question": "Có nên lái sát lề đường khi sương mù?",
+      "answer": "Không, cần giữ khoảng cách an toàn với lề."
+    },
+    {
+      "question": "Khi lên dốc cao, cần về số thấp từ đâu?",
+      "answer": "Ngay từ chân và ngang dốc."
+    },
+    {
+      "question": "Khi đánh lái qua đường cong, người lái nên đánh thế nào?",
+      "answer": "Đánh lái đều và nhẹ."
+    },
+    {
+      "question": "Xe số tự động có cần đạp ly hợp khi vào số không?",
+      "answer": "Không, chỉ cần dùng chân phanh và ga."
+    },
+    {
+      "question": "Xe số tự động có chế độ hỗ trợ tăng tốc nhanh, thường ký hiệu là gì?",
+      "answer": "Chế độ S (Sport)."
+    },
+    {
+      "question": "Người lái cần làm gì trước khi kéo phanh tay khi dừng xe trên dốc?",
+      "answer": "Giảm ga, chuyển từ ga sang phanh."
+    },
+    {
+      "question": "Vì sao không được cắt côn, về số 0 khi xuống dốc?",
+      "answer": "Xe dễ trôi nhanh mất kiểm soát, rất nguy hiểm."
+    },
+    {
+      "question": "Nếu hệ thống ETC lỗi, tài xế nên xử lý thế nào?",
+      "answer": "Báo nhân viên và chuyển sang làn hỗ trợ."
+    },
+    {
+      "question": "Trong ngã tư, quay đầu phải nhường đường cho ai?",
+      "answer": "Xe đi thẳng từ chiều ngược lại và người đi bộ qua đường."
+    },
+    {
+      "question": "Nếu bỏ qua bước kiểm tra an toàn trước khi khởi hành có thể xảy ra nguy hiểm gì?",
+      "answer": "Dễ va chạm với người đi bộ hoặc phương tiện khác."
+    },
+    {
+      "question": "Xe máy có phải tuân thủ dừng trước rào chắn như ô tô không?",
+      "answer": "Có, tất cả phương tiện đều phải dừng."
+    },
+    {
+      "question": "Hành khách nên đứng ở đâu khi xe hỏng trên đường sắt?",
+      "answer": "Đứng cách xa và về phía ngược chiều tàu chạy."
+    },
+    {
+      "question": "Nếu xe đã vượt quá vạch dừng khi rào chắn hạ, cần xử lý thế nào?",
+      "answer": "Bình tĩnh dừng xe, không cố vượt."
+    },
+    {
+      "question": "Chuẩn bị tinh thần trước khi lái xe trên cao tốc có quan trọng không?",
+      "answer": "Rất quan trọng để tập trung và phản ứng kịp thời."
+    },
+    {
+      "question": "Mục đích của việc chờ đèn sấy tắt khi khởi động xe Diesel là gì?",
+      "answer": "Để buồng đốt đạt đủ nhiệt, dễ nổ máy."
+    },
+    {
+      "question": "Có nên nháy đèn pha khi vượt xe vào ban đêm không?",
+      "answer": "Có, để báo hiệu cho xe phía trước."
+    },
+    {
+      "question": "Khi đỗ xe trên đường dốc sau khi lùi, cần làm gì để tránh xe bị trôi?",
+      "answer": "Sử dụng phanh tay."
+    },
+    {
+      "question": "Khi vượt xe, có nên vượt bên phải không?",
+      "answer": "Không, trừ khi xe trước có tín hiệu rẽ trái và có làn đường cho phép."
+    },
+    {
+      "question": "Khi gặp tai nạn hoặc sự cố, bước đầu tiên cần làm là gì?",
+      "answer": "Bật đèn cảnh báo."
+    },
+    {
+      "question": "Khi lái xe ban đêm, quan sát mặt đường có ý nghĩa gì?",
+      "answer": "Nhận biết chướng ngại vật, ổ gà, hoặc bóng đen trên đường."
+    },
+    {
+      "question": "Khoảng cách dừng tối thiểu 5m có ý nghĩa gì?",
+      "answer": "Đảm bảo an toàn nếu rào chắn hạ đột ngột hoặc tàu đến nhanh."
+    },
+    {
+      "question": "Bãi phẳng là gì?",
+      "answer": "Bãi phẳng là một chỗ rộng và bằng phẳng, phù hợp để luyện tập tăng, giảm tốc độ và chuyển hướng xe ô tô."
+    },
+    {
+      "question": "Khi lùi moóc, cần làm gì với cơ cấu chuyển hướng?",
+      "answer": "Phải hãm cơ cấu chuyển hướng để dễ kiểm soát."
+    },
+    {
+      "question": "Nếu dừng lâu trên dốc, ngoài phanh tay, cần làm gì thêm?",
+      "answer": "Chèn bánh xe."
+    },
+    {
+      "question": "Vì sao cần bật đèn xi nhan khi đổi hướng?",
+      "answer": "Để báo hiệu cho các phương tiện khác biết và tránh va chạm."
+    },
+    {
+      "question": "Khi vào cua tốc độ cao cần thao tác thế nào với vô lăng?",
+      "answer": "Kéo và trả lái nhẹ nhàng."
+    },
+    {
+      "question": "Phanh động cơ có ưu điểm gì so với phanh chân?",
+      "answer": "Giảm tốc từ từ, không gây nóng phanh."
+    },
+    {
+      "question": "Tại sao phải tăng ga trước khi tăng số?",
+      "answer": "Để động cơ đủ lực kéo khi chuyển sang số cao hơn."
+    },
+    {
+      "question": "Tại sao cần cài dây an toàn khi lái xe?",
+      "answer": "Để bảo vệ người lái và hành khách khi xảy ra va chạm."
+    },
+    {
+      "question": "Khi chuẩn bị tiến ra khỏi chỗ đỗ ngang, người lái cần quan sát an toàn bằng cách nào?",
+      "answer": "Quan sát gương chiếu hậu và quay đầu nhìn trực tiếp."
+    },
+    {
+      "question": "Vì sao cần kiểm tra gương chiếu hậu và cửa kính trước khi đi?",
+      "answer": "Để đảm bảo tầm nhìn và an toàn khi điều khiển xe."
+    },
+    {
+      "question": "Vì sao nên tắt điều hòa khi đi qua ngập?",
+      "answer": "Để giảm tải động cơ và tránh hỏng quạt gió."
+    },
+    {
+      "question": "Trên đường trơn trượt, lái xe nên dùng số nào?",
+      "answer": "Dùng số thấp để kiểm soát tốc độ."
+    },
+    {
+      "question": "Khi tăng số có cần đạp hết ly hợp không?",
+      "answer": "Có, để tránh kẹt số và mòn hộp số."
+    }
+  ]
+}

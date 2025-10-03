@@ -9,9 +9,7 @@ from datetime import datetime
 from load_data import load_corpus
 from model_semantic import SemanticSearcher
 from bm25 import BM25
-from model_llm import build_llm, generate_answer
-# removed: from chat_memory import build_memory_chain
-
+from model_llm import build_llm, generate_answer, build_prompt_direct, STOP_TOKENS
 
 # ================= Pretty printing =================
 def _term_width(default: int = 100) -> int:
@@ -35,19 +33,19 @@ def _clean_answer(s: str) -> str:
     s = (s or "").strip()
     
     # Loại bỏ các ký tự encoding lỗi ngay từ đầu
-    import re
+    s = s.encode('utf-8', 'ignore').decode('utf-8')
     s = re.sub(r'[^\x00-\x7F\u00C0-\u024F\u1E00-\u1EFF]', '', s)  # Chỉ giữ ASCII + Vietnamese
     
     # Loại bỏ "cộng cộng" và patterns tương tự
     s = re.sub(r'\bcộng\s+cộng\b', '', s, flags=re.IGNORECASE)
-    s = re.sub(r'\b(\w+)\s+\1\b', r'\1', s)  # Loại bỏ từ lặp: "cộng cộng" -> "cộng"
+    s = re.sub(r'\b(\w+)\s+\1\b', r'\1', s)  # Loại bỏ từ lặp
     
     # Loại bỏ ký tự replacement và lạ
-    s = re.sub(r'[�□◊▪▫•‰…]', '', s)  # Ký tự replacement
+    s = re.sub(r'[�□◊▪▫•‰…]', '', s)
     s = re.sub(r'[^\w\s\u00C0-\u024F\u1E00-\u1EFF.,!?():;"\'-]', '', s)
     
     # Loại bỏ ký tự lặp bất thường
-    s = re.sub(r'(.)\1{3,}', r'\1', s)  # aa aa aa -> a
+    s = re.sub(r'(.)\1{3,}', r'\1', s)
     
     # Loại bỏ nhiều newlines liên tiếp
     while "\n\n\n" in s: s = s.replace("\n\n\n", "\n\n")
@@ -55,20 +53,20 @@ def _clean_answer(s: str) -> str:
     # Làm sạch khoảng trắng
     s = re.sub(r'\s+', ' ', s).strip()
     
-    # Loại bỏ các từ ngữ không có nghĩa
+    # Loại bỏ các từ ngữ không có nghĩa (ít strict hơn)
     meaningless_patterns = [
-        r'\b[a-zA-Z]{1,2}\b',  # Từ quá ngắn
-        r'\b\d{5,}\b',         # Số quá dài
-        r'\b[^\w\s]{2,}\b'     # Ký tự đặc biệt liên tiếp
+        r'\b[a-zA-Z]{1}\b',        # Chỉ từ 1 ký tự (không phải 2)
+        r'\b\d{8,}\b',             # Số rất dài (không phải 5)
+        r'\b[^\w\s]{3,}\b'         # Ký tự đặc biệt liên tiếp (không phải 2)
     ]
     for pattern in meaningless_patterns:
         s = re.sub(pattern, '', s)
     
     s = re.sub(r'\s+', ' ', s).strip()
     
-    # Nếu quá ngắn hoặc chỉ chứa ký tự lặp
-    if len(s) < 5 or len(set(s.replace(' ', ''))) < 3:
-        return "Thông tin chưa đủ để trả lời."
+    # Kiểm tra garbled ít strict hơn
+    if len(s) < 3 or len(set(s.replace(' ', ''))) < 3:  # Giảm từ 5 xuống 3
+        return None  # Trả về None để trigger retry
     
     return s
 
@@ -103,6 +101,7 @@ def _tok(s: str) -> List[str]:
 def clean_text(s: str) -> str:
     if not s: return ""
     s = unicodedata.normalize("NFC", s).lower()
+    s = s.encode('utf-8', 'ignore').decode('utf-8')
     s = re.sub(r"[^a-z0-9\u00c0-\u024f\u1e00-\u1eff\s]", " ", s)
     s = re.sub(r"\s+", " ", s).strip()
     return s
@@ -149,7 +148,6 @@ def _context_relevance_score(question: str, context: str) -> float:
     if not question_words:
         return 0.0
     
-    # Tính overlap ratio
     overlap = len(question_words & context_words)
     return overlap / len(question_words)
 
@@ -234,7 +232,8 @@ def _build_bm25_only_block(records: List[Dict[str, Any]], bm25_hits: List[Dict[s
 def _print_top3_bm25_QA(records: List[Dict[str, Any]], bm25_hits: List[Dict[str, Any]]):
     lines = []
     for i, h in enumerate(bm25_hits[:3], 1):
-        r = records[h["rid"]]; q, a = _extract_q_and_a(r)
+        r = records[h["rid"]]
+        q, a = _extract_q_and_a(r)
         if q or a:
             prev_q = (q or "").replace("\n", " ")
             prev_a = (a or "").replace("\n", " ")
@@ -254,49 +253,31 @@ def _print_top3_bm25_QA(records: List[Dict[str, Any]], bm25_hits: List[Dict[str,
 # ================= Main =================
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--embed-root", type=str, default="embed_data")
+    ap.add_argument("--embed-root", type=str, default="D:\AI.LLM-khanh-no_rrf\embed_data")
     ap.add_argument("--channels", nargs="+", default=["dialogue","lesson"])
-
-    # qa600.json (BM25-only)
     ap.add_argument("--qa600-path", type=str, default="data/qa600.json")
     ap.add_argument("--qa600-topn", type=int, default=3)
     ap.add_argument("--qa600-thr", type=float, default=0.90)
-
-    # Semantic (embed)
     ap.add_argument("--model-id", type=str, default=os.getenv("EMB_MODEL","AITeamVN/Vietnamese_Embedding"))
     ap.add_argument("--device", type=str, default="cpu", choices=["cpu", "cuda", "auto"])
-
-    # Retrieval - Giảm để tăng tốc độ
-    ap.add_argument("--topk", type=int, default=2)           # Giảm xuống 2
-    ap.add_argument("--bm25-topn", type=int, default=2)      # Giảm xuống 2 
+    ap.add_argument("--topk", type=int, default=3)  # Giảm từ 5 xuống 3 cho tốc độ
+    ap.add_argument("--bm25-topn", type=int, default=3)  # Giảm từ 5 xuống 3 cho tốc độ
     ap.add_argument("--bm25-k1", type=float, default=1.5)
     ap.add_argument("--bm25-b", type=float, default=0.75)
-    ap.add_argument("--sem-limit", type=int, default=3)      # Giảm xuống 3
-
-    # LLM - Tối ưu cho tốc độ (greedy decode)
+    ap.add_argument("--sem-limit", type=int, default=2)  # Giảm từ 3 xuống 2
     ap.add_argument("--llm-off", action="store_true")
-    ap.add_argument("--llm-model-id", type=str, default=os.getenv("LLM_MODEL_ID", r"D:\AI.LLM-khanh-no_rrf\models\PhoGPT-4B"))  # Use original model
-    ap.add_argument("--llm-temp", type=float, default=float(os.getenv("LLM_TEMP","0.0")))  # 0.0 cho greedy pure
-    ap.add_argument("--llm-max-new", type=int, default=32, help="Max tokens sinh ra (cân bằng tốc độ vs chất lượng)")  # Tăng lên 32
-    ap.add_argument("--use-onnx", action="store_true", help="Sử dụng ONNX Runtime để tăng tốc")  # ONNX option
-
-    # Context - Tối ưu cho tốc độ và tránh garbled text
-    ap.add_argument("--ctx-topn", type=int, default=1)       # Giảm xuống 1 để tránh nhiễu
-    ap.add_argument("--ctx-max-chars", type=int, default=300) # Giảm xuống 300 chars
-    ap.add_argument("--ctx-join-window", type=int, default=0) # Tắt join để nhanh hơn
-
-    # Thresholds
-    ap.add_argument("--thr-warn", type=float, default=0.5)
-
-    # Query gate
+    ap.add_argument("--llm-model-id", type=str, default=os.getenv("LLM_MODEL_ID", r"D:\AI.LLM-khanh-no_rrf\models\phogpt4b-ft-merged"))
+    ap.add_argument("--llm-temp", type=float, default=0.3)  # Tăng từ 0.1 lên 0.3 cho output tự nhiên hơn
+    ap.add_argument("--llm-max-new", type=int, default=48)  # Giảm từ 64 xuống 48 cho tốc độ
+    ap.add_argument("--use-onnx", action="store_true")
+    ap.add_argument("--ctx-topn", type=int, default=1)  # Giảm từ 2 xuống 1 cho context ngắn gọn hơn
+    ap.add_argument("--ctx-max-chars", type=int, default=400)  # Giảm từ 500 xuống 400
+    ap.add_argument("--ctx-join-window", type=int, default=0)
+    ap.add_argument("--thr-warn", type=float, default=0.4)  # Giảm từ 0.5 xuống 0.4
     ap.add_argument("--min-query-chars", type=int, default=4)
     ap.add_argument("--min-keyword-len", type=int, default=2)
-
-    # Debug
     ap.add_argument("--no-print-prompt", action="store_true")
     ap.add_argument("--max-preview-len", type=int, default=180)
-
-    # One shot
     ap.add_argument("--once", type=str, default=None)
 
     args = ap.parse_args()
@@ -342,17 +323,16 @@ def main():
     llm = None
     if not args.llm_off:
         try:
-            # Kiểm tra environment variable cho ONNX
             use_onnx = args.use_onnx or os.getenv("USE_ONNX", "0") == "1"
-            
             llm = build_llm(
-                args.llm_model_id, 
-                None, 
-                args.llm_temp, 
-                device="cpu",
+                model_path_or_id=args.llm_model_id,
+                host=None,
+                temperature=args.llm_temp,
+                device=args.device,
                 use_onnx=use_onnx,
                 max_new_tokens=args.llm_max_new
             )
+            print(_box("LLM", f"Model: {args.llm_model_id}\nDevice: {args.device}\nTemp: {args.llm_temp}\nMax new: {args.llm_max_new}"))
         except Exception as e:
             print(_box("LLM", f"Không khởi tạo được model tại {args.llm_model_id}. Lỗi: {e}"))
 
@@ -404,7 +384,6 @@ def main():
                 blocks = [ (records[h["rid"]].get("text") or "")[:900] for h in ctx_ids ]
             context_text = _build_context_block_from_hits(blocks, args.ctx_topn, 700, args.ctx_max_chars)
 
-            # chèn BM25-hints vào context để "bm25 prompt"
             hints = _build_bm25_hints_block(records, bm_hits, max_chars_per_item=160)
             if hints.strip():
                 context_text = context_text + "\n\n[BÍ KÍP BM25]\n" + hints
@@ -413,59 +392,83 @@ def main():
                 print(_box("CONTEXT (SEMANTIC)", context_text or "(rỗng)"))
 
             try:
-                answer = generate_answer(llm, q, context_text, max_new_tokens=args.llm_max_new, temperature=args.llm_temp)
+                answer = generate_answer(llm, q, context_text, temperature=args.llm_temp)
+                answer = _clean_answer(answer)
+                if answer is None:
+                    print("🔄 Answer garbled, thử kiến thức chung...")
+                    direct_prompt = build_prompt_direct(q)
+                    answer = llm.generate(direct_prompt, stop=STOP_TOKENS)
+                    answer = _clean_answer(answer) or "Thông tin chưa đủ để trả lời chính xác."
             except Exception as e:
                 print(_box("TRẢ LỜI", f"[LLM ERROR] {e}")); return
 
             warn = "" if mx >= args.thr_warn else "(Lưu ý: căn cứ chưa mạnh/độ tự tin chưa cao.)\n"
-            print(_box("TRẢ LỜI (CHẮC CHẮN)", warn + (_clean_answer(answer) or "Thông tin chưa đủ."))); print(); return
+            print(_box("TRẢ LỜI (CHẮC CHẮN)", warn + (answer or "Thông tin chưa đủ."))); print(); return
 
         # --- semantic < 0.5 ---
         if not bm_hits:
             print(_box("KẾT LUẬN", "Không tìm thấy căn cứ đủ mạnh (semantic < 0.5) và không có gợi ý từ BM25.")); print(); return
 
-        # Fallback: dùng BM25 tham khảo + in 3 Q/A
         _print_top3_bm25_QA(records, bm_hits)
         bm25_block = _build_bm25_only_block(records, bm_hits, topn=3, max_chars=700)
         
-        # THÊM: Kiểm tra context có liên quan không
         relevance = _context_relevance_score(q, bm25_block)
         print(f"🎯 Context relevance: {relevance:.2f}")
         
-        if relevance < 0.2:  # Context quá không liên quan
-            print("❌ Context không liên quan, trả lời từ kiến thức chung...")
+        if relevance < 0.2:  # Giảm từ 0.25 xuống 0.2 để cho model nhiều cơ hội dùng context hơn
+            print("❌ Context không liên quan đủ, trả lời từ kiến thức chung...")
             try:
-                from model_llm import build_prompt_direct
                 direct_prompt = build_prompt_direct(q)
-                answer = llm.generate(direct_prompt, stop=None)
+                answer = llm.generate(direct_prompt, stop=STOP_TOKENS)
                 answer = _clean_answer(answer)
-                if answer and len(answer) > 10:
-                    msg = "(Trả lời từ kiến thức chung - vui lòng kiểm chứng.)\n" + answer
-                    print(_box("TRẢ LỜI (KIẾN THỨC CHUNG)", msg)); print(); return
+                if answer is None or len(answer) < 10:
+                    answer = "Thông tin chưa đủ để trả lời chính xác."
+                msg = "(Trả lời từ kiến thức chung - vui lòng kiểm chứng.)\n" + answer
+                print(_box("TRẢ LỜI (KIẾN THỨC CHUNG)", msg)); print(); return
             except Exception as e:
                 print(f"❌ Lỗi kiến thức chung: {e}")
+                print(_box("TRẢ LỜI (KIẾN THỨC CHUNG)", "Thông tin chưa đủ để trả lời chính xác.")); print(); return
 
         if not args.no_print_prompt:
             print(_box("CONTEXT (BM25-ONLY)", bm25_block or "(rỗng)"))
 
         try:
-            answer = generate_answer(llm, q, bm25_block, max_new_tokens=args.llm_max_new, temperature=max(0.1, args.llm_temp*0.9))
+            # Adaptive temperature based on context relevance - Điều chỉnh cho model mới
+            adaptive_temp = args.llm_temp
+            if relevance >= 0.5:
+                adaptive_temp = max(0.1, args.llm_temp * 0.6)   # Giảm nhiều hơn khi context rất tốt
+            elif relevance >= 0.3:
+                adaptive_temp = max(0.2, args.llm_temp * 0.8)   # Giảm vừa phải khi context tốt
+            else:
+                adaptive_temp = min(0.5, args.llm_temp * 1.2)   # Tăng nhẹ khi context yếu
             
-            # THÊM: Nếu answer không có ý nghĩa, thử trả lời trực tiếp từ kiến thức
-            if not answer or answer.strip() in ["Thông tin không đủ rõ ràng để trả lời.", "Thông tin chưa đủ để trả lời chính xác.", "Xin lỗi, tôi không thể trả lời câu hỏi này."]:
-                print("🔄 Context không phù hợp, thử trả lời từ kiến thức chung...")
-                from model_llm import build_prompt_direct
+            print(f"🌡️  Adaptive temperature: {adaptive_temp:.3f} (relevance: {relevance:.2f})")
+            
+            # Enhanced prompt cho model merged mới
+            prompt = f"Thông tin tham khảo:\n{bm25_block}\n\nCâu hỏi: {q}\nHướng dẫn: Dựa vào thông tin trên để trả lời. Nếu thông tin không đủ, hãy trả lời ngắn gọn dựa trên kiến thức."
+            
+            # Set temperature for this specific generation
+            if hasattr(llm, 'set_params'):
+                llm.set_params(temperature=adaptive_temp)
+            
+            answer = llm.generate(prompt, stop=STOP_TOKENS)
+            answer = _clean_answer(answer)
+            
+            # Fallback logic được điều chỉnh cho model mới
+            if answer is None or len(answer.strip()) < 5:  # Tăng từ 3 lên 5 để đảm bảo chất lượng
+                print("🔄 Câu trả lời quá ngắn, thử trả lời từ kiến thức chung...")
                 direct_prompt = build_prompt_direct(q)
-                answer = llm.generate(direct_prompt, stop=None)  # Không dùng STOP_TOKENS để tự nhiên hơn
+                answer = llm.generate(direct_prompt, stop=STOP_TOKENS)
                 answer = _clean_answer(answer)
-                if answer and len(answer) > 10:  # Nếu có câu trả lời tốt
-                    msg = "(Trả lời từ kiến thức chung - vui lòng kiểm chứng.)\n" + answer
-                    print(_box("TRẢ LỜI (KIẾN THỨC CHUNG)", msg)); print(); return
+                if answer is None or len(answer) < 8:  # Tăng từ 5 lên 8
+                    answer = "Thông tin chưa đủ để trả lời chính xác."
+                msg = "(Trả lời từ kiến thức chung - vui lòng kiểm chứng.)\n" + answer
+                print(_box("TRẢ LỜI (KIẾN THỨC CHUNG)", msg)); print(); return
             
         except Exception as e:
             print(_box("TRẢ LỜI (THAM KHẢO)", f"[LLM ERROR] {e}")); return
 
-        msg = "(Tham khảo từ BM25 — vui lòng kiểm chứng.)\n" + (_clean_answer(answer) or "Thông tin chưa đủ để kết luận chính xác.")
+        msg = "(Tham khảo từ BM25 — vui lòng kiểm chứng.)\n" + (answer or "Thông tin chưa đủ để kết luận chính xác.")
         print(_box("TRẢ LỜI (THAM KHẢO)", msg)); print()
 
     # Run once / REPL
@@ -483,4 +486,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-   

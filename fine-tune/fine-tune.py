@@ -236,7 +236,5 @@ def main():
 
 
 if __name__ == "__main__":
-    # Khuyên set thêm:
-    # export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
-    # export TOKENIZERS_PARALLELISM=false
+
     main()

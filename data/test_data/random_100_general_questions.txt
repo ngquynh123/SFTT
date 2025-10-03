@@ -1,0 +1,288 @@
+100 CÂU HỎI NGẪU NHIÊN ĐA CHỦ ĐỀ
+==================================================
+
+
+--- GIAI TRI ---
+  1. Sách hay phim thú vị hơn?
+
+--- CONG NGHE ---
+  2. Internet đã thay đổi thế giới như thế nào?
+
+--- SUC KHOE ---
+  3. Bạn có tập thể dục thường xuyên không?
+
+--- THIEN NHIEN ---
+  4. Núi lửa có nguy hiểm không?
+
+--- SUC KHOE ---
+  5. Bạn có hay bị đau đầu không?
+  6. Bạn ngủ mấy tiếng mỗi ngày?
+
+--- THIEN NHIEN ---
+  7. Đại dương hay núi rừng hấp dẫn hơn?
+
+--- CONG NGHE ---
+  8. Cryptocurrency có phải là tương lai?
+
+--- SUC KHOE ---
+  9. Thiền có giúp giảm stress?
+
+--- VAN HOA XA HOI ---
+ 10. Bạn thích kiến trúc cổ hay hiện đại?
+ 11. Bạn nghĩ gì về văn hóa phương Tây?
+
+--- DU LICH ---
+ 12. Bạn có thích chụp ảnh du lịch không?
+
+--- THIEN NHIEN ---
+ 13. Biển có bị ô nhiễm nghiêm trọng?
+
+--- VAN HOA XA HOI ---
+ 14. Bạn có tin vào số phận không?
+
+--- DU LICH ---
+ 15. Quốc gia nào bạn muốn đến nhất?
+
+--- CONG NGHE ---
+ 16. Bạn có sợ robot không?
+
+--- GIAI TRI ---
+ 17. Nhạc Việt hay nhạc nước ngoài?
+
+--- DU LICH ---
+ 18. Du lịch bụi có an toàn không?
+
+--- THIEN NHIEN ---
+ 19. Bạn có lo về biến đổi khí hậu không?
+
+--- DU LICH ---
+ 20. Khách sạn hay homestay tốt hơn?
+
+--- CUOC SONG HANG NGAY ---
+ 21. Loại nhạc nào bạn thích nghe?
+
+--- VAN HOA XA HOI ---
+ 22. Tôn giáo có vai trò gì trong xã hội?
+ 23. Gia đình có quan trọng không?
+
+--- CUOC SONG HANG NGAY ---
+ 24. Công việc mơ ước của bạn là gì?
+
+--- DU LICH ---
+ 25. Bạn thích mang về quà gì khi du lịch?
+
+--- CONG NGHE ---
+ 26. Bạn có lo về bảo mật dữ liệu không?
+
+--- SUC KHOE ---
+ 27. Bạn thích tập gym hay chạy bộ?
+
+--- CUOC SONG HANG NGAY ---
+ 28. Món ăn yêu thích của bạn là gì?
+
+--- GIAI TRI ---
+ 29. Game online hay offline hay hơn?
+
+--- VAN HOA XA HOI ---
+ 30. Truyền thống nào của Việt Nam bạn yêu thích?
+
+--- GIAI TRI ---
+ 31. Bạn thích xem thể thao nào?
+
+--- CONG NGHE ---
+ 32. 5G có thực sự cần thiết không?
+
+--- SUC KHOE ---
+ 33. Yoga có tốt cho sức khỏe?
+
+--- CUOC SONG HANG NGAY ---
+ 34. Sở thích của bạn là gì?
+
+--- SUC KHOE ---
+ 35. Bạn có ăn chay không?
+
+--- GIAI TRI ---
+ 36. Ca sĩ nào bạn nghe nhiều nhất?
+
+--- DU LICH ---
+ 37. Túi xách hay vali tiện hơn?
+
+--- SUC KHOE ---
+ 38. Stress có ảnh hưởng đến sức khỏe?
+
+--- VAN HOA XA HOI ---
+ 39. Phụ nữ và nam giới có bình đẳng chưa?
+
+--- THIEN NHIEN ---
+ 40. Bạn có muốn sống gần thiên nhiên?
+ 41. Thiên nhiên có cần được bảo vệ?
+
+--- VAN HOA XA HOI ---
+ 42. Nghệ thuật có cần thiết trong đời sống?
+
+--- GIAI TRI ---
+ 43. Bạn thích đọc truyện tranh không?
+
+--- SUC KHOE ---
+ 44. Fast food có hại như người ta nói?
+
+--- VAN HOA XA HOI ---
+ 45. Bạn có thích tìm hiểu văn hóa nước khác không?
+
+--- SUC KHOE ---
+ 46. Nước có quan trọng như thế nào?
+ 47. Sức khỏe tinh thần có quan trọng?
+
+--- GIAI TRI ---
+ 48. Nghệ sĩ nào bạn thần tượng?
+
+--- VAN HOA XA HOI ---
+ 49. Lễ hội nào bạn thích nhất?
+
+--- THIEN NHIEN ---
+ 50. Mùa mưa hay nắng dễ chịu hơn?
+ 51. Bạn có sợ động vật hoang dã không?
+
+--- CUOC SONG HANG NGAY ---
+ 52. Bạn thường dậy lúc mấy giờ?
+
+--- VAN HOA XA HOI ---
+ 53. Giáo dục có đang thay đổi?
+
+--- THIEN NHIEN ---
+ 54. Rừng Amazon có quan trọng không?
+
+--- SUC KHOE ---
+ 55. Bạn có hay thức khuya không?
+
+--- DU LICH ---
+ 56. Mùa nào thích hợp du lịch nhất?
+ 57. Du lịch trong nước hay nước ngoài?
+ 58. Bạn thích du lịch một mình hay theo nhóm?
+
+--- VAN HOA XA HOI ---
+ 59. Ngôn ngữ nào khó học nhất?
+
+--- CONG NGHE ---
+ 60. AI sẽ thay đổi cuộc sống như thế nào?
+
+--- THIEN NHIEN ---
+ 61. Loài hoa nào đẹp nhất?
+
+--- CUOC SONG HANG NGAY ---
+ 62. Bạn thích mùa nào trong năm?
+
+--- SUC KHOE ---
+ 63. Vitamin có cần thiết không?
+
+--- CONG NGHE ---
+ 64. Laptop hay desktop tốt hơn?
+
+--- GIAI TRI ---
+ 65. TikTok có ảnh hưởng gì đến giới trẻ?
+
+--- SUC KHOE ---
+ 66. Bạn có đi khám sức khỏe định kỳ?
+
+--- DU LICH ---
+ 67. Guide tour có cần thiết không?
+
+--- CONG NGHE ---
+ 68. Bạn thích iOS hay Android?
+ 69. Smartwatch có hữu ích không?
+
+--- CUOC SONG HANG NGAY ---
+ 70. Thời tiết hôm nay như thế nào?
+
+--- GIAI TRI ---
+ 71. Bạn có biết chơi nhạc cụ không?
+
+--- CUOC SONG HANG NGAY ---
+ 72. Bạn có nuôi thú cưng không?
+
+--- SUC KHOE ---
+ 73. Bạn có thích massage không?
+
+--- CONG NGHE ---
+ 74. Mạng xã hội nào bạn dùng nhiều nhất?
+ 75. Công nghệ VR có tương lai không?
+
+--- DU LICH ---
+ 76. Bạn có muốn sống ở nước ngoài?
+
+--- VAN HOA XA HOI ---
+ 77. Âm nhạc truyền thống có còn giá trị?
+
+--- CONG NGHE ---
+ 78. Bạn có tin vào xe tự lái không?
+ 79. Smartphone đầu tiên bạn dùng là gì?
+ 80. Game yêu thích của bạn là gì?
+
+--- VAN HOA XA HOI ---
+ 81. Thế hệ trẻ có khác thế hệ trước?
+
+--- GIAI TRI ---
+ 82. Bạn có thích đi concert không?
+
+--- CUOC SONG HANG NGAY ---
+ 83. Bạn có thích xem phim không?
+
+--- GIAI TRI ---
+ 84. Phim hoạt hình có chỉ dành cho trẻ em?
+
+--- DU LICH ---
+ 85. Bạn có thích đi phượt không?
+
+--- THIEN NHIEN ---
+ 86. Động vật nào bạn thích nhất?
+ 87. Năng lượng tái tạo có khả thi không?
+
+--- GIAI TRI ---
+ 88. Thể loại phim nào bạn thích?
+
+--- THIEN NHIEN ---
+ 89. Thức ăn hữu cơ có tốt hơn?
+
+--- CUOC SONG HANG NGAY ---
+ 90. Bạn thường đọc sách không?
+
+--- DU LICH ---
+ 91. Du lịch có tốn kém không?
+
+--- VAN HOA XA HOI ---
+ 92. Bạn nghĩ gì về hôn nhân đồng giới?
+
+--- CUOC SONG HANG NGAY ---
+ 93. Bạn có thích nấu ăn không?
+
+--- THIEN NHIEN ---
+ 94. Bạn thích ngắm sao không?
+
+--- CUOC SONG HANG NGAY ---
+ 95. Màu sắc yêu thích của bạn là gì?
+
+--- CONG NGHE ---
+ 96. Bạn thích mua sắm online hay offline?
+
+--- CUOC SONG HANG NGAY ---
+ 97. Bạn có thích du lịch không?
+
+--- GIAI TRI ---
+ 98. Bạn có thích đi karaoke không?
+
+--- DU LICH ---
+ 99. Bạn có sợ đi máy bay không?
+
+--- CUOC SONG HANG NGAY ---
+100. Bạn thường làm gì vào cuối tuần?
+
+
+==================================================
+THỐNG KÊ THEO CHỦ ĐỀ:
+- Giai Tri: 13 câu (13.0%)
+- Cong Nghe: 15 câu (15.0%)
+- Suc Khoe: 15 câu (15.0%)
+- Thien Nhien: 14 câu (14.0%)
+- Van Hoa Xa Hoi: 15 câu (15.0%)
+- Du Lich: 14 câu (14.0%)
+- Cuoc Song Hang Ngay: 14 câu (14.0%)

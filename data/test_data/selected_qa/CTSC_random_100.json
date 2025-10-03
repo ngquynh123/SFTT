@@ -1,0 +1,406 @@
+{
+  "subject": "CTSC",
+  "total_selected": 100,
+  "qa_pairs": [
+    {
+      "question": "Khi phát hiện chảy dầu ở thước lái, người lái nên làm gì?",
+      "answer": "Đưa xe đến cơ sở sửa chữa để khắc phục."
+    },
+    {
+      "question": "Dầu bôi trơn sau khi làm việc sẽ đi đâu?",
+      "answer": "Rơi xuống các te và tiếp tục chu trình tuần hoàn."
+    },
+    {
+      "question": "Hệ thống lái dùng để làm gì?",
+      "answer": "Hệ thống lái giúp điều khiển hướng chuyển động của xe."
+    },
+    {
+      "question": "Biện pháp xử lý tổng quát khi động cơ không nổ là gì?",
+      "answer": "Kiểm tra ắc quy, hệ thống khởi động, bugi, kim phun và cảm biến."
+    },
+    {
+      "question": "Ô tô con phổ biến thường dùng động cơ nào?",
+      "answer": "Động cơ xăng, vì vận hành êm, ít rung."
+    },
+    {
+      "question": "Trong EFI, ai điều khiển quá trình phun nhiên liệu?",
+      "answer": "ECU (bộ điều khiển điện tử)."
+    },
+    {
+      "question": "Tại sao diesel khó khởi động khi trời lạnh?",
+      "answer": "Do nhiệt độ thấp, nhiên liệu khó tự cháy."
+    },
+    {
+      "question": "Động cơ quá nóng có thể gây hiện tượng gì trong động cơ xăng?",
+      "answer": "Gây cháy kích nổ."
+    },
+    {
+      "question": "Cảm biến trục cam hỏng gây hậu quả gì?",
+      "answer": "ECU không tính toán đúng thời điểm phun và đánh lửa, động cơ khó nổ."
+    },
+    {
+      "question": "Hệ thống bôi trơn trên động cơ ô tô có công dụng chính là gì?",
+      "answer": "Cung cấp dầu nhờn đến các bề mặt ma sát để giảm ma sát và mài mòn."
+    },
+    {
+      "question": "Cách xử lý chung khi hệ thống an toàn chủ động báo lỗi?",
+      "answer": "Đưa xe đến trạm bảo dưỡng để kiểm tra và sửa chữa."
+    },
+    {
+      "question": "Kim phun nhiên liệu hỏng có thể gây hiện tượng gì?",
+      "answer": "Động cơ khó khởi động hoặc không khởi động do thiếu nhiên liệu."
+    },
+    {
+      "question": "Ngắn mạch trong ắc quy gây hậu quả gì?",
+      "answer": "Ắc quy hỏng, không thể tích điện."
+    },
+    {
+      "question": "Đèn cảnh báo nhiệt độ thường có màu gì?",
+      "answer": "Màu đỏ."
+    },
+    {
+      "question": "Động cơ nhiều xi lanh có ưu điểm gì so với động cơ một xi lanh?",
+      "answer": "Công suất lớn hơn và hoạt động ổn định hơn."
+    },
+    {
+      "question": "Khói xanh lam từ ống xả thường do nguyên nhân nào?",
+      "answer": "Dầu động cơ lọt vào buồng đốt."
+    },
+    {
+      "question": "Dấu hiệu máy phát hỏng là gì?",
+      "answer": "Đèn báo nạp sáng, ắc quy không được nạp, điện áp thấp."
+    },
+    {
+      "question": "Hệ thống chiếu sáng trên ô tô có vai trò gì?",
+      "answer": "Giúp người lái quan sát, tăng khả năng nhận diện và đảm bảo an toàn khi di chuyển ban đêm."
+    },
+    {
+      "question": "Ắc quy ô tô có tác dụng gì?",
+      "answer": "Ắc quy cung cấp điện năng để khởi động động cơ và nuôi các thiết bị điện."
+    },
+    {
+      "question": "Động cơ V8 thường được dùng cho loại xe nào?",
+      "answer": "Xe thể thao và xe tải nặng."
+    },
+    {
+      "question": "Nhược điểm của hệ thống cơ khí là gì?",
+      "answer": "Khó điều chỉnh chính xác lượng phun, tiêu hao nhiên liệu và ô nhiễm cao."
+    },
+    {
+      "question": "Vòi phun điện tử khác vòi phun cơ khí ở điểm nào?",
+      "answer": "Vòi phun điện tử mở nhờ tín hiệu điện từ ECU, không chỉ cơ khí."
+    },
+    {
+      "question": "Có cần bật tắt đèn pha chủ động bằng tay không?",
+      "answer": "Không, hệ thống tự động điều chỉnh."
+    },
+    {
+      "question": "Dấu hiệu nào cho thấy hệ thống phanh gặp sự cố?",
+      "answer": "Đèn báo phanh, đèn ABS sáng, tiếng kêu két két khi phanh."
+    },
+    {
+      "question": "Bánh xe ô tô thường có cấu tạo thế nào?",
+      "answer": "Bánh xe gồm lốp và vành, lốp có thể là loại không săm hoặc có săm."
+    },
+    {
+      "question": "Đèn báo sắp hết nhiên liệu thường có màu gì?",
+      "answer": "Màu vàng hoặc cam."
+    },
+    {
+      "question": "Phun đơn điểm là gì?",
+      "answer": "Một vòi phun chung cho tất cả xi lanh."
+    },
+    {
+      "question": "Vì sao phải tháo lốp theo trình tự?",
+      "answer": "Để an toàn và tránh hư hỏng."
+    },
+    {
+      "question": "Cách xử lý chung khi hệ thống lái có sự cố?",
+      "answer": "Kiểm tra dầu trợ lực và đưa xe đến cơ sở sửa chữa."
+    },
+    {
+      "question": "Khi làm việc, dụng cụ phòng hộ phải đảm bảo ra sao?",
+      "answer": "Phải đầy đủ và đúng quy định an toàn."
+    },
+    {
+      "question": "Cách xử lý tiếng kêu cót két khi đánh lái?",
+      "answer": "Thay rô tuyn, khớp láp hỏng."
+    },
+    {
+      "question": "Máy phát điện thường được truyền động bằng gì?",
+      "answer": "Bằng dây curoa nối từ trục khuỷu động cơ."
+    },
+    {
+      "question": "Vòi phun diesel bị rò rỉ gây hậu quả gì?",
+      "answer": "Hao nhiên liệu, khói đen, máy rung."
+    },
+    {
+      "question": "Máy khởi động gồm các bộ phận chính nào?",
+      "answer": "Rơ-le khởi động, mô-tơ điện và bánh răng truyền động."
+    },
+    {
+      "question": "Khói trắng dày khi xe nổ máy có ý nghĩa gì?",
+      "answer": "Dầu làm mát lọt vào buồng đốt."
+    },
+    {
+      "question": "Nhiên liệu diesel có độ bay hơi cao hay thấp?",
+      "answer": "Thấp hơn xăng."
+    },
+    {
+      "question": "Cách xử lý hộp số bị rò rỉ dầu là gì?",
+      "answer": "Thay phớt chặn dầu hoặc gioăng mới."
+    },
+    {
+      "question": "Tiếng kêu lạch cạch khi bật điều hòa thường do đâu?",
+      "answer": "Cánh quạt cabin hoặc dàn nóng vướng bụi, dị vật."
+    },
+    {
+      "question": "Ô tô con thường có bao nhiêu chỗ ngồi?",
+      "answer": "Ô tô con thường có từ 4 đến 9 chỗ ngồi."
+    },
+    {
+      "question": "Khi bobin hỏng, động cơ có chạy được không?",
+      "answer": "Chạy nhưng không ổn định, có hiện tượng bỏ máy."
+    },
+    {
+      "question": "Nếu thiếu dầu hộp số, biện pháp khắc phục là gì?",
+      "answer": "Bổ sung hoặc thay dầu hộp số đúng loại."
+    },
+    {
+      "question": "Nếu thiếu nước làm mát, động cơ sẽ ra sao?",
+      "answer": "Nhanh chóng quá nhiệt và gây hỏng hóc."
+    },
+    {
+      "question": "Khi thao tác ở vị trí khuất có nên dùng tay không?",
+      "answer": "Không, phải dùng thiết bị chuyên dụng."
+    },
+    {
+      "question": "Nguyên nhân xe bị rung mạnh khi phanh?",
+      "answer": "Đĩa phanh cong hoặc lốp mất cân bằng."
+    },
+    {
+      "question": "Nguyên nhân thường gây nổ lốp trên cao tốc là gì?",
+      "answer": "Do chạy quá tốc độ hoặc áp suất không đúng."
+    },
+    {
+      "question": "Nguyên nhân xe dập dềnh nhiều khi chạy qua ổ gà?",
+      "answer": "Giảm xóc mất đàn hồi."
+    },
+    {
+      "question": "Khi động cơ nóng quá 80°C, nước sẽ đi theo đường nào?",
+      "answer": "Qua két làm mát để hạ nhiệt."
+    },
+    {
+      "question": "Vòi phun diesel phun nhiên liệu dưới dạng gì?",
+      "answer": "Dạng sương mù."
+    },
+    {
+      "question": "Dây curoa trượt phát ra tiếng gì?",
+      "answer": "Tiếng rít cao khi động cơ hoạt động."
+    },
+    {
+      "question": "Nếu nổ lốp khi xe đang chạy nhanh cần xử lý thế nào?",
+      "answer": "Giữ chặt vô lăng, không phanh gấp, từ từ giảm tốc."
+    },
+    {
+      "question": "Cách xử lý tiếng ù trong hệ thống lái?",
+      "answer": "Bổ sung dầu trợ lực hoặc thay bơm."
+    },
+    {
+      "question": "Động cơ chữ V có đặc điểm gì nổi bật?",
+      "answer": "Bố trí nhỏ gọn, công suất lớn."
+    },
+    {
+      "question": "Phanh đỗ khí nén hoạt động ra sao?",
+      "answer": "Dùng khí nén tác động lên bầu phanh để giữ bánh xe."
+    },
+    {
+      "question": "Động cơ nhiều xi lanh có nhược điểm gì?",
+      "answer": "Kết cấu phức tạp và chi phí sản xuất cao hơn."
+    },
+    {
+      "question": "Có mấy loại phanh chân chính?",
+      "answer": "Hai loại: phanh dẫn động bằng dầu và phanh khí nén."
+    },
+    {
+      "question": "Dấu hiệu hộp số sắp hỏng là gì?",
+      "answer": "Tiếng ồn, sang số khó, rung giật, rò rỉ dầu."
+    },
+    {
+      "question": "Hệ thống lái bao gồm những bộ phận chính nào?",
+      "answer": "Gồm cơ cấu lái và dẫn động lái."
+    },
+    {
+      "question": "Tại sao đèn báo ABS sáng khi đang lái xe?",
+      "answer": "Hệ thống ABS bị trục trặc hoặc cảm biến tốc độ bánh xe lỗi."
+    },
+    {
+      "question": "Thời điểm phun sớm hay muộn do ai quyết định trong common rail?",
+      "answer": "ECU quyết định."
+    },
+    {
+      "question": "Nguyên nhân chính khiến hộp số rò rỉ dầu là gì?",
+      "answer": "Do phớt chặn dầu hoặc gioăng hộp số bị hỏng."
+    },
+    {
+      "question": "Động cơ ô tô có thể dùng những loại nhiên liệu nào?",
+      "answer": "Xăng hoặc diesel."
+    },
+    {
+      "question": "Hơi xăng tiếp xúc trực tiếp mặt có hại gì?",
+      "answer": "Gây ngộ độc và kích ứng."
+    },
+    {
+      "question": "Cầu chì có chức năng gì?",
+      "answer": "Bảo vệ mạch điện khi quá dòng."
+    },
+    {
+      "question": "Đèn báo áp suất dầu sáng cho biết điều gì?",
+      "answer": "Dầu bôi trơn không đủ, có nguy cơ hỏng động cơ."
+    },
+    {
+      "question": "Tại sao hệ thống bôi trơn phải hoạt động liên tục?",
+      "answer": "Vì động cơ luôn sinh ra ma sát và nhiệt trong quá trình làm việc."
+    },
+    {
+      "question": "Chức năng chính của phanh đỗ là gì?",
+      "answer": "Giữ xe đứng yên khi dừng, đặc biệt trên dốc."
+    },
+    {
+      "question": "Trong kỳ nổ, điều gì xảy ra ở động cơ xăng?",
+      "answer": "Bugi đánh lửa, hỗn hợp cháy và đẩy piston xuống."
+    },
+    {
+      "question": "Người lái nên làm gì khi đèn cảnh báo kiểm tra động cơ sáng?",
+      "answer": "Đưa xe đi kiểm tra sớm để tránh hư hỏng nặng."
+    },
+    {
+      "question": "Tại sao vành hợp kim nhôm thường dùng cho xe con và thể thao?",
+      "answer": "Vì nhẹ, thẩm mỹ và giúp tản nhiệt tốt."
+    },
+    {
+      "question": "Cơ cấu ly hợp hỏng gây hậu quả gì?",
+      "answer": "Xe không truyền được lực ra bánh xe."
+    },
+    {
+      "question": "Khi gài số phát ra tiếng kêu 'cạch', có thể do đâu?",
+      "answer": "Ly hợp không cắt hết hoặc bánh răng mòn."
+    },
+    {
+      "question": "Xe bị rò rỉ dầu phanh có nguy hiểm không?",
+      "answer": "Rất nguy hiểm, dễ mất phanh đột ngột."
+    },
+    {
+      "question": "Nguyên nhân khiến điều hòa vừa bật đã có mùi ẩm mốc?",
+      "answer": "Do dàn lạnh tích tụ nước và vi khuẩn."
+    },
+    {
+      "question": "Rơ-le điều hòa hỏng gây hiện tượng gì?",
+      "answer": "Điều hòa không khởi động được."
+    },
+    {
+      "question": "Xe con thường sử dụng loại phanh chân nào?",
+      "answer": "Chủ yếu dùng phanh dầu."
+    },
+    {
+      "question": "Dấu hiệu nào cho biết động cơ ô tô gặp sự cố?",
+      "answer": "Đèn báo kiểm tra động cơ sáng, động cơ phát ra tiếng gõ lạ, hoặc có hiện tượng chảy dầu."
+    },
+    {
+      "question": "Chức năng của vòi phun điện tử là gì?",
+      "answer": "Phun nhiên liệu vào cổ hút theo tín hiệu ECU."
+    },
+    {
+      "question": "Khi tháo lốp cần làm gì trước?",
+      "answer": "Xả hết hơi và tháo theo trình tự."
+    },
+    {
+      "question": "Nếu hệ thống cung cấp nhiên liệu bị lỗi, động cơ có hoạt động bình thường không?",
+      "answer": "Không, vì thiếu hoặc thừa nhiên liệu đều làm động cơ yếu hoặc tắt."
+    },
+    {
+      "question": "Tại sao cần duy trì động cơ ở nhiệt độ làm việc ổn định?",
+      "answer": "Để đảm bảo hiệu suất cao và kéo dài tuổi thọ động cơ."
+    },
+    {
+      "question": "Khi lốp quá cứng hoặc quá mềm đều nguy hiểm thế nào?",
+      "answer": "Giảm độ bám đường và dễ gây tai nạn."
+    },
+    {
+      "question": "Ưu điểm lớn nhất của phun điện tử so với cơ khí là gì?",
+      "answer": "Kiểm soát chính xác thời điểm và lượng phun, tiết kiệm nhiên liệu."
+    },
+    {
+      "question": "Gioăng bị rách gây hiện tượng gì?",
+      "answer": "Dầu rò ra ngoài khoang động cơ."
+    },
+    {
+      "question": "Lốp liền săm thường dùng cho loại xe nào?",
+      "answer": "Xe ô tô con và xe thể thao."
+    },
+    {
+      "question": "Trong kỳ nổ, điều gì xảy ra ở động cơ diesel?",
+      "answer": "Nhiên liệu tự bốc cháy khi được phun vào buồng nén."
+    },
+    {
+      "question": "Điều hòa không mát hoặc mát yếu thường do nguyên nhân gì?",
+      "answer": "Do thiếu hoặc hết gas lạnh."
+    },
+    {
+      "question": "Cách xử lý tiếng rít khi cua gấp?",
+      "answer": "Cân chỉnh góc đặt bánh, thay lốp mòn."
+    },
+    {
+      "question": "Khi hệ thống thoát nước dàn lạnh tắc, xe có hiện tượng gì?",
+      "answer": "Nước rò trong cabin, gây mùi khó chịu."
+    },
+    {
+      "question": "Động cơ nhiều xi lanh giúp cải thiện yếu tố nào ngoài công suất?",
+      "answer": "Tăng độ ổn định, giảm rung lắc và tăng tuổi thọ động cơ."
+    },
+    {
+      "question": "Nguyên nhân vô lăng bị rung khi chạy tốc độ cao?",
+      "answer": "Lốp mất cân bằng hoặc hệ thống lái lỏng."
+    },
+    {
+      "question": "Nguyên nhân tiếng kêu lạ ở hệ thống treo?",
+      "answer": "Rô tuyn hoặc khớp nối mòn, cao su đệm hỏng."
+    },
+    {
+      "question": "Tại sao phải nhả khóa sau khi động cơ đã nổ?",
+      "answer": "Để ngắt máy khởi động, tránh hỏng bánh răng."
+    },
+    {
+      "question": "Dấu hiệu nào cho thấy hệ thống lái gặp sự cố?",
+      "answer": "Tay lái nặng, trả chậm, vô lăng bị rơ, phát tiếng kêu hoặc chảy dầu ở thước lái."
+    },
+    {
+      "question": "Hệ thống làm mát dầu hộp số hỏng gây hậu quả gì?",
+      "answer": "Nhiệt độ hộp số tăng cao."
+    },
+    {
+      "question": "Nhược điểm của phanh dầu là gì?",
+      "answer": "Nếu rò rỉ dầu sẽ mất tác dụng, không phù hợp xe tải nặng."
+    },
+    {
+      "question": "Trong hệ thống làm mát, két nước có cấu tạo như thế nào?",
+      "answer": "Gồm nhiều ống và lá tản nhiệt để tăng diện tích trao đổi nhiệt."
+    },
+    {
+      "question": "Khi phanh, xe bị lệch sang một bên do đâu?",
+      "answer": "Do lực phanh giữa các bánh không đều."
+    },
+    {
+      "question": "Xe tải, xe khách thường dùng loại trợ lực lái nào?",
+      "answer": "Chủ yếu là trợ lực lái thủy lực."
+    },
+    {
+      "question": "Nhược điểm chính của phun điện tử so với chế hòa khí là gì?",
+      "answer": "Cấu tạo phức tạp, khó sửa chữa, chi phí cao."
+    },
+    {
+      "question": "Nếu hệ thống ABS báo lỗi, có thể xảy ra hậu quả gì?",
+      "answer": "Bánh xe có thể bị khóa khi phanh gấp."
+    }
+  ]
+}
